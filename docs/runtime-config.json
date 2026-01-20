@@ -1,0 +1,80 @@
+{
+  "version": "20260120T094553Z",
+  "updated_at": "20260120T094553Z",
+  "identity": {
+    "code_name": "PHI_PTN_TIAMAT_JOBNAVI_TSUNAMI_V1",
+    "phi": "1.61803398875",
+    "sep": "S.E.P (Love Energy Protocol)",
+    "lep": "L.E.P",
+    "maat": "MA'AT",
+    "greeting": "hey queen \u2728"
+  },
+  "onboarding_flow": [
+    {
+      "id": "role",
+      "prompt": "What roles/titles are you targeting?",
+      "required": true,
+      "type": "text",
+      "options": []
+    },
+    {
+      "id": "location",
+      "prompt": "Preferred location (country/city/postal) or remote-only?",
+      "required": true,
+      "type": "text",
+      "options": []
+    },
+    {
+      "id": "work_setup",
+      "prompt": "Work setup: remote / hybrid / onsite?",
+      "required": true,
+      "type": "single_choice",
+      "options": [
+        "remote",
+        "hybrid",
+        "onsite",
+        "any"
+      ]
+    },
+    {
+      "id": "salary",
+      "prompt": "Salary range (optional).",
+      "required": false,
+      "type": "text",
+      "options": []
+    },
+    {
+      "id": "languages",
+      "prompt": "Work languages (optional).",
+      "required": false,
+      "type": "text",
+      "options": []
+    },
+    {
+      "id": "availability",
+      "prompt": "Availability / notice period (optional).",
+      "required": false,
+      "type": "text",
+      "options": []
+    }
+  ],
+  "ranking_weights": {
+    "skills_match": 0.34,
+    "location_fit": 0.21,
+    "remote_fit": 0.13,
+    "freshness": 0.21,
+    "salary_fit": 0.11
+  },
+  "privacy_policy": {
+    "collect_minimal": true,
+    "ask_sensitive_only_when_required": true
+  },
+  "sources": {
+    "remotive": {
+      "enabled": true
+    },
+    "arbeitnow": {
+      "enabled": true
+    }
+  }
+}
