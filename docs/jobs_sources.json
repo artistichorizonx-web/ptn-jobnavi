@@ -1,0 +1,15 @@
+{
+  "generated_at": "20260120T094552Z",
+  "sources": [
+    {
+      "id": "remotive",
+      "type": "public_api",
+      "url": "https://remotive.com/api/remote-jobs"
+    },
+    {
+      "id": "arbeitnow",
+      "type": "public_api",
+      "url": "https://www.arbeitnow.com/api/job-board-api"
+    }
+  ]
+}
