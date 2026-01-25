@@ -1,8 +1,34 @@
 {
-  "generated_at": "20260124T040748Z",
-  "count": 121,
+  "generated_at": "20260125T043212Z",
+  "count": 122,
   "errors": [],
   "jobs": [
+    {
+      "id": "remotive:2088613",
+      "source": "remotive",
+      "title": "Sr/Staff AI Engineer",
+      "company": "BNSF Railway",
+      "location": "USA",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/ai-ml/sr-staff-ai-engineer-2088613",
+      "posted_at": "2026-01-23T21:23:08",
+      "salary": "$165k - $300k",
+      "tags": [
+        "AWS",
+        "azure",
+        "cloud",
+        "data science",
+        "hadoop",
+        "java",
+        "python",
+        "sql",
+        "open source",
+        "AI/ML",
+        "automation",
+        "research"
+      ],
+      "snippet": "<p style=\"margin-bottom: 10px; line-height: 1.5; color: #4a4a4a;\"><span style=\"line-height: 1.5; list-style: inherit; max-width: 100%; background-color: transparent !important;\">The posted range for this position represents the amount <strong style=\"display: i"
+    },
     {
       "id": "remotive:2088608",
       "source": "remotive",
@@ -466,6 +492,770 @@
         "PPC"
       ],
       "snippet": "<p style=\"margin-bottom: 20px; padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-heig"
+    },
+    {
+      "id": "arbeitnow:praktikant-werkstudent-business-customer-growth-berlin-406371",
+      "source": "arbeitnow",
+      "title": "Praktikant-Werkstudent Business Customer Growth (m/w/d)",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/praktikant-werkstudent-business-customer-growth-berlin-406371",
+      "posted_at": 1769301914,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p style=\"line-height: 1.4;\">&nbsp;</p> <h3>Praktikant/Werkstudent Claim management (m/w/d)</h3> <h4 data-start=\"1128\" data-end=\"1352\"><strong data-renderer-mark=\"true\">Über die Rolle</strong></h4> <p>&nbsp;</p> <ul> <li>Du unterstützt unser Team bei strategis"
+    },
+    {
+      "id": "arbeitnow:unpaid-mandatory-internship-software-test-automation-engineer-berlin-or-remote-425794",
+      "source": "arbeitnow",
+      "title": "Unpaid Mandatory Internship, Software Test Automation Engineer, Berlin or remote",
+      "company": "IndieKidz GmbH",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-mandatory-internship-software-test-automation-engineer-berlin-or-remote-425794",
+      "posted_at": 1769297501,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Automation Engineering",
+        "Internship",
+        "professional / experienced"
+      ],
+      "snippet": "<p>Occibo Studio(occibo[dot]com) is an AI powered SaaS app for children’s book creation. We are looking for a student intern to build and maintain UI test automation so we can ship fast with confidence.</p> <p><strong>Location and mode</strong><br> Full remote"
+    },
+    {
+      "id": "arbeitnow:it-systemintegrator-serveradministrator-kiel-85890",
+      "source": "arbeitnow",
+      "title": "IT-Systemintegrator / Serveradministrator (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Kiel",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemintegrator-serveradministrator-kiel-85890",
+      "posted_at": 1769290324,
+      "salary": "",
+      "tags": [
+        "System and Network Administration",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Bei Kiel | Hybrid (ca. 50 % Homeoffice) | Vollzeit (35 Std.) | Unbefristet</strong></p> <p>Unser Klient ist ein <strong>etabliertes, tarifgebundenes Industrieunternehmen</strong> mit mehreren hundert Mitarbeitenden und einer modernen, produktionsnah"
+    },
+    {
+      "id": "arbeitnow:it-systemadministrator-fachinformatiker-schwerpunkt-it-security-sophos-hamburg-219983",
+      "source": "arbeitnow",
+      "title": "IT-Systemadministrator / Fachinformatiker (m/w/d) Schwerpunkt IT-Security & Sophos",
+      "company": "Intercon Solutions GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemadministrator-fachinformatiker-schwerpunkt-it-security-sophos-hamburg-219983",
+      "posted_at": 1769290323,
+      "salary": "",
+      "tags": [
+        "IT Security",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Im Hamburger Norden | Hybrid | Vollzeit | Unbefristet</strong></p> <p>Unser Klient ist die <strong>zentrale IT-Einheit einer wirtschaftlich starken, mittelständisch geprägten Unternehmensgruppe</strong> aus Norddeutschland. Mehrere Gesellschaften an"
+    },
+    {
+      "id": "arbeitnow:it-systemadministrator-fachinformatiker-norderstedt-129358",
+      "source": "arbeitnow",
+      "title": "IT-Systemadministrator / Fachinformatiker (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Norderstedt",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemadministrator-fachinformatiker-norderstedt-129358",
+      "posted_at": 1769290322,
+      "salary": "",
+      "tags": [
+        "System and Network Administration",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Im Hamburger Norden | Hybrid | Vollzeit | Unbefristet</strong></p> <p>Unser Klient ist die <strong>zentrale IT-Einheit einer wirtschaftlich starken Unternehmensgruppe</strong> aus dem norddeutschen Raum. Die Gruppe besteht aus mehreren mittelständis"
+    },
+    {
+      "id": "arbeitnow:it-system-engineer-schwerpunkt-storage-virtualisierung-berlin-450393",
+      "source": "arbeitnow",
+      "title": "IT-System Engineer (m/w/d) Schwerpunkt Storage & Virtualisierung",
+      "company": "Intercon Solutions GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-system-engineer-schwerpunkt-storage-virtualisierung-berlin-450393",
+      "posted_at": 1769288508,
+      "salary": "",
+      "tags": [
+        "System and Network Administration",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Berlin | Unbefristet | TV-L EG 11</strong></p> <p>Unser Klient ist eine <strong>große öffentliche Organisation in Berlin</strong> mit mehreren tausend Anwendern und einer <strong>komplexen, standortübergreifenden IT-Infrastruktur</strong>. Der Betri"
+    },
+    {
+      "id": "arbeitnow:senior-systemadministrator-it-leitung-stuttgart-325319",
+      "source": "arbeitnow",
+      "title": "Senior Systemadministrator / IT-Leitung (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/senior-systemadministrator-it-leitung-stuttgart-325319",
+      "posted_at": 1769279522,
+      "salary": "",
+      "tags": [
+        "System and Network Administration",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Standort Stuttgart | Remote-Anteil möglich | Vollzeit | Unbefristet</strong></p> <p>Unser Klient ist eine <strong>hoch spezialisierte, etablierte Kanzlei</strong> mit internationaler Ausrichtung. Die Mandanten reichen von innovativen mittelständisch"
+    },
+    {
+      "id": "arbeitnow:it-consultant-security-engineer-microsoft-security-infrastructure-cologne-87217",
+      "source": "arbeitnow",
+      "title": "IT-Consultant - Security Engineer (m/w/x) - Microsoft Security & Infrastructure",
+      "company": "Intercon Solutions GmbH",
+      "location": "Cologne",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-consultant-security-engineer-microsoft-security-infrastructure-cologne-87217",
+      "posted_at": 1769279521,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Consulting",
+        "Engineering",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Fully Remote möglich | Unbefristet</strong></p> <p>Unser Klient ist ein <strong>großer, etablierter IT-Dienstleister</strong> mit einem breiten Leistungsportfolio und mehreren spezialisierten Geschäftsbereichen. Für eine <strong>fokussierte Security"
+    },
+    {
+      "id": "arbeitnow:windows-systemadministrator-it-betrieb-und-2nd-level-nuremberg-218029",
+      "source": "arbeitnow",
+      "title": "Windows Systemadministrator (m/w/d) IT-Betrieb und 2nd-Level",
+      "company": "Intercon Solutions GmbH",
+      "location": "Nuremberg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/windows-systemadministrator-it-betrieb-und-2nd-level-nuremberg-218029",
+      "posted_at": 1769279520,
+      "salary": "",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "snippet": "<p>Unser Klient ist ein <strong>großer, etablierter IT-Dienstleister</strong> mit einem breiten Leistungsportfolio und mehreren spezialisierten Geschäftsbereichen. Für den <strong>operativen IT-Betrieb</strong> wird ein erfahrener <strong>Windows Administrator"
+    },
+    {
+      "id": "arbeitnow:it-consultant-datacenter-storage-cologne-178193",
+      "source": "arbeitnow",
+      "title": "IT-Consultant Datacenter & Storage",
+      "company": "Intercon Solutions GmbH",
+      "location": "Cologne",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-consultant-datacenter-storage-cologne-178193",
+      "posted_at": 1769279520,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Consulting",
+        "Engineering",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Fully Remote möglich | Unbefristet</strong></p> <p>Unser Klient ist ein <strong>großer, breit aufgestellter IT-Dienstleister</strong> mit mehreren spezialisierten Geschäftsbereichen. Für eine <strong>fokussierte Sparte im Bereich Datacenter, Storage"
+    },
+    {
+      "id": "arbeitnow:it-consultant-datacenter-storage-schwerpunkt-microsoft-active-directory-cologne-59031",
+      "source": "arbeitnow",
+      "title": "IT-Consultant Datacenter & Storage, Schwerpunkt: Microsoft Active Directory",
+      "company": "Intercon Solutions GmbH",
+      "location": "Cologne",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-consultant-datacenter-storage-schwerpunkt-microsoft-active-directory-cologne-59031",
+      "posted_at": 1769279519,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Consulting",
+        "Engineering",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Fully Remote möglich | Unbefristet</strong></p> <p>Unser Klient ist ein <strong>großer, etablierter IT-Dienstleister</strong> mit einem breiten Leistungsportfolio und mehreren spezialisierten Geschäftsbereichen. Gesucht wird ein IT-Consultant für ei"
+    },
+    {
+      "id": "arbeitnow:head-of-operations-finance-bi-berlin-49092",
+      "source": "arbeitnow",
+      "title": "Head of Operations & Finance/ BI (m/w/d)",
+      "company": "Flybaby GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/flybaby-gmbh/head-of-operations-finance-bi-berlin-49092",
+      "posted_at": 1769275934,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p>Wir sind ein kleines, dynamisches Unternehmen ( &#x3C; 10 Mitarbeitende) und wachsen weiter.</p> <p>Um unsere Prozesse professionell aufzusetzen und die nächsten Wachstumsschritte vorzubereiten, suchen wir zum nächstmöglichen Zeitpunkt einen <strong>**Leite"
+    },
+    {
+      "id": "arbeitnow:junior-web-developer-berlin-366569",
+      "source": "arbeitnow",
+      "title": "Junior Web Developer (m/w/d)",
+      "company": "FinMent GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-web-developer-berlin-366569",
+      "posted_at": 1769275933,
+      "salary": "",
+      "tags": [
+        "Web Development"
+      ],
+      "snippet": "<p><strong>Unsere Mission: “Lass Dein Geld noch effizienter für Dich arbeiten!”</strong></p> <p>Wir sind FinMent - ein schnell wachsendes, zweifach staatlich zertifiziertes FinTech Startup in Berlin. Wir demokratisieren das Wissen und den Zugang zur institutio"
+    },
+    {
+      "id": "arbeitnow:junior-full-stack-webentwickler-php-reactjs-berlin-12754",
+      "source": "arbeitnow",
+      "title": "Junior Full Stack Webentwickler (PHP / React.js) (m/w/d)",
+      "company": "FinMent GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-full-stack-webentwickler-php-reactjs-berlin-12754",
+      "posted_at": 1769275932,
+      "salary": "",
+      "tags": [
+        "Web Development"
+      ],
+      "snippet": "<p><strong>Unsere Mission: “Lass Dein Geld noch effizienter für Dich arbeiten!”</strong></p> <p>Wir sind FinMent - ein schnell wachsendes, zweifach staatlich zertifiziertes FinTech Startup in Berlin. Wir demokratisieren das Wissen und den Zugang zur institutio"
+    },
+    {
+      "id": "arbeitnow:trainee-trading-analyst-coach-berlin-490013",
+      "source": "arbeitnow",
+      "title": "Trainee Trading Analyst & Coach (m/w/d)",
+      "company": "FinMent GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/finment-gmbh/trainee-trading-analyst-coach-berlin-490013",
+      "posted_at": 1769274115,
+      "salary": "",
+      "tags": [
+        "Finance",
+        "Traineeship"
+      ],
+      "snippet": "<p><strong>Unsere Mission: “Lass Dein Geld noch effizienter für Dich arbeiten!”</strong></p> <p>Wir sind FinMent - ein schnell wachsendes, zweifach staatlich zertifiziertes FinTech Startup in Berlin. Wir demokratisieren das Wissen und den Zugang zur institutio"
+    },
+    {
+      "id": "arbeitnow:duales-studium-wirtschaftsinformatik-webentwickler-berlin-165928",
+      "source": "arbeitnow",
+      "title": "Duales Studium Wirtschaftsinformatik - Webentwickler (m/w/d)",
+      "company": "FinMent GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/finment-gmbh/duales-studium-wirtschaftsinformatik-webentwickler-berlin-165928",
+      "posted_at": 1769274114,
+      "salary": "",
+      "tags": [
+        "Web Development",
+        "Dual studies"
+      ],
+      "snippet": "<p><strong>Unsere Mission: “Lass Dein Geld noch effizienter für Dich arbeiten!”</strong></p> <p>Wir sind FinMent - ein schnell wachsendes, zweifach staatlich zertifiziertes FinTech Startup in Berlin. Wir demokratisieren das Wissen und den Zugang zur institutio"
+    },
+    {
+      "id": "arbeitnow:junior-investment-analyst-berlin-298008",
+      "source": "arbeitnow",
+      "title": "Junior Investment Analyst (m/w/d)",
+      "company": "FinMent GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-investment-analyst-berlin-298008",
+      "posted_at": 1769274113,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p><strong>Unsere Mission: “Lass Dein Geld noch effizienter für Dich arbeiten!”</strong></p> <p>Wir sind FinMent - ein schnell wachsendes, zweifach staatlich zertifiziertes FinTech Startup in Berlin. Wir demokratisieren das Wissen und den Zugang zur institutio"
+    },
+    {
+      "id": "arbeitnow:duales-studium-investment-analyst-trader-berlin-114661",
+      "source": "arbeitnow",
+      "title": "Duales Studium - Investment Analyst / Trader (m/w/d)",
+      "company": "FinMent GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/finment-gmbh/duales-studium-investment-analyst-trader-berlin-114661",
+      "posted_at": 1769274113,
+      "salary": "",
+      "tags": [
+        "Finance",
+        "Dual studies"
+      ],
+      "snippet": "<p><strong>Unsere Mission: “Lass Dein Geld noch effizienter für Dich arbeiten!”</strong></p> <p>Wir sind FinMent - ein schnell wachsendes, zweifach staatlich zertifiziertes FinTech Startup in Berlin. Wir demokratisieren das Wissen und den Zugang zur institutio"
+    },
+    {
+      "id": "arbeitnow:junior-online-marketing-berlin-44432",
+      "source": "arbeitnow",
+      "title": "Junior Online Marketing (m/w/d)",
+      "company": "FinMent GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-online-marketing-berlin-44432",
+      "posted_at": 1769274112,
+      "salary": "",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "snippet": "<p><strong>Unsere Mission: “Lass Dein Geld noch effizienter für Dich arbeiten!”</strong></p> <p>Wir sind FinMent - ein schnell wachsendes, zweifach staatlich zertifiziertes FinTech Startup in Berlin. Wir demokratisieren das Wissen und den Zugang zur institutio"
+    },
+    {
+      "id": "arbeitnow:controlling-business-analyst-hanover-347461",
+      "source": "arbeitnow",
+      "title": "Controlling & Business Analyst (m/w/d)",
+      "company": "Novemcore",
+      "location": "Hanover",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/novemcore/controlling-business-analyst-hanover-347461",
+      "posted_at": 1769266903,
+      "salary": "",
+      "tags": [
+        "Controlling",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Novemcore ist eine spezialisierte Beratung an der Schnittstelle von Finance &#x26; Controlling, Business Analytics und Transaktionen.</p> <p>Wir unterstützen Unternehmen sowie Private-Equity-Fonds in Investment-Kontexten dabei, Steuerungstransparenz herzust"
+    },
+    {
+      "id": "arbeitnow:cooler-software-architekt-tubingen-262633",
+      "source": "arbeitnow",
+      "title": "Cooler Software Architekt (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Tübingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/cooler-software-architekt-tubingen-262633",
+      "posted_at": 1769266902,
+      "salary": "",
+      "tags": [
+        "Software Development"
+      ],
+      "snippet": "<p><strong>Möchtest Du in einem Umfeld arbeiten, das Deine Expertise nicht nur respektiert, sondern exzellent vergütet?</strong><br> <strong>Liebst Du es, komplexe Softwarelösungen zu gestalten und mit den modernsten Tools zu arbeiten?</strong></p> <p>Hier tri"
+    },
+    {
+      "id": "arbeitnow:erfahrener-c-entwickler-bei-munchen-munich-185789",
+      "source": "arbeitnow",
+      "title": "Erfahrener C++ Entwickler (m/w/d) - bei München",
+      "company": "Intercon Solutions GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/erfahrener-c-entwickler-bei-munchen-munich-185789",
+      "posted_at": 1769266902,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p><strong>Hast Du Lust, an anspruchsvollen Softwarelösungen zu arbeiten, die wirklich etwas bewegen?</strong><br> <strong>Wünschst Du Dir einen Arbeitgeber, der Deine Erfahrung wertschätzt und Dir Freiraum für Deine Ideen gibt?</strong></p> <p>Wenn Du gerade "
+    },
+    {
+      "id": "arbeitnow:senior-c-entwickler-gesucht-munich-469328",
+      "source": "arbeitnow",
+      "title": "Senior C++ Entwickler gesucht (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/senior-c-entwickler-gesucht-munich-469328",
+      "posted_at": 1769265133,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Ein erfolgreicher Arbeitgeber, der den Global Playern Sicherheits - Softwarelösungen und oftmals deren direkte Implimentierung ermöglicht sucht Dich als Verstärkung. Herzlich, offen, sympathisch und professionell - so lässt sich Dein neuer Arbeitgeber treff"
+    },
+    {
+      "id": "arbeitnow:sympathischer-c-entwickler-gesucht-munich-270876",
+      "source": "arbeitnow",
+      "title": "Sympathischer C++ Entwickler gesucht (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/sympathischer-c-entwickler-gesucht-munich-270876",
+      "posted_at": 1769263297,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p><strong>Hast Du Lust auf spannende Hightech-Projekte, bei denen Deine Ideen zählen?</strong><br> <strong>Liebst Du es, in C++ zu programmieren, und möchtest Teil eines kreativen Teams werden?</strong><br> <strong>Suchst Du nach einer Stelle, bei der Du Dich"
+    },
+    {
+      "id": "arbeitnow:baufinanzierungsberater-bankkaufmann-berlin-199491",
+      "source": "arbeitnow",
+      "title": "Baufinanzierungsberater / Bankkaufmann (m/w/d)",
+      "company": "Justhome GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/justhome-gmbh/baufinanzierungsberater-bankkaufmann-berlin-199491",
+      "posted_at": 1769261528,
+      "salary": "",
+      "tags": [
+        "Private Banking"
+      ],
+      "snippet": "<p><strong>Die Immobilienfinanzierung ist reif für Veränderung. Willkommen bei Justhome.</strong></p> <p>Wir sind angetreten um als Fintech jeden Tag unsere Kunden und Mitarbeiter zu begeistern – unser Antrieb ist es, die <strong>Baufinanzierung neu zu denken<"
+    },
+    {
+      "id": "arbeitnow:sps-programmierer-elektronikentwickler-paderborn-442748",
+      "source": "arbeitnow",
+      "title": "SPS-Programmierer & Elektronikentwickler (m/w/d)",
+      "company": "assemblean",
+      "location": "Paderborn",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/assemblean/sps-programmierer-elektronikentwickler-paderborn-442748",
+      "posted_at": 1769261527,
+      "salary": "",
+      "tags": [
+        "Engineering"
+      ],
+      "snippet": "<p>Assemblean entwickelt und realisiert intelligente Automatisierungs-, Elektronik- und Sonderlösungen für industrielle Anwendungen. Wir begleiten unsere Kunden von der ersten Idee über Entwicklung und Prototyping bis zur Serienreife. Dabei verbinden wir Softw"
+    },
+    {
+      "id": "arbeitnow:netzwerkadministrator-systemadministrator-koblenz-416377",
+      "source": "arbeitnow",
+      "title": "Netzwerkadministrator / Systemadministrator - (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Koblenz",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/netzwerkadministrator-systemadministrator-koblenz-416377",
+      "posted_at": 1769259743,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p><strong>Linux ist Dein Heimathafen? Dann bist Du bei uns richtig.</strong></p> <p>Ob auf hoher See oder im Rechenzentrum – wir sorgen dafür, dass IT-Systeme zuverlässig laufen und digitale Erlebnisse an Bord einzigartig werden. Unsere Lösungen kommen dort z"
+    },
+    {
+      "id": "arbeitnow:chief-finance-officer-cfo-100-ehrenamt-100-remote-berlin-457729",
+      "source": "arbeitnow",
+      "title": "Chief Finance Officer (CFO) (m/w/d) | 100 % Ehrenamt | 100 % Remote",
+      "company": "Deutscher Hilfsbund e.V.",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-hilfsbund-ev/chief-finance-officer-cfo-100-ehrenamt-100-remote-berlin-457729",
+      "posted_at": 1769257965,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader",
+        "Freelance"
+      ],
+      "snippet": "<p>Der <strong>Deutsche Hilfsbund (DEHIB)</strong> ist ein Dachverband mit wachsender strategischer, wirtschaftlicher und institutioneller Reichweite. In der aktuellen Aufbauphase werden zentrale Finanz-, Investment- und Kapitalfragen bewusst <strong>auf Verba"
+    },
+    {
+      "id": "arbeitnow:mitarbeiter-einkauf-controlling-papenburg-190600",
+      "source": "arbeitnow",
+      "title": "Mitarbeiter (m/w/d) Einkauf / Controlling",
+      "company": "ZPN Kitchen GmbH",
+      "location": "Papenburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/zpn-kitchen-gmbh/mitarbeiter-einkauf-controlling-papenburg-190600",
+      "posted_at": 1769257964,
+      "salary": "",
+      "tags": [
+        "Controlling",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Für unseren Mandanten in Aschendorf suchen wir einen engagierten Mitarbeiter (m/w/d) im Bereich <strong>Einkauf / Controlling</strong>.</p> <h2>Aufgaben</h2> <ul> <li>Einkauf von Materialien und Dienstleistungen</li> <li>Projektbearbeitung</li> <li>Technisc"
+    },
+    {
+      "id": "arbeitnow:senior-data-scientist-vollzeit-remote-mannheim-66929",
+      "source": "arbeitnow",
+      "title": "Senior Data Scientist (m/w/d) (Vollzeit) (Remote)",
+      "company": "HeroSoftware GmbH",
+      "location": "Mannheim",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/herosoftware-gmbh/senior-data-scientist-vollzeit-remote-mannheim-66929",
+      "posted_at": 1769257963,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Data Scientist"
+      ],
+      "snippet": "<p>Bist du ein Ass in <strong>Datenarchitektur</strong> und <strong>Datenmodellierung</strong>?</p> <p>Dann suchen wir genau dich als <strong>Senior Data Scientist (m/w/d) (Vollzeit)</strong>. Wir entwickeln Shopify Apps für über 3.500+ Merchants und brauchen "
+    },
+    {
+      "id": "arbeitnow:digital-operations-it-cologne-35998",
+      "source": "arbeitnow",
+      "title": "Digital Operations & IT",
+      "company": "YTTP",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/yttp/digital-operations-it-cologne-35998",
+      "posted_at": 1769270343,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Als <strong>Digital Operations &#x26; IT</strong> verantwortest du die operative Weiterentwicklung unserer digitalen Systemlandschaft, inklusive Automatisierung und KI-Integration. Du entlastest die Geschäftsführung im digitalen Tagesgeschäft deutlich und a"
+    },
+    {
+      "id": "arbeitnow:senior-account-manager-grunwald-222880",
+      "source": "arbeitnow",
+      "title": "Senior Account Manager (m/w/d)",
+      "company": "QAVION SALES & RECRUITING GmbH",
+      "location": "Grünwald",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/qavion-sales-recruiting-gmbh/senior-account-manager-grunwald-222880",
+      "posted_at": 1769252566,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "HR",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Die <strong>QAVION GROUP</strong> bringt als all-in-one Boutique Visionen in die Umsetzung, indem wir Consulting, Sales &#x26; Recruiting, Ventures sowie Law &#x26; Tax nahtlos vereinen und gebündelte Kompetenz in messbare Ergebnisse und nachhaltiges Wachst"
+    },
+    {
+      "id": "arbeitnow:ausbildung-zum-zur-it-systemelektroniker-ausbildungsstart-2026-uhingen-473673",
+      "source": "arbeitnow",
+      "title": "Ausbildung zum/zur IT-Systemelektroniker | Ausbildungsstart 2026 (m/w/d)",
+      "company": "Gewinnblick GmbH",
+      "location": "Uhingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/gewinnblick-gmbh/ausbildung-zum-zur-it-systemelektroniker-ausbildungsstart-2026-uhingen-473673",
+      "posted_at": 1769252565,
+      "salary": "",
+      "tags": [
+        "IT",
+        "Apprenticeship"
+      ],
+      "snippet": "<p>📍 <strong>Gewinnblick GmbH – Digital &#x26; Technisch unterwegs</strong></p> <p>Du suchst eine <strong>coole Ausbildung</strong>, bei der du täglich Neues lernst, mit moderner Technik arbeitest und richtig spannende Aufgaben übernimmst?<br> Dann passt du pe"
+    },
+    {
+      "id": "arbeitnow:content-creator-mini-job-werkstudent-rostock-262444",
+      "source": "arbeitnow",
+      "title": "Content Creator (m/w/d) - Mini Job / Werkstudent",
+      "company": "Gusti Leder GmbH",
+      "location": "Rostock",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/gusti-leder-gmbh/content-creator-mini-job-werkstudent-rostock-262444",
+      "posted_at": 1769252565,
+      "salary": "",
+      "tags": [
+        "Marketing and Communication",
+        "Side",
+        "hilfstätigkeit / student"
+      ],
+      "snippet": "<h2>Jobbeschreibung</h2> <h2>Gestalte mit uns die Zukunft der Lederindustrie! 🌍✨</h2> <p>Bei Gusti Leder verbinden wir Nachhaltigkeit, Transparenz und Slow Fashion mit Leidenschaft für Design und Qualität.<br> Wir sind überzeugt: Leder kann fair, langlebig und"
+    },
+    {
+      "id": "arbeitnow:senior-ai-ml-data-engineer-grunwald-499294",
+      "source": "arbeitnow",
+      "title": "Senior AI / ML / Data Engineer (m/w/d)",
+      "company": "QAVION SALES & RECRUITING GmbH",
+      "location": "Grünwald",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/qavion-sales-recruiting-gmbh/senior-ai-ml-data-engineer-grunwald-499294",
+      "posted_at": 1769250715,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Consulting",
+        "Engineering",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Die <strong>QAVION GROUP</strong> bringt als all-in-one Boutique Visionen in die Umsetzung, indem wir Consulting, Sales &#x26; Recruiting, Ventures sowie Law &#x26; Tax nahtlos vereinen und gebündelte Kompetenz in messbare Ergebnisse und nachhaltiges Wachst"
+    },
+    {
+      "id": "arbeitnow:senior-devops-cloud-engineer-grunwald-225871",
+      "source": "arbeitnow",
+      "title": "Senior DevOps / Cloud Engineer (m/w/d)",
+      "company": "QAVION SALES & RECRUITING GmbH",
+      "location": "Grünwald",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/qavion-sales-recruiting-gmbh/senior-devops-cloud-engineer-grunwald-225871",
+      "posted_at": 1769250714,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "snippet": "<p>Die <strong>QAVION GROUP</strong> bringt als all-in-one Boutique Visionen in die Umsetzung, indem wir Consulting, Sales &#x26; Recruiting, Ventures sowie Law &#x26; Tax nahtlos vereinen und gebündelte Kompetenz in messbare Ergebnisse und nachhaltiges Wachst"
+    },
+    {
+      "id": "arbeitnow:remote-senior-solutions-architect-berlin-361633",
+      "source": "arbeitnow",
+      "title": "Senior Solutions Architect",
+      "company": "Automat-it",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/automat-it/remote-senior-solutions-architect-berlin-361633",
+      "posted_at": 1769247729,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Full-time"
+      ],
+      "snippet": "<p>Automat-it is where high-growth startups turn when they need to move faster, scale smarter, and make the most of the cloud. As an AWS Premier Partner and Strategic Partner, we deliver hands-on DevOps and FinOps and GenAI support that drives real results.</p"
+    },
+    {
+      "id": "arbeitnow:marketing-allrounder-gesucht-hamburg-155566",
+      "source": "arbeitnow",
+      "title": "Marketing Allrounder (m/w/d) gesucht!",
+      "company": "talenthafen GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/talenthafen-gmbh/marketing-allrounder-gesucht-hamburg-155566",
+      "posted_at": 1769241722,
+      "salary": "",
+      "tags": [
+        "Marketing Manager",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Marketing ist für dich mehr als nur ein einzelner Kanal?</p> <p>Du hast Lust, Ideen nicht nur zu denken, sondern sie auch umzusetzen – kreativ, strategisch und im engen Austausch mit einem starken Team.</p> <p><strong>Wir suchen dich als Marketing-Allround-"
+    },
+    {
+      "id": "arbeitnow:senior-it-internal-auditor-berlin-28789",
+      "source": "arbeitnow",
+      "title": "Senior IT Internal Auditor",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-it-internal-auditor-berlin-28789",
+      "posted_at": 1769240715,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p>Are you passionate about making an impact through technology and controls? At SumUp, we're looking for an IT Internal Auditor to strengthen our Internal Audit team in Berlin. In this role, you'll help ensure our IT environment is secure, compliant, and read"
+    },
+    {
+      "id": "arbeitnow:android-engineer-berlin-67620",
+      "source": "arbeitnow",
+      "title": "Android Engineer",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-berlin-67620",
+      "posted_at": 1769240715,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p><strong>About the role</strong></p> <p>As an Android Engineer in SumUp's Hardware Tribe, you will be part of one of our small and highly skilled cross-functional teams and work together with Product Managers, Backend Engineers, iOS Engineers, Product Design"
+    },
+    {
+      "id": "arbeitnow:mid-market-account-executive-dach-munich-351613",
+      "source": "arbeitnow",
+      "title": "Mid Market Account Executive - DACH",
+      "company": "Samsara",
+      "location": "Munich, Bavaria, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/samsara/mid-market-account-executive-dach-munich-351613",
+      "posted_at": 1769240715,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Oper"
+    },
+    {
+      "id": "arbeitnow:account-development-representative-dach-munich-353109",
+      "source": "arbeitnow",
+      "title": "Account Development Representative - DACH",
+      "company": "Samsara",
+      "location": "Munich, Bavaria, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/samsara/account-development-representative-dach-munich-353109",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Oper"
+    },
+    {
+      "id": "arbeitnow:account-development-representative-dach-munich-6082",
+      "source": "arbeitnow",
+      "title": "Account Development Representative - DACH",
+      "company": "Samsara",
+      "location": "Munich, Bavaria, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/samsara/account-development-representative-dach-munich-6082",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Oper"
+    },
+    {
+      "id": "arbeitnow:senior-mechanical-design-engineer-contractor-munich-423948",
+      "source": "arbeitnow",
+      "title": "Senior Mechanical Design Engineer (Contractor)",
+      "company": "Spire",
+      "location": "Munich, Bavaria, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/spire/senior-mechanical-design-engineer-contractor-munich-423948",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p><span data-contrast=\"auto\">As a Mechanical Engineer, you will be designing and analyzing the mechanical systems and payloads for our next-generation nano-satellites. You will work on a variety of satellite missions, and will be intimately involved in vehicl"
+    },
+    {
+      "id": "arbeitnow:operations-specialist-fleet-account-management-berlin-199498",
+      "source": "arbeitnow",
+      "title": "Operations Specialist, Fleet Account Management",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/operations-specialist-fleet-account-management-berlin-199498",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:territory-sales-manager-dortmund-161238",
+      "source": "arbeitnow",
+      "title": "Territory Sales Manager (m/w/d) - Dortmund",
+      "company": "Wolt - English",
+      "location": "Dortmund, North Rhine-Westphalia, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/territory-sales-manager-dortmund-161238",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:territory-sales-manager-frankfurt-giessen-giessen-362992",
+      "source": "arbeitnow",
+      "title": "Territory Sales Manager - Frankfurt/Gießen (m/w/d)",
+      "company": "Wolt - English",
+      "location": "Giessen, Hesse, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/territory-sales-manager-frankfurt-giessen-giessen-362992",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:onboarding-acquisition-development-team-lead-berlin-150765",
+      "source": "arbeitnow",
+      "title": "Onboarding & Acquisition Development Team lead",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/onboarding-acquisition-development-team-lead-berlin-150765",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:senior-product-designer-berlin-83660",
+      "source": "arbeitnow",
+      "title": "Senior Product Designer",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-product-designer-berlin-83660",
+      "posted_at": 1769240714,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:remote-business-development-representative-berlin-282510",
+      "source": "arbeitnow",
+      "title": "Business Development Representative",
+      "company": "Automat-it",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/automat-it/remote-business-development-representative-berlin-282510",
+      "posted_at": 1769226129,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Full-time"
+      ],
+      "snippet": "<p>Automat-it is where high-growth startups turn when they need to move faster, scale smarter, and make the most of the cloud. As an AWS Premier Partner and Strategic Partner, we deliver hands-on DevOps and FinOps and GenAI support that drives real results.</p"
     },
     {
       "id": "arbeitnow:senior-data-engineer-gilching-281078",
@@ -1263,785 +2053,6 @@
         "berufserfahren"
       ],
       "snippet": "<h2>FIXING THE PLANET BY MAKING HOMES CARBON-FREE!</h2> <p>Mit einer Finanzierung von über 40 Mio. Euro von erstklassigen Investoren wie COATUE, Foundamental &#x26; Target Global arbeiten wir am größten Hebel im europäischen Klimaschutz – dem Gebäudebestand de"
-    },
-    {
-      "id": "arbeitnow:technischer-planer-warmepumpe-photovoltaik-berlin-112268",
-      "source": "arbeitnow",
-      "title": "Technischer Planer (m/w/d) Wärmepumpe & Photovoltaik",
-      "company": "Enter by baupal GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/enter-by-baupal-gmbh/technischer-planer-warmepumpe-photovoltaik-berlin-112268",
-      "posted_at": 1769180561,
-      "salary": "",
-      "tags": [
-        "Software Development",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>FIXING THE PLANET BY MAKING HOMES CARBON-FREE!</h2> <p>Mit einer Finanzierung von über 40 Mio. Euro von erstklassigen Investoren wie COATUE, Foundamental &#x26; Target Global arbeiten wir am größten Hebel im europäischen Klimaschutz – dem Gebäudebestand de"
-    },
-    {
-      "id": "arbeitnow:senior-brand-manager-rama-hamburg-246995",
-      "source": "arbeitnow",
-      "title": "Senior Brand Manager Rama (m/w/d)",
-      "company": "Flora Food Group",
-      "location": "Hamburg, Hamburg, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/flora-food-group/senior-brand-manager-rama-hamburg-246995",
-      "posted_at": 1769179515,
-      "salary": "",
-      "tags": [],
-      "snippet": "<div class=\"content-intro\"><p><strong>About Flora Food Group</strong></p> <p><span data-contrast=\"auto\">We offer consumers a compelling choice in four growing categories: butters and spreads, creams, liquids and cheeses. We hold leadership positions in many of"
-    },
-    {
-      "id": "arbeitnow:senior-manager-group-accounting-berlin-492294",
-      "source": "arbeitnow",
-      "title": "Senior Manager Group Accounting (m/w/d)",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-manager-group-accounting-berlin-492294",
-      "posted_at": 1769179515,
-      "salary": "",
-      "tags": [],
-      "snippet": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und tollen Zusatzleistungen. Du hast "
-    },
-    {
-      "id": "arbeitnow:communication-manager-berlin-212561",
-      "source": "arbeitnow",
-      "title": "Communication Manager (m/w/d)",
-      "company": "MYNE Homes",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/myne-homes/communication-manager-berlin-212561",
-      "posted_at": 1769178761,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Wir sind <strong>MYNE Homes</strong> - der cleverste Weg in die eigenen Traum-Ferienimmobilie. Mit unserem innovativen Co-Ownership Angebot geben wir mehr Menschen die Möglichkeit, sich ihren Traum vom eigenen Ferienhaus zu erfüllen. Gegründet von erfahrene"
-    },
-    {
-      "id": "arbeitnow:fullstack-c-und-web-entwickler-fur-die-edelmetall-und-trauringbranche-hybrid-keltern-337414",
-      "source": "arbeitnow",
-      "title": "Fullstack C# und Web-Entwickler (m/w/d) für die Edelmetall- und Trauringbranche - hybrid",
-      "company": "Dr. Bernhard Burger AG",
-      "location": "Keltern",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-bernhard-burger-ag/fullstack-c-und-web-entwickler-fur-die-edelmetall-und-trauringbranche-hybrid-keltern-337414",
-      "posted_at": 1769178760,
-      "salary": "",
-      "tags": [
-        "Software Development",
-        "berufserfahren"
-      ],
-      "snippet": "<p><strong>Gemeinsam vorwärts – mit Drive, Verantwortung und Gestaltungsspielraum!</strong></p> <p>Die Dr. Bernhard Burger AG ist ein dynamisches, wachsendes Familienunternehmen in zweiter Generation – mit Startup-Charakter, Innovationsgeist und einer klaren V"
-    },
-    {
-      "id": "arbeitnow:quereinsteiger-als-kundenberater-magdeburg-67024",
-      "source": "arbeitnow",
-      "title": "Quereinsteiger als Kundenberater (m/w/d)",
-      "company": "Elb-Connect",
-      "location": "Magdeburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/elb-connect/quereinsteiger-als-kundenberater-magdeburg-67024",
-      "posted_at": 1769178760,
-      "salary": "",
-      "tags": [
-        "Distribution Marketing",
-        "berufseinstieg"
-      ],
-      "snippet": "<p><strong>Du suchst einen Job, der mehr bietet als nur Alltagstrott? Dann bist du bei Elb Connect genau richtig! Ob mit Berufserfahrung oder als Quereinsteiger - bei uns hast du die Chance, richtig durchzustarten.</strong></p> <h2>Aufgaben</h2> <p><strong>Dei"
-    },
-    {
-      "id": "arbeitnow:kundensupport-operations-assistant-minijob-e-commerce-shopify-berlin-252722",
-      "source": "arbeitnow",
-      "title": "Kundensupport & Operations Assistant (m/w/d) | Minijob (E-Commerce / Shopify)",
-      "company": "Orbasics GmbH",
-      "location": "Berlin",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/orbasics-gmbh/kundensupport-operations-assistant-minijob-e-commerce-shopify-berlin-252722",
-      "posted_at": 1769178759,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Marketing and Communication",
-        "Side"
-      ],
-      "snippet": "<p><strong>Über Orbasics:</strong></p> <p>Orbasics wurde von Lilija gegründet – aus dem Wunsch heraus, gesündere und nachhaltigere Alternativen für den Alltag zu schaffen. Was als kleine Kollektion nachhaltiger Kinderkleidung begann, ist heute ein wachsender S"
-    },
-    {
-      "id": "arbeitnow:techniker-avionik-elektrik-mindelheim-224375",
-      "source": "arbeitnow",
-      "title": "Techniker Avionik/Elektrik (m/w/x)",
-      "company": "K-tronik GmbH",
-      "location": "Mindelheim",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/techniker-avionik-elektrik-mindelheim-224375",
-      "posted_at": 1769178759,
-      "salary": "",
-      "tags": [
-        "Engineering",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Projektbeschreibung:</h2> <p>Technologie begeistert Sie? Uns auch! Zur Verstärkung unseres Expertenteams bei unserem Kunden aus der Verteidigungs- und Luft- &#x26; Raumfahrt Branche suchen wir einen Techniker Avionik/Elektrik (m/w/x) in Festanstellung bei "
-    },
-    {
-      "id": "arbeitnow:it-systemadministrator-it-leiter-m-ww-d-gesucht-mannheim-150850",
-      "source": "arbeitnow",
-      "title": "IT Systemadministrator IT Leiter (m/ww/d) gesucht",
-      "company": "Intercon Solutions GmbH",
-      "location": "Mannheim",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemadministrator-it-leiter-m-ww-d-gesucht-mannheim-150850",
-      "posted_at": 1769176909,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p>Du bist ein erfahrener IT-Systemadministrator und möchtest dich sowohl fachlich als auch persönlich weiterentwickeln? Du suchst einen <strong>innovativen, erfolgreichen und wertschätzenden Arbeitgeber</strong>, bei dem du <strong>Verantwortung übernehmen</s"
-    },
-    {
-      "id": "arbeitnow:sympathischer-it-allrounder-mitarbeiter-anwendersupport-stuttgart-263917",
-      "source": "arbeitnow",
-      "title": "Sympathischer IT-Allrounder / Mitarbeiter Anwendersupport (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Stuttgart",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/sympathischer-it-allrounder-mitarbeiter-anwendersupport-stuttgart-263917",
-      "posted_at": 1769175206,
-      "salary": "",
-      "tags": [
-        "System and Network Administration",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Stuttgart steht für Design, Präzision und Innovationskraft. In einem modernen Industrieloft im Raum Stuttgart arbeiten wir an hochwertigen Produkten, die Design, Handwerkskunst und Modebewusstsein miteinander verbinden. Unser Arbeitsumfeld ist kreativ, inte"
-    },
-    {
-      "id": "arbeitnow:human-resources-praktikum-cologne-3555",
-      "source": "arbeitnow",
-      "title": "Human Resources Praktikum (m/w/d)",
-      "company": "Startplatz Köln GmbH",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/startplatz-koln-gmbh/human-resources-praktikum-cologne-3555",
-      "posted_at": 1769175205,
-      "salary": "",
-      "tags": [
-        "Recruitment and Selection",
-        "Internship"
-      ],
-      "snippet": "<p><strong>Dein Herz brennt für die spannende Welt der Startups und Innovateure?</strong></p> <p>Dann bist du bei uns genau richtig. Wir sind <strong>STARTPLATZ</strong>, die Anlaufstelle für Gründer*innen im Rheinland. Über 1000 Startups haben wir bereits unt"
-    },
-    {
-      "id": "arbeitnow:senior-devops-engineer-hamburg-219423",
-      "source": "arbeitnow",
-      "title": "Senior DevOps Engineer (m/w/d)",
-      "company": "alphacoders",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/alphacoders/senior-devops-engineer-hamburg-219423",
-      "posted_at": 1769175204,
-      "salary": "",
-      "tags": [
-        "Consulting",
-        "Engineering",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Gemeinsam mit unserem Partner, einem führenden Beratungs- und Entwicklungsunternehmen, suchen wir einen Senior DevOps Engineer (m/w/d) am Standort Hamburg, Berlin, Wien oder Remote.</p> <p>Für die langjährigen Kunden ZDF und TUI Cruises suchen wir jeweils V"
-    },
-    {
-      "id": "arbeitnow:trainee-teaching-assistant-cologne-272439",
-      "source": "arbeitnow",
-      "title": "Trainee Teaching Assistant (m/w/d)",
-      "company": "STARTPLATZ AI HUB",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/startplatz-ai-hub/trainee-teaching-assistant-cologne-272439",
-      "posted_at": 1769175203,
-      "salary": "",
-      "tags": [
-        "Training",
-        "Development",
-        "Traineeship",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<p><strong>Bereit, als Trainee Teaching Assistant durchzustarten? Dann werde Teil des STARTPLATZ AI Hub!</strong></p> <p><strong>Über uns</strong></p> <p>Der STARTPLATZ AI Hub bringt KI vom Konzept in die Realität. Als stark wachsendes Startup in NRW bieten wi"
-    },
-    {
-      "id": "arbeitnow:praktikum-grafikdesign-im-ai-hub-cologne-148478",
-      "source": "arbeitnow",
-      "title": "Praktikum Grafikdesign im AI Hub (m/w/d)",
-      "company": "STARTPLATZ AI HUB",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/startplatz-ai-hub/praktikum-grafikdesign-im-ai-hub-cologne-148478",
-      "posted_at": 1769175202,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "Internship"
-      ],
-      "snippet": "<p><strong>Dein kreatives Können trifft auf die KI-Zukunft.</strong></p> <p><strong>Über uns</strong></p> <p>Der STARTPLATZ AI Hub bringt KI vom Konzept in die Realität. Als stark wachsendes Startup bieten wir praxisnahe KI-Weiterbildungen für KI-Interessierte"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-schwaig-234436",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Schwaig",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-schwaig-234436",
-      "posted_at": 1769175201,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-herbsleben-291726",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Herbsleben",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-herbsleben-291726",
-      "posted_at": 1769175200,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-erfurt-65824",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Erfurt",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-erfurt-65824",
-      "posted_at": 1769175199,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-kiel-102652",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Kiel",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-kiel-102652",
-      "posted_at": 1769175198,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:werkstudent-qualitatsmanagement-barbing-255834",
-      "source": "arbeitnow",
-      "title": "Werkstudent Qualitätsmanagement m/w/d",
-      "company": "HAWE Micro Fluid GmbH",
-      "location": "Barbing",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/hawe-micro-fluid-gmbh/werkstudent-qualitatsmanagement-barbing-255834",
-      "posted_at": 1769175197,
-      "salary": "",
-      "tags": [
-        "Quality Management",
-        "Working student",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<p>Ohne Dich bewegt sich nichts.</p> <p>Egal ob Auszubildende, Studierende, Berufseinsteigende oder Berufserfahrene: Wir bieten vielfältige Möglichkeiten zum Einstieg bei HAWE an. Von der Produktentwicklung und Industrial Engineering über Einkauf und Produktio"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-rendsburg-308607",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Rendsburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-rendsburg-308607",
-      "posted_at": 1769175196,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:werkstudent-social-media-manager-content-creator-in-hallesaale-halle-saale-68713",
-      "source": "arbeitnow",
-      "title": "Werkstudent | Social Media Manager | Content Creator in Halle(Saale) (m/w/d)",
-      "company": "bewaffel dich",
-      "location": "Halle (Saale)",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/bewaffel-dich/werkstudent-social-media-manager-content-creator-in-hallesaale-halle-saale-68713",
-      "posted_at": 1769175195,
-      "salary": "",
-      "tags": [
-        "Social Media Manager",
-        "Working student"
-      ],
-      "snippet": "<p>Zur Verstärkung der Unternehmenskommunikation für das <em>bewaffel dich</em> in Halle (Saale) suchen wir ab März 2026 dich als</p> <p><em>Werkstudent Social Media I Content Creator (m|w|d)</em></p> <h2>Aufgaben</h2> <p>Du erstellst für unsere Betriebsstätte"
-    },
-    {
-      "id": "arbeitnow:marketing-manager-befristet-24-monate-elternzeitvertretung-stuttgart-52695",
-      "source": "arbeitnow",
-      "title": "Marketing Manager (m/w/d) befristet 24 Monate, Elternzeitvertretung)",
-      "company": "INSTATIQ",
-      "location": "Stuttgart",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/instatiq/marketing-manager-befristet-24-monate-elternzeitvertretung-stuttgart-52695",
-      "posted_at": 1769175194,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication"
-      ],
-      "snippet": "<p>INSTATIQ ist ein innovatives Startup und ein Spinoff der Putzmeister Unternehmensgruppe. Wir revolutionieren die Baubranche mit unserer wegweisenden 3D-Betondruck-Technologie. Unser Ziel ist es, nachhaltiges und effizientes Bauen neu zu definieren. Als jung"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-straubing-475728",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Straubing",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-straubing-475728",
-      "posted_at": 1769175192,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:projektleiter-batteriegrossspeicher-bess-munich-389733",
-      "source": "arbeitnow",
-      "title": "Projektleiter (m/w/d) – Batteriegroßspeicher (BESS)",
-      "company": "ju:niz Energy GmbH",
-      "location": "Munich",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/juniz-energy-gmbh/projektleiter-batteriegrossspeicher-bess-munich-389733",
-      "posted_at": 1769175191,
-      "salary": "",
-      "tags": [
-        "Project Management",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Über uns</h2> <p><strong>Ohne Speicher keine Energiewende.</strong></p> <p>ju:niz Energy ist seit über 10 Jahren Pionier im Bereich netzdienlicher Batteriegroßspeicher. Unsere Anlagen stabilisieren das Netz, schaffen Flexibilität und sichern eine klimaneut"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-gemmrigheim-43971",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Gemmrigheim",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-gemmrigheim-43971",
-      "posted_at": 1769175190,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-aalen-269738",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Aalen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-aalen-269738",
-      "posted_at": 1769175189,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:team-lead-im-key-account-management-berlin-142470",
-      "source": "arbeitnow",
-      "title": "Team Lead im Key Account Management - Berlin (m/w/d)",
-      "company": "Pflegia",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/pflegia/team-lead-im-key-account-management-berlin-142470",
-      "posted_at": 1769175188,
-      "salary": "",
-      "tags": [
-        "Management",
-        "Team Leader",
-        "teamleitung"
-      ],
-      "snippet": "<p>Deine Aufgaben bei uns</p> <ul> <li><strong>Führung &#x26; Weiterentwicklung Deines Teams</strong> – Du leitest ein Team aus Key Account Managern, coachst sie und entwickelst ihre Fähigkeiten gezielt weiter.</li> <li><strong>Strategisches Kundenmanagement</"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-erlangen-216153",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Erlangen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-erlangen-216153",
-      "posted_at": 1769173365,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-heilbronn-467237",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Iggingen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-heilbronn-467237",
-      "posted_at": 1769189342,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:creative-team-lead-munich-116108",
-      "source": "arbeitnow",
-      "title": "Creative Team-Lead (m/w/d)",
-      "company": "Flavour Kommunikation GmbH",
-      "location": "Munich",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/flavour-kommunikation-gmbh/creative-team-lead-munich-116108",
-      "posted_at": 1769173364,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Marketing and Communication"
-      ],
-      "snippet": "<p>This is FLAVOUR!</p> <p>Warum kompliziert, wenn es auch einfach geht? Wir verpacken für unsere Kunden schwierige Themen in einfache Worte und bewegende Bilder, die ihre Botschaft klar rüberbringen. Als Agentur für Kommunikation und Werbung machen wir Websit"
-    },
-    {
-      "id": "arbeitnow:recruiter-gn-im-minijob-full-remote-rheinstetten-435776",
-      "source": "arbeitnow",
-      "title": "Recruiter (gn) im Minijob / Full-Remote",
-      "company": "Wildschytz UG",
-      "location": "Rheinstetten",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/wildschytz-ug/recruiter-gn-im-minijob-full-remote-rheinstetten-435776",
-      "posted_at": 1769173363,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "HR",
-        "Contract"
-      ],
-      "snippet": "<p><strong>Wildschytz ist der führende Anbieter von Outdoor-Erlebnissen in Deutschland. Ganz in der Tradition der legendären Wildschytzen vergangener Tage, bringen wir die Menschen aus der Stadt wieder zurück in die Natur.</strong></p> <h2>Aufgaben</h2> <p>Als"
-    },
-    {
-      "id": "arbeitnow:buchhaltung-minijob-ca-600eur-basis-wurzburg-58700",
-      "source": "arbeitnow",
-      "title": "Buchhaltung (m/w/d) Minijob (ca. 600€ Basis)",
-      "company": "Vision4Quality GmbH",
-      "location": "Würzburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/vision4quality-gmbh/buchhaltung-minijob-ca-600eur-basis-wurzburg-58700",
-      "posted_at": 1769173362,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p>Wir die Vision4Quality GmbH sind ein junges, schnell wachsendes Software-Unternehmen, das sich auf die Entwicklung von kamerabasierten Prüfsystemen spezialisiert. Unser Team ist Technik begeistert und unsere täglichen Herausforderungen können wir nur mit ei"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-munich-74537",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Munich",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-munich-74537",
-      "posted_at": 1769173362,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-heidelberg-240044",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Heidelberg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-heidelberg-240044",
-      "posted_at": 1769173361,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-aachen-472003",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Aachen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-aachen-472003",
-      "posted_at": 1769173360,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:performance-marketing-manager-cologne-72857",
-      "source": "arbeitnow",
-      "title": "Performance Marketing Manager (m/w/d)",
-      "company": "Hunderunde",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/hunderunde/performance-marketing-manager-cologne-72857",
-      "posted_at": 1769173359,
-      "salary": "",
-      "tags": [
-        "Marketing Manager",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Wir sind ein junges, ambitioniertes Start-up im Bereich der pflanzlichen Hundeernährung. Unser Ziel: Hunderunde als Marke im Online-Markt sichtbar zu machen, planbar zu skalieren und dabei ehrliches Wachstum aufzubauen – ohne leere Buzzwords, sondern mit me"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-niederzissen-428027",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Niederzissen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-niederzissen-428027",
-      "posted_at": 1769173359,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-reutlingen-95915",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Reutlingen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-reutlingen-95915",
-      "posted_at": 1769173358,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-bensheim-342555",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Bensheim",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-bensheim-342555",
-      "posted_at": 1769173357,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:fachinformatiker-systemintegration-it-systemadministrator-ludwigsburg-135921",
-      "source": "arbeitnow",
-      "title": "Fachinformatiker Systemintegration - IT-Systemadministrator (m/w/d)",
-      "company": "Intercon Solutions GmbH",
-      "location": "Ludwigsburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/fachinformatiker-systemintegration-it-systemadministrator-ludwigsburg-135921",
-      "posted_at": 1769173356,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p><strong>Wir suchen sympathische Verstärkung im Bereich IT-Systemadministration</strong></p> <p>Du hast Erfahrung im IT Support oder als IT-Systemadministrator und wünschst dir einen <strong>stabilen Arbeitgeber</strong>, der dir echte Wertschätzung, eine <s"
-    },
-    {
-      "id": "arbeitnow:logistikcontroller-produktionscontroller-controller-mit-bi-tools-sap-wuppertal-242500",
-      "source": "arbeitnow",
-      "title": "Logistikcontroller / Produktionscontroller / Controller (w/m/d) mit BI-Tools & SAP",
-      "company": "Fischer & Partner Gesellschaft für Personal mbH",
-      "location": "Wuppertal",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/fischer-partner-gesellschaft-fur-personal-mbh/logistikcontroller-produktionscontroller-controller-mit-bi-tools-sap-wuppertal-242500",
-      "posted_at": 1769173356,
-      "salary": "",
-      "tags": [
-        "Controlling",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Für eine traditionsreiche, national wie international aufgestellte Unternehmensgruppe mit Sitz im <strong>Großraum Wuppertal</strong> suchen wir Sie zum nächstmöglichen Zeitpunkt als</p> <p><strong>LOGISTIKCONTROLLER oder PRODUKTIONSCONTROLLER (W/M/D)</stro"
-    },
-    {
-      "id": "arbeitnow:teamlead-fabrik-und-logistikplanung-stuttgart-259343",
-      "source": "arbeitnow",
-      "title": "Teamlead (m/w/d) Fabrik- und Logistikplanung",
-      "company": "UNITY Operations AG",
-      "location": "Stuttgart",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/unity-operations-ag/teamlead-fabrik-und-logistikplanung-stuttgart-259343",
-      "posted_at": 1769171507,
-      "salary": "",
-      "tags": [
-        "Management",
-        "Team Leader",
-        "teamleitung"
-      ],
-      "snippet": "<p><strong>Du möchtest Menschen führen, Kultur gestalten und einen Standort prägen?</strong><br> Dann übernimm Verantwortung als Teamlead * Fabrik- und Logistikplanung an unserem Standort Stuttgart. In dieser Rolle führst du ein Team von rund 10 Mitarbeitenden"
-    },
-    {
-      "id": "arbeitnow:mitarbeiter-kunden-und-projektmanagement-x-magdeburg-492539",
-      "source": "arbeitnow",
-      "title": "Mitarbeiter Kunden- und Projektmanagement (m/w/d/x)",
-      "company": "GETEC Daten- und Abrechnungsmanagement GmbH",
-      "location": "Magdeburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/getec-daten-und-abrechnungsmanagement-gmbh/mitarbeiter-kunden-und-projektmanagement-x-magdeburg-492539",
-      "posted_at": 1769171506,
-      "salary": "",
-      "tags": [
-        "Project Management"
-      ],
-      "snippet": "<p>Die GETEC Daten- und Abrechnungsmanagement GmbH ist bereits seit 2005 der Prozessdienstleister für Energieversorgungsunternehmen. Für unsere Kunden erbringen wir alle Prozessdienstleistungen, die es ihnen ermöglichen, erfolgreich im deutschen Markt agieren "
-    },
-    {
-      "id": "arbeitnow:business-development-manager-ersatzteile-aftermarket-b2b-bunde-68363",
-      "source": "arbeitnow",
-      "title": "Business Development Manager (m/w/d) Ersatzteile & Aftermarket (B2B)",
-      "company": "ENOVA Service GmbH",
-      "location": "Bunde",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/enova-service-gmbh/business-development-manager-ersatzteile-aftermarket-b2b-bunde-68363",
-      "posted_at": 1769171505,
-      "salary": "",
-      "tags": [
-        "Business Development",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Als unabhängiger Spezialist für Enercon-Anlagen verantwortet die ENOVA Service GmbH die Wartung und Instandhaltung hunderter Windenergieanlagen deutschlandweit. Damit ergänzt sie das umfangreiche Produktportfolio der ENOVA Unternehmensgruppe, die seit 1989 "
-    },
-    {
-      "id": "arbeitnow:business-unit-lead-fabrik-und-logistikplanung-stuttgart-403276",
-      "source": "arbeitnow",
-      "title": "Business Unit Lead (m/w/d) Fabrik- und Logistikplanung",
-      "company": "UNITY Operations AG",
-      "location": "Stuttgart",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/unity-operations-ag/business-unit-lead-fabrik-und-logistikplanung-stuttgart-403276",
-      "posted_at": 1769171505,
-      "salary": "",
-      "tags": [
-        "Business Development",
-        "berufserfahren"
-      ],
-      "snippet": "<p><strong>Du möchtest nicht nur Projekte leiten, sondern eine Business Unit strategisch führen und weiterentwickeln?</strong><br> Als Business Unit Lead (m/w/d) übernimmst du die Gesamtverantwortung für unsere Business Unit Fabrik- und Logistikplanung am Stan"
-    },
-    {
-      "id": "arbeitnow:controller-frankfurt-am-main-136544",
-      "source": "arbeitnow",
-      "title": "Controller (m/w/d)",
-      "company": "Kerkhoff Experts GmbH",
-      "location": "Frankfurt am Main",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/kerkhoff-experts-gmbh/controller-frankfurt-am-main-136544",
-      "posted_at": 1769169765,
-      "salary": "",
-      "tags": [
-        "Controlling",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Gesucht wird für ein wachsendes Planungs- und Ingenieurbüro im Bereich komplexer Bau- und Infrastrukturprojekte ein <strong>Controller (m/w/d)</strong>. Das Unternehmen arbeitet in interdisziplinären Teams an anspruchsvollen Bauvorhaben, insbesondere im Sek"
-    },
-    {
-      "id": "arbeitnow:senior-test-und-devops-ingenieurin-wedel-304082",
-      "source": "arbeitnow",
-      "title": "(Senior) Test- und DevOps-Ingenieur*in",
-      "company": "TWK",
-      "location": "Wedel",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/twk/senior-test-und-devops-ingenieurin-wedel-304082",
-      "posted_at": 1769185742,
-      "salary": "",
-      "tags": [
-        "Development"
-      ],
-      "snippet": "<p><strong>Du willst Testautomatisierung nicht nur implementieren, sondern grundlegend aufbauen – mit CI/CD-Pipelines, HIL-Integration und der Freiheit, Qualität systemisch zu verankern</strong></p> <p>Kennst du das Gefühl, wenn Tests manuell durchgeklickt wer"
-    },
-    {
-      "id": "arbeitnow:asset-manager-fur-erneuerbare-energieprojekte-hamburg-246616",
-      "source": "arbeitnow",
-      "title": "Asset Manager (m/w/d) für erneuerbare Energieprojekte",
-      "company": "ENOVA Unternehmensgruppe",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/enova-unternehmensgruppe/asset-manager-fur-erneuerbare-energieprojekte-hamburg-246616",
-      "posted_at": 1769169762,
-      "salary": "",
-      "tags": [
-        "Finance",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Die ENOVA-Gruppe gestaltet als Entwickler, Investor, Serviceanbieter und Betriebsführer die Stromerzeugung Deutschlands. Mit Entschlossenheit und einer hohen technischen sowie kaufmännischen Expertise entwickelt das Familienunternehmen Windparks, investiert"
-    },
-    {
-      "id": "arbeitnow:personalsachbearbeiter-hamburg-492172",
-      "source": "arbeitnow",
-      "title": "Personalsachbearbeiter (m/w/d)",
-      "company": "GAIA AG",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/gaia-ag/personalsachbearbeiter-hamburg-492172",
-      "posted_at": 1769169762,
-      "salary": "",
-      "tags": [
-        "HR"
-      ],
-      "snippet": "<p>Die GAIA AG zählt zu den weltweit führenden Unternehmen im Bereich Digital Health. Wir arbeiten erfolgreich mit namhaften Industrieunternehmen, Krankenkassen, Ärzteorganisationen sowie führenden Universitäten in Europa, den USA und Asien zusammen und verein"
-    },
-    {
-      "id": "arbeitnow:projektleiter-it-digital-dusseldorf-202072",
-      "source": "arbeitnow",
-      "title": "Projektleiter IT / Digital (m/w/d)",
-      "company": "Weissenberg Group",
-      "location": "Düsseldorf",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/weissenberg-group/projektleiter-it-digital-dusseldorf-202072",
-      "posted_at": 1769169761,
-      "salary": "",
-      "tags": [
-        "Project Management",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Aufgabengebiet</h2> <p><strong>Schwerpunkt IT‑Projektleitung, Produkt‑ &#x26; Automatisierungsprojekte</strong><br> Du denkst strategisch, handelst souverän und hast Lust, <strong>komplexe IT‑ und Digitalprojekte aktiv zu steuern – nicht nur zu verwalten</"
     }
   ]
 }
