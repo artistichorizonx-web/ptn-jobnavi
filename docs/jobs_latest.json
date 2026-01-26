@@ -1,8 +1,60 @@
 {
-  "generated_at": "20260125T043212Z",
-  "count": 122,
+  "generated_at": "20260126T043445Z",
+  "count": 124,
   "errors": [],
   "jobs": [
+    {
+      "id": "remotive:2088612",
+      "source": "remotive",
+      "title": "Product, Platform & Enterprise Full Stack Sr/Staff Software Engineer",
+      "company": "BNSF Railway",
+      "location": "USA",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/software-development/product-platform-enterprise-full-stack-sr-staff-software-engineer-2088612",
+      "posted_at": "2026-01-24T14:35:10",
+      "salary": "$165,000 - $300,000",
+      "tags": [
+        "api",
+        "AWS",
+        "azure",
+        "cloud",
+        "fullstack",
+        "git",
+        "kafka",
+        "node.js",
+        "react",
+        "security",
+        "sql",
+        "AI/ML"
+      ],
+      "snippet": "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; line-height: 1.5; color: #4a4a4a; background-color: #ffffff;\"><span style=\"box-sizing: border-box; line-height: 1.5; list-style: inherit; max-width: 100%; background-color: transparent !important;\">The ra"
+    },
+    {
+      "id": "remotive:2088611",
+      "source": "remotive",
+      "title": "Product, Platform & Enterprise Front End Sr/Staff Software Engineer",
+      "company": "BNSF Railway",
+      "location": "USA",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/software-development/product-platform-enterprise-front-end-sr-staff-software-engineer-2088611",
+      "posted_at": "2026-01-24T14:33:27",
+      "salary": "$165k - $300k",
+      "tags": [
+        "api",
+        "AWS",
+        "azure",
+        "cloud",
+        "fullstack",
+        "git",
+        "kafka",
+        "node.js",
+        "react",
+        "security",
+        "sql",
+        "AI/ML"
+      ],
+      "snippet": "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; line-height: 1.5; color: #4a4a4a; background-color: #ffffff;\"><span style=\"box-sizing: border-box; line-height: 1.5; list-style: inherit; max-width: 100%; background-color: transparent !important;\">The ra"
+    },
     {
       "id": "remotive:2088613",
       "source": "remotive",
@@ -494,6 +546,263 @@
       "snippet": "<p style=\"margin-bottom: 20px; padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-heig"
     },
     {
+      "id": "arbeitnow:sympathischer-systemadministrator-im-herzen-koblenz-gesucht-412180",
+      "source": "arbeitnow",
+      "title": "Sympathischer Systemadministrator im Herzen Koblenz gesucht (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Koblenz",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/sympathischer-systemadministrator-im-herzen-koblenz-gesucht-412180",
+      "posted_at": 1769378559,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Wir suchen Verstärkung für unser Team, das seit vielen Jahren innovative Softwarelösungen für den industriellen Mittelstand entwickelt. In dieser Rolle verbindest Du Betrieb, Automatisierung und Kundenprojekte in einem modernen, vielseitigen Umfeld.</p> <h2"
+    },
+    {
+      "id": "arbeitnow:it-systemadministrator-netzwerkadministrator-koblenz-327695",
+      "source": "arbeitnow",
+      "title": "IT-Systemadministrator / Netzwerkadministrator (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Koblenz",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemadministrator-netzwerkadministrator-koblenz-327695",
+      "posted_at": 1769378558,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Wir suchen Verstärkung für unser Team, das seit vielen Jahren innovative Softwarelösungen für den industriellen Mittelstand entwickelt. In dieser Rolle verbindest Du Betrieb, Automatisierung und Kundenprojekte in einem modernen, vielseitigen Umfeld.</p> <h2"
+    },
+    {
+      "id": "arbeitnow:finance-technical-support-specialist-data-berlin-137759",
+      "source": "arbeitnow",
+      "title": "Finance Technical Support Specialist – Data (m/f/d)",
+      "company": "Solactive AG",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/solactive-ag/finance-technical-support-specialist-data-berlin-137759",
+      "posted_at": 1769367697,
+      "salary": "",
+      "tags": [
+        "Software Development",
+        "entry"
+      ],
+      "snippet": "<h2>Company Description</h2> <p>Since its foundation in 2007, Solactive AG has evolved into one of the world’s most important and fastest-growing index providers. From our headquarters in Frankfurt, we power global investment products across ETFs, structured p"
+    },
+    {
+      "id": "arbeitnow:sympathischer-c-entwickler-gesucht-kaufbeuren-326283",
+      "source": "arbeitnow",
+      "title": "Sympathischer C++ Entwickler gesucht (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Kaufbeuren",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/sympathischer-c-entwickler-gesucht-kaufbeuren-326283",
+      "posted_at": 1769362417,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p><strong>Hast Du Lust auf spannende Hightech-Projekte, bei denen Deine Ideen zählen?</strong><br> <strong>Liebst Du es, in C++ zu programmieren, und möchtest Teil eines kreativen Teams werden?</strong><br> <strong>Suchst Du nach einer Stelle, bei der Du Dich"
+    },
+    {
+      "id": "arbeitnow:recruiter-employee-journey-specialist-berlin-304534",
+      "source": "arbeitnow",
+      "title": "Recruiter & Employee Journey Specialist",
+      "company": "Cell Labs",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/cell-labs/recruiter-employee-journey-specialist-berlin-304534",
+      "posted_at": 1769362416,
+      "salary": "",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "snippet": "<p><strong>Join the build. Not the buzz.</strong></p> <p>We don’t build apps — we build real hardware. Our team designs and develops humanoid robots and the intelligent systems behind them — tangible technology that pushes boundaries and redefines what’s possi"
+    },
+    {
+      "id": "arbeitnow:werkstudent-in-im-bereich-hardware-munich-474550",
+      "source": "arbeitnow",
+      "title": "Werkstudent/-in (m/w/d) im Bereich Hardware",
+      "company": "Pixel Robotics",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/pixel-robotics/werkstudent-in-im-bereich-hardware-munich-474550",
+      "posted_at": 1769362415,
+      "salary": "",
+      "tags": [
+        "Engineering",
+        "Working student"
+      ],
+      "snippet": "<p><strong>Bau mit uns die Roboter von morgen!</strong></p> <p>Roboter, Hightech und echte Hands-on-Arbeit – klingt nach dir?</p> <p>Dann komm zu <strong>Pixel Robotics</strong> und werde Teil unseres Teams! Wir entwickeln smarte, mobile Transportroboter, die "
+    },
+    {
+      "id": "arbeitnow:homeoffice-job-als-nebenverdienst-kandel-362651",
+      "source": "arbeitnow",
+      "title": "Homeoffice Job als  Nebenverdienst",
+      "company": "Way of Life Consulting",
+      "location": "Kandel",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/way-of-life-consulting/homeoffice-job-als-nebenverdienst-kandel-362651",
+      "posted_at": 1769355145,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Marketing and Communication",
+        "Side"
+      ],
+      "snippet": "<p>Way of Life Consulting ist ein aufstrebendes Unternehmen im Bereich der Marketingdienstleistungen, das sich durch seine nachhaltige und zukunftsorientierte Arbeitsweise auszeichnet. Mit einem kleinen, aber engagierten Team bieten wir unseren Kunden strategi"
+    },
+    {
+      "id": "arbeitnow:kosmetikerin-fusspflegerin-berlin-445528",
+      "source": "arbeitnow",
+      "title": "Kosmetiker:in/ Fußpfleger:in (m/v/d)",
+      "company": "Kosmetik Schlachtensee",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/kosmetik-schlachtensee/kosmetikerin-fusspflegerin-berlin-445528",
+      "posted_at": 1769353396,
+      "salary": "",
+      "tags": [
+        "Beauty",
+        "Wellness",
+        "hilfstätigkeit / student"
+      ],
+      "snippet": "<p>Hallo, ich suche für meinen Kosmetiksalon in Berlin Schlachtensee ein:e engagierte und qualifizierte Kosmetiker:in / Fußpfleger:in. Als Teil des Teams sind Sie verantwortlich für die Durchführung hochwertiger kosmetischer und fußpflegerischer Behandlungen, "
+    },
+    {
+      "id": "arbeitnow:systemadministrator-erkrath-475061",
+      "source": "arbeitnow",
+      "title": "Systemadministrator (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Erkrath",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/systemadministrator-erkrath-475061",
+      "posted_at": 1769351597,
+      "salary": "",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "snippet": "<p><strong>Wertschätzung, Innovation und Teamgeist</strong> – dafür stehen wir. Bei uns bist Du keine Nummer, sondern ein geschätztes Teammitglied. Wir glauben daran, dass moderne IT nur mit Menschen funktioniert, die sich gegenseitig unterstützen, gemeinsam w"
+    },
+    {
+      "id": "arbeitnow:project-process-manager-frankfurt-am-main-397846",
+      "source": "arbeitnow",
+      "title": "Project & Process Manager (m/w/d)",
+      "company": "Heartland Solutions GmbH",
+      "location": "Frankfurt am Main",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/heartland-solutions-gmbh/project-process-manager-frankfurt-am-main-397846",
+      "posted_at": 1769347895,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "IT",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Als Project &#x26; Process Manager (m/w/d) steuerst Du Kundenprojekte ganzheitlich und entwickelst gleichzeitig nachhaltige, skalierbare Prozess- und Governance-Strukturen.<br> Du verbindest strukturiertes Projektmanagement mit einem klaren Blick für Abläuf"
+    },
+    {
+      "id": "arbeitnow:information-security-consultant-frankfurt-am-main-94922",
+      "source": "arbeitnow",
+      "title": "Information Security Consultant (m/w/d)",
+      "company": "Heartland Solutions GmbH",
+      "location": "Frankfurt am Main",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/heartland-solutions-gmbh/information-security-consultant-frankfurt-am-main-94922",
+      "posted_at": 1769363943,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "IT",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Als Information Security Consultant (m/w/d) begleitest Du unsere Kunden partnerschaftlich und serviceorientiert beim Aufbau, Betrieb und der Weiterentwicklung moderner ISMS-Strukturen.<br> Du arbeitest eng mit Kunden zusammen, verstehst Geschäftsmodelle und"
+    },
+    {
+      "id": "arbeitnow:werkstudent-datenpflege-systemeinfuhrung-wesel-363",
+      "source": "arbeitnow",
+      "title": "Werkstudent (m/w/d) Datenpflege & Systemeinführung",
+      "company": "Tenié und Gores GmbH",
+      "location": "Wesel",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/tenie-und-gores-gmbh/werkstudent-datenpflege-systemeinfuhrung-wesel-363",
+      "posted_at": 1769346095,
+      "salary": "",
+      "tags": [
+        "Building",
+        "Supply",
+        "Safety Services Engineering",
+        "Working student",
+        "hilfstätigkeit / student"
+      ],
+      "snippet": "<p>Tenié und Gores ist ein etablierter Dienstleister im Bereich Mess- und Energiedienstleistungen mit Sitz in Wesel. Wir unterstützen Hausverwaltungen, Eigentümer und Unternehmen bei der Erfassung, Verarbeitung und Abrechnung von Energie- und Wasserverbräuchen"
+    },
+    {
+      "id": "arbeitnow:sales-manager-sportnahrung-nahrungserganzungsmittel-berlin-187358",
+      "source": "arbeitnow",
+      "title": "Sales Manager (m/w/d) Sportnahrung / Nahrungsergänzungsmittel",
+      "company": "FI FITNESS INSPIRATION GMBH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/fi-fitness-inspiration-gmbh/sales-manager-sportnahrung-nahrungserganzungsmittel-berlin-187358",
+      "posted_at": 1769338933,
+      "salary": "",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "snippet": "<p>Wir sind ein schnell wachsendes Unternehmen im Bereich Sportnahrung und Nahrungsergänzungsmittel mit Fokus auf Qualität, Innovation und „Made in Germany“. Unsere Marke ist international vertreten und wächst stetig im B2B- und B2C-Bereich. Zur Verstärkung un"
+    },
+    {
+      "id": "arbeitnow:people-culture-hr-manager-teilzeit-berlin-52826",
+      "source": "arbeitnow",
+      "title": "People & Culture / HR Manager (m/w/d) - Teilzeit",
+      "company": "Home & Co Management GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/home-co-management-gmbh/people-culture-hr-manager-teilzeit-berlin-52826",
+      "posted_at": 1769337252,
+      "salary": "",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "snippet": "<p>Home and Co zählt zu den führenden Plattformen für Student Housing und modernes Wohnen in Europa. Wir managen über 3.000 Betten in Deutschland und Spanien mit klarem Fokus auf Qualität, operative Exzellenz und kontinuierliches strategisches Wachstum.</p> <p"
+    },
+    {
+      "id": "arbeitnow:entwicklerin-perl-und-c-auf-expertenlevel-berlin-hybrid-70000-90000-23940",
+      "source": "arbeitnow",
+      "title": "Entwickler:in Perl und C auf Expertenlevel, Berlin hybrid, 70.000 - 90.000",
+      "company": "wabcon",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/entwicklerin-perl-und-c-auf-expertenlevel-berlin-hybrid-70000-90000-23940",
+      "posted_at": 1769324587,
+      "salary": "",
+      "tags": [
+        "Software Development",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Unser Kunde entwickelt hochspezialisierte Softwarelösungen für<br> komplexe, rechtlich regulierte Geschäftsprozesse. Dabei handelt es sich<br> um ein anspruchsvolles Fachgebiet, das ein Grundverständnis des<br> deutschen Rechtssystems erfordert und zugleich"
+    },
+    {
+      "id": "arbeitnow:remote-senior-marketing-manager-dach-germany-170348",
+      "source": "arbeitnow",
+      "title": "Senior Marketing Manager - DACH",
+      "company": "Earnix",
+      "location": "Germany",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/earnix/remote-senior-marketing-manager-dach-germany-170348",
+      "posted_at": 1769323331,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Full-time"
+      ],
+      "snippet": "<p>We are seeking a dynamic Senior Marketing Manager to lead our marketing efforts across the DACH region. This role will focus on driving demand generation, brand awareness, and customer engagement for our SaaS B2B solutions. You will collaborate closely with"
+    },
+    {
       "id": "arbeitnow:praktikant-werkstudent-business-customer-growth-berlin-406371",
       "source": "arbeitnow",
       "title": "Praktikant-Werkstudent Business Customer Growth (m/w/d)",
@@ -804,7 +1113,7 @@
       "location": "Hanover",
       "remote": false,
       "url": "https://www.arbeitnow.com/jobs/companies/novemcore/controlling-business-analyst-hanover-347461",
-      "posted_at": 1769266903,
+      "posted_at": 1769327942,
       "salary": "",
       "tags": [
         "Controlling",
@@ -1792,267 +2101,6 @@
         "berufserfahren"
       ],
       "snippet": "<p>Wir sind ein innovatives Startup im Bereich Smart Farming und entwickeln eine Home-Farm, mit der man zuhause eigenes Spirulina anbauen kann.</p> <p>Bei uns arbeitest du nah am Produkt, übernimmst echte Verantwortung und begleitest die Elektronik von der ers"
-    },
-    {
-      "id": "arbeitnow:applikationsmanager-munich-212791",
-      "source": "arbeitnow",
-      "title": "Applikationsmanager (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/applikationsmanager-munich-212791",
-      "posted_at": 1769184146,
-      "salary": "",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "snippet": "<p>Im Auftrag unseres Kunden suchen wir Sie für den Standort München zum nächstmöglichen Zeitpunkt als <strong>„Applikationsmanager (m/w/d)“</strong></p> <h2><strong>Aufgaben</strong></h2> <ul> <li>Als <strong>Applikationsmanager (m/w/d)</strong> verantworten "
-    },
-    {
-      "id": "arbeitnow:lehrreiches-bezahltes-pflichtpraktikum-sales-im-home-office-berlin-353035",
-      "source": "arbeitnow",
-      "title": "Lehrreiches & bezahltes Pflichtpraktikum: Sales (im Home Office)",
-      "company": "LWB Group",
-      "location": "Berlin",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/lwb-group/lehrreiches-bezahltes-pflichtpraktikum-sales-im-home-office-berlin-353035",
-      "posted_at": 1769184145,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Distribution Marketing",
-        "Internship"
-      ],
-      "snippet": "<p>Du bist aktuell Student:in eines Bachelor- oder Masterstudiengangs und möchtest möglichst viel über KI-gestützten Vertrieb, digitale Prozesse &#x26; Sales lernen? Dieses Praktikum gibt dir die Möglichkeit, direkt von erfahrenen Sales-Profis zu lernen. Mit v"
-    },
-    {
-      "id": "arbeitnow:projektleiter-service-bestandsanlagen-hamburg-243105",
-      "source": "arbeitnow",
-      "title": "Projektleiter (m/w/d) Service & Bestandsanlagen",
-      "company": "Franke + Pahl GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/franke-pahl-gmbh/projektleiter-service-bestandsanlagen-hamburg-243105",
-      "posted_at": 1769200144,
-      "salary": "",
-      "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering",
-        "teamleitung"
-      ],
-      "snippet": "<p>Technische Großprojekte | Schwerpunkt Hamburg</p> <p>Manche Projekte brauchen keine Selbstdarsteller.<br> Sondern Menschen, die Verantwortung übernehmen, Ordnung schaffen und komplexe Abläufe zuverlässig steuern.</p> <p>Für ein langfristiges Service-Großpro"
-    },
-    {
-      "id": "arbeitnow:account-manager-social-media-berlin-481611",
-      "source": "arbeitnow",
-      "title": "Account Manager (m/w/d) (Social Media)",
-      "company": "RealStudio",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/realstudio/account-manager-social-media-berlin-481611",
-      "posted_at": 1769184143,
-      "salary": "",
-      "tags": [
-        "Marketing Manager"
-      ],
-      "snippet": "<p><strong>💜 Wir sind RealStudio</strong> -</p> <p>... eine Full-Service Agentur für TikTok- und Reel-Marketing in Berlin. Unser Ziel ist es, viralen &#x26; organischen Content zu erstellen, der die erfolgreichsten Marken in DACH auf die ForYou-Pages von Milli"
-    },
-    {
-      "id": "arbeitnow:inbound-marketing-expert-student-junior-berlin-476974",
-      "source": "arbeitnow",
-      "title": "Inbound Marketing Expert (Student/Junior)",
-      "company": "Elycor Investment Club e.V.",
-      "location": "Berlin",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/elycor-investment-club-ev/inbound-marketing-expert-student-junior-berlin-476974",
-      "posted_at": 1769184142,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Online Marketing",
-        "Freelance"
-      ],
-      "snippet": "<p><strong>Wer wir sind</strong></p> <p>Elycor vermittelt vielversprechende Start-ups an Venture Capital Investoren – pro bono für Gründer, erfolgsbasiert für uns. Wir arbeiten in selbstorganisierten Squads ohne klassische Hierarchien und teilen unsere Success"
-    },
-    {
-      "id": "arbeitnow:remote-business-development-representative-berlin-2688",
-      "source": "arbeitnow",
-      "title": "Business Development Representative",
-      "company": "Automat-it",
-      "location": "Berlin",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/automat-it/remote-business-development-representative-berlin-2688",
-      "posted_at": 1769182951,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Full-time"
-      ],
-      "snippet": "<p>Automat-it is where high-growth startups turn when they need to move faster, scale smarter, and make the most of the cloud. As an AWS Premier Partner and Strategic Partner, we deliver hands-on DevOps and FinOps and GenAI support that drives real results.</p"
-    },
-    {
-      "id": "arbeitnow:fachkraft-fur-arbeitssicherheit-mensch-berlin-312932",
-      "source": "arbeitnow",
-      "title": "Fachkraft für Arbeitssicherheit (mensch) Berlin",
-      "company": "Argumed GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/argumed-gmbh/fachkraft-fur-arbeitssicherheit-mensch-berlin-312932",
-      "posted_at": 1769182349,
-      "salary": "",
-      "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering"
-      ],
-      "snippet": "<p><strong>Lass uns gemeinsam eine ganze Industrie verändern!</strong><br> Argumed hat sich als Ziel gesteckt, Europas führender Anbieter im Bereich Arbeitssicherheit und Gesundheitsschutz am Arbeitsplatz zu werden. Mit einer hybriden Kombination aus digitalem"
-    },
-    {
-      "id": "arbeitnow:it-systemadministratorin-papenburg-26531",
-      "source": "arbeitnow",
-      "title": "IT-Systemadministrator*in",
-      "company": "CTOP GmbH",
-      "location": "Papenburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/ctop-gmbh/it-systemadministratorin-papenburg-26531",
-      "posted_at": 1769182348,
-      "salary": "",
-      "tags": [
-        "IT"
-      ],
-      "snippet": "<p>Die CTOP GmbH ist ein serviceorientierter IT-Dienstleister, der seit vielen Jahren Unternehmen verschiedenster Branchen bei Planung, Betrieb und Weiterentwicklung moderner IT-Infrastrukturen unterstützt. Unser Leistungsspektrum reicht von Netzwerk- und Syst"
-    },
-    {
-      "id": "arbeitnow:professional-services-consultant-heidelberg-113625",
-      "source": "arbeitnow",
-      "title": "Professional Services Consultant",
-      "company": "Everest Systems GmbH",
-      "location": "Heidelberg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/everest-systems-gmbh/professional-services-consultant-heidelberg-113625",
-      "posted_at": 1769182347,
-      "salary": "",
-      "tags": [
-        "Consulting",
-        "Engineering",
-        "professional / experienced"
-      ],
-      "snippet": "<p>Everest is redefining what an ERP can be. Our AI-native platform unifies finance, operations, and intelligence in one system — replacing disconnected workflows, manual processes, and data silos with real-time automation and contextual insights. We’re buildi"
-    },
-    {
-      "id": "arbeitnow:senior-it-operations-manager-berlin-421113",
-      "source": "arbeitnow",
-      "title": "Senior IT Operations Manager (m/w/d)",
-      "company": "Digital Career Institute GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/digital-career-institute-gmbh/senior-it-operations-manager-berlin-421113",
-      "posted_at": 1769180567,
-      "salary": "",
-      "tags": [
-        "Software Development",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Join the Digital Career Institute</h2> <p>Das <strong>Digital Career Institute</strong> (DCI) ist einer der führenden Anbieter für digitale Weiterbildungen in Deutschland. Wir helfen Menschen, neue berufliche Wege zu gehen – und vernetzen Bildung, Arbeitsm"
-    },
-    {
-      "id": "arbeitnow:senior-performance-marketing-manager-paid-social-all-genders-berlin-54446",
-      "source": "arbeitnow",
-      "title": "(Senior) Performance Marketing Manager - Paid Social (all genders)",
-      "company": "mammaly",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/senior-performance-marketing-manager-paid-social-all-genders-berlin-54446",
-      "posted_at": 1769180567,
-      "salary": "",
-      "tags": [
-        "Marketing Manager",
-        "professional / experienced"
-      ],
-      "snippet": "<p><strong>About mammaly</strong></p> <p>We are mammaly! - und unsere Mission sind gesunde und glückliche Hunde! Deshalb entwickeln wir Premium Supplements für Hunde, die ein langes und gutes Leben ermöglichen.<br> Gegründet in 2020, ist mammaly bereits jetzt "
-    },
-    {
-      "id": "arbeitnow:senior-performance-marketing-manager-paid-social-all-genders-berlin-215039",
-      "source": "arbeitnow",
-      "title": "(Senior) Performance Marketing Manager - Paid Social (all genders)",
-      "company": "mammaly",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/senior-performance-marketing-manager-paid-social-all-genders-berlin-215039",
-      "posted_at": 1769180566,
-      "salary": "",
-      "tags": [
-        "Marketing Manager",
-        "professional / experienced"
-      ],
-      "snippet": "<p><strong>About mammaly</strong></p> <p>We are mammaly! - und unsere Mission sind gesunde und glückliche Hunde! Deshalb entwickeln wir Premium Supplements für Hunde, die ein langes und gutes Leben ermöglichen.<br> Gegründet in 2020, ist mammaly bereits jetzt "
-    },
-    {
-      "id": "arbeitnow:senior-paid-social-media-manager-all-genders-berlin-167840",
-      "source": "arbeitnow",
-      "title": "(Senior) Paid Social Media Manager (all genders)",
-      "company": "mammaly",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/senior-paid-social-media-manager-all-genders-berlin-167840",
-      "posted_at": 1769180566,
-      "salary": "",
-      "tags": [
-        "Social Media Manager",
-        "manager"
-      ],
-      "snippet": "<p><strong>About mammaly</strong></p> <p>We are mammaly! - und unsere Mission sind gesunde und glückliche Hunde! Deshalb entwickeln wir Premium Supplements für Hunde, die ein langes und gutes Leben ermöglichen.<br> Gegründet in 2020, ist mammaly bereits jetzt "
-    },
-    {
-      "id": "arbeitnow:hls-tga-fachplaner-in-teilzeit-ingenieur-techniker-o-vergleichbar-nuremberg-439393",
-      "source": "arbeitnow",
-      "title": "HLS / TGA-Fachplaner (m/w/d) - in Teilzeit (Ingenieur / Techniker o. vergleichbar)",
-      "company": "DAMBAN Ingenieurbüro",
-      "location": "Nuremberg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/damban-ingenieurburo/hls-tga-fachplaner-in-teilzeit-ingenieur-techniker-o-vergleichbar-nuremberg-439393",
-      "posted_at": 1769180565,
-      "salary": "",
-      "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering"
-      ],
-      "snippet": "<p>DAMBAN Ingenieurbüro ist ein inhabergeführtes Ingenieurbüro für technische Gebäudeausrüstung (TGA) in Nürnberg. Zur langfristigen Unterstützung suchen wir einen fachlich versierten Ingenieur / Techniker / Meister als Teilzeitkraft für die Gewerke Heizung, L"
-    },
-    {
-      "id": "arbeitnow:mitarbeiterin-finanzen-controlling-dresden-145831",
-      "source": "arbeitnow",
-      "title": "Mitarbeiter:in Finanzen & Controlling",
-      "company": "Filminitiative Dresden e.V.",
-      "location": "Dresden",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/filminitiative-dresden-ev/mitarbeiterin-finanzen-controlling-dresden-145831",
-      "posted_at": 1769180565,
-      "salary": "",
-      "tags": [
-        "Controlling",
-        "Freelance",
-        "berufserfahren"
-      ],
-      "snippet": "<p><strong>Du liebst Excel?</strong></p> <p>Zahlen bringen dich nicht ins Schwitzen, sondern in den Flow? Förderlogiken, Budgets und Abrechnungen schrecken dich nicht ab – im Gegenteil? Du möchtest deine Expertise in einem internationalen Kurzfilmfestival eins"
-    },
-    {
-      "id": "arbeitnow:leitung-technische-planung-warmepumpe-photovoltaik-berlin-294365",
-      "source": "arbeitnow",
-      "title": "Leitung technische Planung (m/w/d) Wärmepumpe & Photovoltaik",
-      "company": "Enter by baupal GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/enter-by-baupal-gmbh/leitung-technische-planung-warmepumpe-photovoltaik-berlin-294365",
-      "posted_at": 1769180562,
-      "salary": "",
-      "tags": [
-        "Software Development",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>FIXING THE PLANET BY MAKING HOMES CARBON-FREE!</h2> <p>Mit einer Finanzierung von über 40 Mio. Euro von erstklassigen Investoren wie COATUE, Foundamental &#x26; Target Global arbeiten wir am größten Hebel im europäischen Klimaschutz – dem Gebäudebestand de"
     }
   ]
 }
