@@ -1,5 +1,5 @@
 {
-  "generated_at": "20260128T041535Z",
+  "generated_at": "20260129T044935Z",
   "count": 124,
   "errors": [],
   "jobs": [
@@ -102,11 +102,11 @@
     {
       "id": "remotive:2088608",
       "source": "remotive",
-      "title": "Product Inventor / Engineer @ Fun Ecom Co | Great People & Flexible Hours",
+      "title": "Product Developer / Engineer @ Fun Ecom Co | Great People & Flexible Hours",
       "company": "JLS Trading Co",
       "location": "Worldwide",
       "remote": true,
-      "url": "https://remotive.com/remote-jobs/product/product-inventor-engineer-fun-ecom-co-great-people-flexible-hours-2088608",
+      "url": "https://remotive.com/remote-jobs/product/product-developer-engineer-fun-ecom-co-great-people-flexible-hours-2088608",
       "posted_at": "2026-01-20T21:33:20",
       "salary": "",
       "tags": [
@@ -546,1591 +546,1547 @@
       "snippet": "<p class=\"h3\"> </p> <div class=\"h3\">WHO WE'RE LOOKING FOR</div> <div class=\"h3\">The ideal copywriter has excellent English writing skills and is excited to write high-quality, SEO-driven content that aligns with detailed, client-specific guidelines. Projects m"
     },
     {
-      "id": "arbeitnow:remote-technical-account-manager-dach-munich-281525",
+      "id": "arbeitnow:senior-project-manager-berlin-194070",
       "source": "arbeitnow",
-      "title": "Technical Account Manager - DACH",
-      "company": "SolarEdge",
-      "location": "Munich",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/solaredge/remote-technical-account-manager-dach-munich-281525",
-      "posted_at": 1769560928,
+      "title": "Senior Project Manager (m/w/d)",
+      "company": "Terra One Climate Solutions GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/terra-one-climate-solutions-gmbh/senior-project-manager-berlin-194070",
+      "posted_at": 1769646714,
       "salary": "",
       "tags": [
-        "Remote",
-        "Full-time"
+        "Project Management"
       ],
-      "snippet": "<p><strong>Are you ready to power the future? </strong></p><p>At SolarEdge (NASDAQ: SEDG), we're a global leader in smart energy technology, with over 4,000 employees, offices in 34 countries, and millions of installations worldwide.</p><p>Our innovative solut"
+      "snippet": "<p><strong>Über uns:</strong></p> <p>Willkommen bei <strong>Terra One</strong> – einem dynamisch wachsenden Unternehmen, das sich dem Aufbau der Zukunft der erneuerbaren Energien verschrieben hat. Unsere Mission ist es, einen nachhaltigen Beitrag zu einer bess"
     },
     {
-      "id": "arbeitnow:it-support-systemadministration-cologne-227788",
+      "id": "arbeitnow:working-student-people-culture-x-hamburg-122068",
       "source": "arbeitnow",
-      "title": "IT-Support & Systemadministration (m/w/d)",
-      "company": "PhysioSport Köln GmbH",
-      "location": "Cologne",
+      "title": "Working Student People & Culture (f/m/d/x)",
+      "company": "OceanScore Madeira, LDA",
+      "location": "Hamburg",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/physiosport-koln-gmbh/it-support-systemadministration-cologne-227788",
-      "posted_at": 1769560301,
+      "url": "https://www.arbeitnow.com/jobs/companies/oceanscore-madeira-lda/working-student-people-culture-x-hamburg-122068",
+      "posted_at": 1769646714,
       "salary": "",
       "tags": [
-        "System and Network Administration",
+        "HR",
         "Working student"
       ],
-      "snippet": "<p><strong>IT-Support &#x26; Systemadministration (m/w/d) bei PhysioSport Köln</strong></p> <p><strong>Deine Aufgaben bei uns:</strong></p> <ul> <li>Unterstützung bei der Betreuung unserer Computer, Tablets und Smartphones</li> <li>Hilfe bei IT-Problemen im Ar"
+      "snippet": "<p>As a Working Student in People &#x26; Culture at OceanScore, you support the operational foundation of our People function and contribute to a smooth employee experience. You assist with People &#x26; Culture initiatives that strengthen collaboration and en"
     },
     {
-      "id": "arbeitnow:senior-data-platform-engineer-berlin-12377",
+      "id": "arbeitnow:junior-spacecraft-operations-engineer-darmstadt-278867",
       "source": "arbeitnow",
-      "title": "Senior Data Platform Engineer (f/m/d)",
-      "company": "Apaleo",
+      "title": "Junior Spacecraft Operations Engineer",
+      "company": "VisionSpace Group",
+      "location": "Darmstadt",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/visionspace-group/junior-spacecraft-operations-engineer-darmstadt-278867",
+      "posted_at": 1769646713,
+      "salary": "",
+      "tags": [
+        "Engineering"
+      ],
+      "snippet": "<p><strong>VisionSpace</strong> is an engineering company with business in space and cybersecurity industries, exploring the intersection between the two. The company develops activities across a variety of domains ranging from operations, ground data systems,"
+    },
+    {
+      "id": "arbeitnow:werkstudent-social-media-siegen-495676",
+      "source": "arbeitnow",
+      "title": "Werkstudent Social Media (m/w/d)",
+      "company": "REFRESH Internet GmbH",
+      "location": "Siegen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/refresh-internet-gmbh/werkstudent-social-media-siegen-495676",
+      "posted_at": 1769646712,
+      "salary": "",
+      "tags": [
+        "Social Media Manager",
+        "Working student"
+      ],
+      "snippet": "<p><strong>Deine Mission</strong></p> <p>Du möchtest neben dem Studium Praxiserfahrung im Marketing sammeln und echte Projekte mitgestalten? Als Werkstudent:in im Social Media Management bist Du Teil unseres Teams und unterstützt uns bei der Planung, Umsetzung"
+    },
+    {
+      "id": "arbeitnow:product-experience-manager-all-genders-reutlingen-315286",
+      "source": "arbeitnow",
+      "title": "Product Experience Manager (all genders)",
+      "company": "kameon GmbH",
+      "location": "Reutlingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/kameon-gmbh/product-experience-manager-all-genders-reutlingen-315286",
+      "posted_at": 1769646712,
+      "salary": "",
+      "tags": [
+        "Product Management"
+      ],
+      "snippet": "<p><strong>Über kameon</strong></p> <p>Wir entwickeln moderne SaaS-Lösungen im eigenen Haus – mit einem internationalen Team, kurzen Wegen und viel Gestaltungsspielraum. Bei uns begleitest du Ideen von der ersten Skizze bis zum live genutzten Produkt.</p> <p><"
+    },
+    {
+      "id": "arbeitnow:content-campaign-manager-all-genders-reutlingen-365444",
+      "source": "arbeitnow",
+      "title": "Content & Campaign Manager (all genders)",
+      "company": "kameon GmbH",
+      "location": "Reutlingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/kameon-gmbh/content-campaign-manager-all-genders-reutlingen-365444",
+      "posted_at": 1769646711,
+      "salary": "",
+      "tags": [
+        "Online Marketing"
+      ],
+      "snippet": "<p><strong>Über kameon</strong></p> <p>Wir entwickeln moderne SaaS-Lösungen im eigenen Haus – mit einem internationalen Team, kurzen Wegen und viel Gestaltungsspielraum. Bei uns begleitest du Ideen von der ersten Skizze bis zum live genutzten Produkt.</p> <p><"
+    },
+    {
+      "id": "arbeitnow:content-campaign-manager-all-genders-berlin-23371",
+      "source": "arbeitnow",
+      "title": "Content & Campaign Manager (all genders)",
+      "company": "kameon GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/kameon-gmbh/content-campaign-manager-all-genders-berlin-23371",
+      "posted_at": 1769646711,
+      "salary": "",
+      "tags": [
+        "Online Marketing"
+      ],
+      "snippet": "<p><strong>Über kameon</strong></p> <p>Wir entwickeln moderne SaaS-Lösungen im eigenen Haus – mit einem internationalen Team, kurzen Wegen und viel Gestaltungsspielraum. Bei uns begleitest du Ideen von der ersten Skizze bis zum live genutzten Produkt.</p> <p><"
+    },
+    {
+      "id": "arbeitnow:operations-growth-lead-berlin-87729",
+      "source": "arbeitnow",
+      "title": "Operations Growth Lead (f/m/d)",
+      "company": "ZENJOB",
       "location": "Berlin, Berlin, Germany",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-data-platform-engineer-berlin-12377",
-      "posted_at": 1769550319,
+      "url": "https://www.arbeitnow.com/jobs/companies/zenjob/operations-growth-lead-berlin-87729",
+      "posted_at": 1769636719,
       "salary": "",
       "tags": [],
-      "snippet": "<h3>Join Apaleo and Shape the Future of Hospitality Tech!</h3> <p><strong>Apaleo</strong> is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables ho"
+      "snippet": "<p><strong>Die Rolle</strong></p> <p><a href=\"https://www.zenjob.com/en/\">Zenjob</a>&nbsp;ist eine KI-gestützte Plattform für flexible Personallösungen, die seit 2015 Unternehmen und temporäre Arbeitskräfte effizient miteinander verbindet. Unternehmen nutzen u"
     },
     {
-      "id": "arbeitnow:engineering-manager-munchen-54613",
+      "id": "arbeitnow:senior-backend-engineer-net-munchen-241488",
       "source": "arbeitnow",
-      "title": "Engineering Manager (f/m/d)",
+      "title": "Senior Backend Engineer (.NET) (f/m/d)",
       "company": "Apaleo",
       "location": "München, Bavaria, Germany",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/engineering-manager-munchen-54613",
-      "posted_at": 1769550319,
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-backend-engineer-net-munchen-241488",
+      "posted_at": 1769636718,
       "salary": "",
       "tags": [],
-      "snippet": "<p><span data-contrast=\"auto\">At Apaleo, we're revolutionizing the hospitality industry with our AI-first property management platform. We empower hotels to build modern tech stacks and agentic meshs that elevate guest experiences and streamline operations thr"
+      "snippet": "<h3>Join Apaleo and Shape the Future of Hospitality Tech!</h3> <p>Apaleo is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to custom"
     },
     {
-      "id": "arbeitnow:sr-account-executive-germany-berlin-18053",
+      "id": "arbeitnow:werkstudent-materialmanagement-berlin-489872",
       "source": "arbeitnow",
-      "title": "Sr. Account Executive, Germany",
-      "company": "OpenSpace",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/openspace/sr-account-executive-germany-berlin-18053",
-      "posted_at": 1769550318,
-      "salary": "",
-      "tags": [],
-      "snippet": "<p><strong>Brief summary of role:</strong></p> <p>DACH is a priority growth market for OpenSpace. We are hiring a Regional Sales Lead to accelerate growth across Germany, Austria and Switzerland. This is a senior player coach role: you will carry a quota, lead"
-    },
-    {
-      "id": "arbeitnow:werkstudentin-vertragsmanagement-munchen-111902",
-      "source": "arbeitnow",
-      "title": "Werkstudent*in  - Vertragsmanagement (m/w/d)",
+      "title": "Werkstudent (m/w/d) Materialmanagement",
       "company": "Flix",
-      "location": "München, Bayern, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/werkstudentin-vertragsmanagement-munchen-111902",
-      "posted_at": 1769550317,
-      "salary": "",
-      "tags": [],
-      "snippet": "<p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Bei Flix erwartet dich ein modernes, dynamisches Arbeitsumfeld mit fairer Bezahlung, vielseitigen Entwicklungsperspektiven und der Chance, durch innovative T"
-    },
-    {
-      "id": "arbeitnow:senior-category-manager-wm-berlin-43919",
-      "source": "arbeitnow",
-      "title": "Senior Category Manager (WM)",
-      "company": "Wolt - English",
       "location": "Berlin, Berlin, Germany",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-category-manager-wm-berlin-43919",
-      "posted_at": 1769550316,
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/werkstudent-materialmanagement-berlin-489872",
+      "posted_at": 1769636717,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und tollen Zusatzleistungen. Du hast die Möglichkeit, dich in einem dynamischen Umfeld weiterzuentwickeln, in dem de"
+    },
+    {
+      "id": "arbeitnow:werkstudent-logistik-material-berlin-45101",
+      "source": "arbeitnow",
+      "title": "Werkstudent (m/w/d) Logistik & Material",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/werkstudent-logistik-material-berlin-45101",
+      "posted_at": 1769636717,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und tollen Zusatzleistungen. Du hast die Möglichkeit, dich in einem dynamischen Umfeld weiterzuentwickeln, in dem de"
+    },
+    {
+      "id": "arbeitnow:werkstudent-operativer-einkauf-berlin-165753",
+      "source": "arbeitnow",
+      "title": "Werkstudent (m/w/d) Operativer Einkauf",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/werkstudent-operativer-einkauf-berlin-165753",
+      "posted_at": 1769636717,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und tollen Zusatzleistungen. Du hast die Möglichkeit, dich in einem dynamischen Umfeld weiterzuentwickeln, in dem de"
+    },
+    {
+      "id": "arbeitnow:working-student-partnermanagement-flixtrain-berlin-320396",
+      "source": "arbeitnow",
+      "title": "Working Student (m/w/d) Partnermanagement FlixTrain",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/working-student-partnermanagement-flixtrain-berlin-320396",
+      "posted_at": 1769636717,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und tollen Zusatzleistungen. Du hast die Möglichkeit, dich in einem dynamischen Umfeld weiterzuentwickeln, in dem de"
+    },
+    {
+      "id": "arbeitnow:senior-data-engineer-berlin-204999",
+      "source": "arbeitnow",
+      "title": "(Senior) Data Engineer",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-data-engineer-berlin-204999",
+      "posted_at": 1769636716,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p>As part of the Platform tribe, you will help build a self-service, AI-Ready Data Platform. The Data Platform team supports our next big bets: Data, AI, and real-time analytics. We are a team focused on building scalable, reliable infrastructure to enable ou"
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-data-platform-berlin-54028",
+      "source": "arbeitnow",
+      "title": "Senior Software Engineer - Data Platform",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-software-engineer-data-platform-berlin-54028",
+      "posted_at": 1769636716,
+      "salary": "",
+      "tags": [],
+      "snippet": "<p>The Data Platform team is supporting our next big bets: Data, AI, and real-time analytics. We are building an AI-ready, self-serve, and scalable infrastructure to enable the next generation of data products. Our team is a critical enabler for Data Science a"
+    },
+    {
+      "id": "arbeitnow:team-lead-retail-expansion-munich-399680",
+      "source": "arbeitnow",
+      "title": "Team Lead Retail Expansion",
+      "company": "Wolt - English",
+      "location": "Munich, Bavaria, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/team-lead-retail-expansion-munich-399680",
+      "posted_at": 1769636715,
       "salary": "",
       "tags": [],
       "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
     },
     {
-      "id": "arbeitnow:traineeship-public-relations-hamburg-52278",
+      "id": "arbeitnow:post-onboarding-success-specialist-fixed-term-contract-cologne-353917",
       "source": "arbeitnow",
-      "title": "Traineeship Public Relations (m/w/d)",
-      "company": "Cléo Public Relations",
-      "location": "Hamburg",
+      "title": "Post-Onboarding Success Specialist (Fixed-Term Contract)",
+      "company": "Wolt - English",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/cleo-public-relations/traineeship-public-relations-hamburg-52278",
-      "posted_at": 1769547708,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/post-onboarding-success-specialist-fixed-term-contract-cologne-353917",
+      "posted_at": 1769636715,
       "salary": "",
-      "tags": [
-        "Public Relations",
-        "Corporate Communication",
-        "Traineeship",
-        "berufseinstieg"
-      ],
-      "snippet": "<p>Cléo steht für Disruption. Wir modernisieren die PR-Welt und unterstützen Start-ups, Grown-ups und VCs bei der Disruption traditioneller Märkte. Wir beraten namhafte Gründer:innen in ihrer Kommunikationsstrategie und helfen ihnen, ihre Ziele mit effektiven "
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
     },
     {
-      "id": "arbeitnow:freelancer-vertrieb-it-dienstleistungen-solingen-221163",
+      "id": "arbeitnow:minijob-social-media-content-manager-frankfurt-am-main-304730",
       "source": "arbeitnow",
-      "title": "Freelancer Vertrieb IT-Dienstleistungen",
-      "company": "Krückeberg Servicegruppe",
-      "location": "Solingen",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/kruckeberg-servicegruppe/freelancer-vertrieb-it-dienstleistungen-solingen-221163",
-      "posted_at": 1769547707,
+      "title": "Minijob: Social Media & Content Manager (m/w/d)",
+      "company": "balconergy GmbH",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/balconergy-gmbh/minijob-social-media-content-manager-frankfurt-am-main-304730",
+      "posted_at": 1769632330,
       "salary": "",
       "tags": [
-        "Remote",
-        "Distribution Marketing",
-        "Freelance"
-      ],
-      "snippet": "<p>Die Krückeberg Servicegruppe ist ein wachsendes IT-Dienstleistungsunternehmen mit Fokus auf professionelle IT-Services für Geschäftskunden. Zur Erweiterung unseres Vertriebsnetzes suchen wir engagierte selbstständige Vertriebsmitarbeiter (Freelancer, m/w/d)"
-    },
-    {
-      "id": "arbeitnow:home-office-job-als-nebenjob-auch-hauptberuflich-moglich-babenhausen-253335",
-      "source": "arbeitnow",
-      "title": "Home Office Job als Nebenjob auch Hauptberuflich möglich",
-      "company": "Next Level Consulting",
-      "location": "Babenhausen",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/next-level-consulting/home-office-job-als-nebenjob-auch-hauptberuflich-moglich-babenhausen-253335",
-      "posted_at": 1769563743,
-      "salary": "",
-      "tags": [
-        "Remote",
         "Marketing and Communication",
         "Side"
       ],
-      "snippet": "<p>Bist du bereit, deine Karriere auf das nächste Level zu bringen? Bei Next Level Consulting suchen wir motivierte und engagierte Talente für unser Home Office Job Angebot. Wir sind ein dynamisches Unternehmen, das innovative Lösungen und erstklassige Beratun"
+      "snippet": "<p>Du hast ein Händchen für digitalen Content und willst uns dabei unterstützen die Energiewende aktiv mitzugestalten?!<br> Wir von <strong>balconergy</strong> suchen Verstärkung für unsere Online-Präsenz.</p> <h2>Aufgaben</h2> <p><strong>Multi-Channel Content"
     },
     {
-      "id": "arbeitnow:mediengestalter-in-digital-und-print-mwd-hamburg-254347",
+      "id": "arbeitnow:werkstudentin-marketing-social-media-events-frankfurt-am-main-240857",
       "source": "arbeitnow",
-      "title": "Mediengestalter/in Digital und Print (mwd)",
-      "company": "Bugaga Werbeagentur e.K.",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mwd-hamburg-254347",
-      "posted_at": 1769545922,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Wir sind eine junge und dynamische Werbemittelagentur aus Hamburg und als agiles Unternehmen sind wir permanent auf der Suche nach neuen Talenten wie dich!</p> <h2>Aufgaben</h2> <p>Mit Promobedarf - unserem Onlineshop für Werbeartikel - versorgen wir unsere"
-    },
-    {
-      "id": "arbeitnow:junior-medienberater-in-mwd-hamburg-333092",
-      "source": "arbeitnow",
-      "title": "Junior Medienberater/in (mwd)",
-      "company": "Bugaga Werbeagentur e.K.",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/junior-medienberater-in-mwd-hamburg-333092",
-      "posted_at": 1769545922,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Wir sind eine junge und dynamische Werbemittelagentur aus Hamburg und als wachsendes Unternehmen sind wir stets auf der Suche nach neuen Talenten und Unterstützung.</p> <p>Mit unserem Webshop für Werbeartikel <a href=\"http://Promobedarf.de\">Promobedarf.de</"
-    },
-    {
-      "id": "arbeitnow:founders-associate-marketing-growth-berlin-340945",
-      "source": "arbeitnow",
-      "title": "Founder's Associate - Marketing & Growth (m/w/d)",
-      "company": "Sunpeak Capital GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/sunpeak-capital-gmbh/founders-associate-marketing-growth-berlin-340945",
-      "posted_at": 1769540491,
-      "salary": "",
-      "tags": [
-        "Finance",
-        "Internship"
-      ],
-      "snippet": "<p><strong>Was machen wir bei Sunpeak Capital?</strong></p> <p>Rund 74 % aller CO₂-Emissionen in Deutschland entstehen im Zusammenhang mit der Energieproduktion - das sind über 543 Millionen Tonnen pro Jahr.</p> <p>Um die europäischen Klimaziele zu erreichen, "
-    },
-    {
-      "id": "arbeitnow:remote-financial-analyst-hr-analytics-berlin-308726",
-      "source": "arbeitnow",
-      "title": "Financial Analyst (HR Analytics)",
-      "company": "TripleTen",
-      "location": "Berlin",
+      "title": "Werkstudent*in Marketing / Social Media /Events",
+      "company": "Münzen Medaillen Frankfurt",
+      "location": "Frankfurt am Main",
       "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/tripleten/remote-financial-analyst-hr-analytics-berlin-308726",
-      "posted_at": 1769539328,
+      "url": "https://www.arbeitnow.com/jobs/companies/munzen-medaillen-frankfurt/werkstudentin-marketing-social-media-events-frankfurt-am-main-240857",
+      "posted_at": 1769630524,
       "salary": "",
       "tags": [
         "Remote",
-        "Full-time"
-      ],
-      "snippet": "<p><a href=\"https://tripleten.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>TripleTen</strong></a> is an online education platform helping people launch new careers in tech through immersive, outcomes-focused programs. We work globally, value data-dr"
-    },
-    {
-      "id": "arbeitnow:head-of-content-marketing-hamburg-119130",
-      "source": "arbeitnow",
-      "title": "Head of Content Marketing (m/w/d)",
-      "company": "Triviar Education GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/triviar-education-gmbh/head-of-content-marketing-hamburg-119130",
-      "posted_at": 1769552943,
-      "salary": "",
-      "tags": [
-        "CRM",
-        "Direct Marketing"
-      ],
-      "snippet": "<p>🌟 <strong>WIR SUCHEN DICH</strong> 🌟</p> <p>Für unser Triviar-Team in Hamburg suchen wir zum nächstmöglichen Zeitpunkt eine:n <strong>Head of Content Marketing (m/w/d)</strong>.</p> <p>Du übernimmst die <strong>end-to-end Verantwortung für unseren Content-A"
-    },
-    {
-      "id": "arbeitnow:of-chat-moderator-in-und-sales-rep-friedrichshafen-444754",
-      "source": "arbeitnow",
-      "title": "OF Chat-Moderator/-in und Sales Rep (m/w/d)",
-      "company": "Krea-M",
-      "location": "Friedrichshafen",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/krea-m/of-chat-moderator-in-und-sales-rep-friedrichshafen-444754",
-      "posted_at": 1769536891,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Distribution Marketing",
-        "Freelance"
-      ],
-      "snippet": "<p>Bist du bereit, deine Kommunikationsfähigkeiten auf das nächste Level zu bringen? Bei Krea-M, einem kleinen, aber dynamisch wachsenden Unternehmen im Bereich Marketing Services, suchen wir einen engagierten Chat-Moderator/-in (m/w/d), der unser Team verstär"
-    },
-    {
-      "id": "arbeitnow:founders-associate-growth-berlin-443649",
-      "source": "arbeitnow",
-      "title": "Founder's Associate / Growth (m/w/d)",
-      "company": "acemate.ai",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/founders-associate-growth-berlin-443649",
-      "posted_at": 1769535127,
-      "salary": "",
-      "tags": [
-        "Business Development",
-        "entry"
-      ],
-      "snippet": "<p>acemate is building an AI learning &#x26; teaching platform for higher and further education institutions. We have strong traction, secured funding and are entering an exciting growth phase. We're looking for a passionate <strong>Growth Engineer (Working St"
-    },
-    {
-      "id": "arbeitnow:ui-ux-designerin-teilzeit-oder-freelancer-hamburg-473317",
-      "source": "arbeitnow",
-      "title": "UI UX Designer:in - Teilzeit oder Freelancer (m/w/d)",
-      "company": "MUVN",
-      "location": "Hamburg",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/muvn/ui-ux-designerin-teilzeit-oder-freelancer-hamburg-473317",
-      "posted_at": 1769535126,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Product Design",
-        "Industrial Design",
-        "berufserfahren"
-      ],
-      "snippet": "<p><strong>Hey, wir sind MUVN, die Mitfahrgelegenheit für Gegenstände.</strong></p> <p>Wir verändern Logistik, indem wir Fahrer mit freiem Platz im Auto mit Menschen verbinden, die Dinge flexibel, günstig und nachhaltig transportieren wollen. Vom Kleinanzeigen"
-    },
-    {
-      "id": "arbeitnow:sachbearbeiter-in-finanzen-buchhalter-in-schwerpunkt-nebenkostenabrechnung-gewerbeimmobilien-outlet-montabaur-286426",
-      "source": "arbeitnow",
-      "title": "Sachbearbeiter/-in Finanzen / Buchhalter/-in (m/w/d) – Schwerpunkt Nebenkostenabrechnung Gewerbeimmobilien (Outlet Montabaur)",
-      "company": "homify GmbH & Co. KG",
-      "location": "Montabaur",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/homify-gmbh-co-kg/sachbearbeiter-in-finanzen-buchhalter-in-schwerpunkt-nebenkostenabrechnung-gewerbeimmobilien-outlet-montabaur-286426",
-      "posted_at": 1769535125,
-      "salary": "",
-      "tags": [
-        "Finance",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Deine Aufgaben</h2> <p><strong>Über die Position</strong></p> <p>Für das Outlet Montabaur suchen wir eine strukturierte, eigenverantwortliche Persönlichkeit im Finance Operations Bereich. Schwerpunkt der Rolle ist die <strong>professionelle Erstellung der "
-    },
-    {
-      "id": "arbeitnow:head-of-performance-marketing-hamburg-253989",
-      "source": "arbeitnow",
-      "title": "Head of Performance Marketing (m/w/d)",
-      "company": "Triviar Education GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/triviar-education-gmbh/head-of-performance-marketing-hamburg-253989",
-      "posted_at": 1769549344,
-      "salary": "",
-      "tags": [
-        "Online Marketing"
-      ],
-      "snippet": "<p>🌟 <strong>WIR SUCHEN DICH</strong> 🌟</p> <p>Für unser Triviar-Team in Hamburg suchen wir zum nächstmöglichen Zeitpunkt eine:n <strong>Head of Performance Marketing (m/w/d)</strong> unbefristet in Vollzeit.</p> <p>Du übernimmst bei Triviar die end-to-end Ver"
-    },
-    {
-      "id": "arbeitnow:crm-managerin-auf-520eur-basis-hamburg-386093",
-      "source": "arbeitnow",
-      "title": "CRM Manager:in auf 520€-Basis (m/w/d)",
-      "company": "MUVN",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/muvn/crm-managerin-auf-520eur-basis-hamburg-386093",
-      "posted_at": 1769533318,
-      "salary": "",
-      "tags": [
-        "CRM",
-        "Direct Marketing",
-        "Side"
-      ],
-      "snippet": "<p><strong>Hey, wir sind MUVN, die Mitfahrgelegenheit für Gegenstände.</strong></p> <p>Wir verändern Logistik, indem wir Fahrer mit freiem Platz im Auto mit Menschen verbinden, die Dinge flexibel, günstig und nachhaltig transportieren wollen. Vom Kleinanzeigen"
-    },
-    {
-      "id": "arbeitnow:art-direktor-berlin-279207",
-      "source": "arbeitnow",
-      "title": "Art Direktor (M/W/D)",
-      "company": "MWD GmbH & Co. KG",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/mwd-gmbh-co-kg/art-direktor-berlin-279207",
-      "posted_at": 1769533318,
-      "salary": "",
-      "tags": [
-        "Graphic Arts and Communication Design"
-      ],
-      "snippet": "<p>Für unseren Standort in Berlin suchen wir eine:n Art Direktor:in. Jemanden, der nicht nur Konzepte denkt, sondern sie auch visuell zum Leben erweckt. Ob animierte Social Assets, digitale Kampagnen oder klassische Printformate, du gestaltest Kommunikation, d"
-    },
-    {
-      "id": "arbeitnow:content-creatorin-auf-520eur-basis-hamburg-401535",
-      "source": "arbeitnow",
-      "title": "Content Creator:in auf 520€-Basis (m/w/d)",
-      "company": "MUVN",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/muvn/content-creatorin-auf-520eur-basis-hamburg-401535",
-      "posted_at": 1769547542,
-      "salary": "",
-      "tags": [
         "Social Media Manager",
-        "Side"
+        "Working student"
       ],
-      "snippet": "<p><strong>Hey, wir sind MUVN, die Mitfahrgelegenheit für Gegenstände.</strong></p> <p>Wir revolutionieren Logistik, indem wir Fahrer mit freiem Platz im Auto mit Menschen verbinden, die Dinge flexibel, günstig und nachhaltig transportieren wollen. Vom Kleinan"
+      "snippet": "<p>Zur Unterstützung des <strong>Marketing-Teams unserer Schwesterfirma</strong> suchen wir ab sofort einen engagierten <strong>Werkstudent*in im Bereich Marketing / Social Media</strong>.</p> <h2>Aufgaben</h2> <p><strong>Deine Aufgaben</strong></p> <ul> <li>U"
     },
     {
-      "id": "arbeitnow:senior-performance-marketing-manager-schwerpunkt-meta-berlin-124618",
+      "id": "arbeitnow:finanzbuchhalter-accountant-fur-unsere-beteiligungsgesellschaften-berlin-185215",
       "source": "arbeitnow",
-      "title": "(Senior) Performance Marketing Manager (Schwerpunkt Meta) (m/w/d)",
-      "company": "Dr. Emi Arpa Skin GmbH",
+      "title": "Finanzbuchhalter / Accountant (m/w/d) für unsere Beteiligungsgesellschaften",
+      "company": "FELS trader GmbH",
       "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-emi-arpa-skin-gmbh/senior-performance-marketing-manager-schwerpunkt-meta-berlin-124618",
-      "posted_at": 1769531565,
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/fels-trader-gmbh/finanzbuchhalter-accountant-fur-unsere-beteiligungsgesellschaften-berlin-185215",
+      "posted_at": 1769626903,
       "salary": "",
       "tags": [
-        "Online Marketing"
+        "Remote",
+        "Finance"
       ],
-      "snippet": "<p><strong>Wir suchen Dich!</strong></p> <p>DR. EMI ARPA Skin GmbH steht für moderne, wissenschaftlich fundierte Hautpflege – hergestellt in Deutschland. Gegründet von der in Berlin lebenden Dermatologin Dr. Emi Arpa, verbindet das Unternehmen effektive, hochw"
+      "snippet": "<p>Du arbeitest gerne eigenständig, bist zahlenaffin und möchtest Verantwortung übernehmen? Dann ist diese Rolle genau das Richtige für dich. Wir suchen eine zuverlässige, strukturierte Persönlichkeit, die für mehrere Gesellschaften (darunter auch kleinere Bet"
     },
     {
-      "id": "arbeitnow:api-db-softwareentwickler-im-backend-regensburg-359824",
+      "id": "arbeitnow:operations-strategy-lead-office-of-the-ceo-munich-158627",
       "source": "arbeitnow",
-      "title": "API- & DB- Softwareentwickler im Backend",
-      "company": "Vogl Electronic GmbH",
-      "location": "Regensburg",
+      "title": "Operations & Strategy Lead (Office of the CEO)",
+      "company": "Ecoturn GmbH",
+      "location": "Munich",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/vogl-electronic-gmbh/api-db-softwareentwickler-im-backend-regensburg-359824",
-      "posted_at": 1769531563,
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/operations-strategy-lead-office-of-the-ceo-munich-158627",
+      "posted_at": 1769626902,
       "salary": "",
       "tags": [
-        "Software Development",
-        "berufserfahren"
+        "Directors",
+        "Chief Executives",
+        "geschäftsleitung"
       ],
-      "snippet": "<p>Als familiengeführtes Technologieunternehmen entwickelt VOGL Electronic seit über 30 Jahren innovative Monitoring-Systeme für Hochspannungs-Schaltanlagen und Hochleistungstransformatoren. Unsere Lösungen entstehen aus echter Ingenieursarbeit – präzise, durc"
+      "snippet": "<p>Unser Geschäftsmodell bewegt sich an der Schnittstelle von CO₂-Zertifikaten, Finance, Tech und Scale-up Execution. Klare Prioritäten, schnelle Entscheidungen und saubere Umsetzung entscheiden bei uns über Erfolg. Für den nächsten Wachstumsschritt suchen wir"
     },
     {
-      "id": "arbeitnow:senior-e-commerce-manager-berlin-173779",
+      "id": "arbeitnow:softwarearchitekt-tubingen-329491",
       "source": "arbeitnow",
-      "title": "(Senior) E-Commerce Manager (m/w/d)",
-      "company": "Dr. Emi Arpa Skin GmbH",
-      "location": "Berlin",
+      "title": "Softwarearchitekt - (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Tübingen",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-emi-arpa-skin-gmbh/senior-e-commerce-manager-berlin-173779",
-      "posted_at": 1769531562,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/softwarearchitekt-tubingen-329491",
+      "posted_at": 1769626902,
+      "salary": "",
+      "tags": [
+        "Software Development"
+      ],
+      "snippet": "<p>Hast du Lust, unsere Java-Anwendungen auf das nächste Level zu heben? Liebst du es, mit modernem SQL und PostgreSQL spannende Herausforderungen zu lösen? Und fühlst du dich in der Welt von Linux und Frontend-Technologien wie React zuhause? Dann suchen wir g"
+    },
+    {
+      "id": "arbeitnow:design-communications-expert-vollzeit-ab-sofort-stuttgart-338046",
+      "source": "arbeitnow",
+      "title": "Design & Communications Expert (m/w/d), Vollzeit, ab sofort",
+      "company": "NXTGN Management GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/nxtgn-management-gmbh/design-communications-expert-vollzeit-ab-sofort-stuttgart-338046",
+      "posted_at": 1769625120,
       "salary": "",
       "tags": [
         "Marketing and Communication"
       ],
-      "snippet": "<p><strong>Wir suchen Dich!</strong></p> <p>DR. EMI ARPA Skin GmbH steht für moderne, wissenschaftlich fundierte Hautpflege – hergestellt in Deutschland. Gegründet von der in Berlin lebenden Dermatologin Dr. Emi Arpa, verbindet das Unternehmen effektive, hochw"
+      "snippet": "<p>NXTGN ist die Innovationsplattform aus Baden-Württemberg.</p> <p>Unser Ziel: eine erfolgreiche, innovative und eng vernetzte nächste Generation an Unternehmen. Dafür bringen wir Startups, Wissenschaft und etablierte Unternehmen der Wirtschaft zusammen.</p> "
     },
     {
-      "id": "arbeitnow:senior-digital-marketing-manager-munster-456260",
+      "id": "arbeitnow:e-commerce-marketplace-manager-shopify-amazon-gummersbach-254119",
       "source": "arbeitnow",
-      "title": "(Senior) Digital Marketing Manager (m/w/d)",
-      "company": "MedNet EC-REP GmbH",
-      "location": "Münster",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/mednet-ec-rep-gmbh/senior-digital-marketing-manager-munster-456260",
-      "posted_at": 1769531561,
-      "salary": "",
-      "tags": [
-        "Online Marketing"
-      ],
-      "snippet": "<p>Die MedNet EC-REP GmbH mit Hauptsitz in Münster ist ein führender Dienstleister für regulatorische Vertretung und Marktzugang in Europa. Als European Authorized Representative, UK Responsible Person und Swiss Authorized Representative unterstützt MedNet EC-"
-    },
-    {
-      "id": "arbeitnow:senior-consultant-sap-bw-datasphere-frankfurt-am-main-143188",
-      "source": "arbeitnow",
-      "title": "Senior Consultant SAP BW/Datasphere (m/w/d)",
-      "company": "Pertemps ERP",
-      "location": "Frankfurt am Main",
+      "title": "E-Commerce & Marketplace Manager Shopify & Amazon (m/w/d)",
+      "company": "VLUV GmbH & Co. KG",
+      "location": "Gummersbach",
       "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/senior-consultant-sap-bw-datasphere-frankfurt-am-main-143188",
-      "posted_at": 1769529713,
+      "url": "https://www.arbeitnow.com/jobs/companies/vluv-gmbh-co-kg/e-commerce-marketplace-manager-shopify-amazon-gummersbach-254119",
+      "posted_at": 1769619725,
       "salary": "",
       "tags": [
         "Remote",
-        "IT",
-        "teamleitung"
-      ],
-      "snippet": "<p><strong>Standort:</strong> flexibel / deutschlandweit (mit Einsatz in Kundenprojekten)<br> <strong>Beschäftigungsart:</strong> Vollzeit, unbefristet</p> <p><strong>Über uns</strong></p> <p>Wir sind eine etablierte SAP-Beratung, die datengetriebene Business-"
-    },
-    {
-      "id": "arbeitnow:stellvertretende-standortleitung-tga-versorgungstechnik-wolfsburg-270342",
-      "source": "arbeitnow",
-      "title": "Stellvertretende Standortleitung (m/w/d) | TGA / Versorgungstechnik",
-      "company": "robert obermeyer consulting GmbH",
-      "location": "Wolfsburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/robert-obermeyer-consulting-gmbh/stellvertretende-standortleitung-tga-versorgungstechnik-wolfsburg-270342",
-      "posted_at": 1769529712,
-      "salary": "",
-      "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering",
+        "Online Marketing",
         "berufserfahren"
       ],
-      "snippet": "<p>Seit über 30 Jahren steht Ihr zukünftiger Arbeitgeber für erfolgreiche Planung im Gewerbe- und Industriebau. Mit mehr als 10.000 realisierten Projekten und über 800 zufriedenen Kunden hat sich das Ingenieurbüro einen Namen als verlässlicher Partner für Tech"
+      "snippet": "<p>Die VLUV GmbH &#x26; Co. KG ist ein kleines, innovatives Handelsunternehmen, das eigene Marken und Produkte aus dem Konsumgüterbereich entwickelt, gestaltet, herstellt und vertreibt. Seit 2009 wird das Unternehmen von Kristof Hock familiär, ideenreich und v"
     },
     {
-      "id": "arbeitnow:steuerberater-und-oder-rechtsanwalt-als-gestaltungsberater-fur-restrukturierung-und-unternehmensnachfolge-regensburg-414092",
+      "id": "arbeitnow:business-development-representative-munich-259095",
       "source": "arbeitnow",
-      "title": "Steuerberater und/oder Rechtsanwalt als Gestaltungsberater für Restrukturierung und Unternehmensnachfolge (m/w/d)",
-      "company": "AWP Wirtschaftstreuhand GmbH",
-      "location": "Regensburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/awp-wirtschaftstreuhand-gmbh/steuerberater-und-oder-rechtsanwalt-als-gestaltungsberater-fur-restrukturierung-und-unternehmensnachfolge-regensburg-414092",
-      "posted_at": 1769529712,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p>Die AWP Wirtschaftstreuhand GmbH ist Mitglied des Netzwerkverbunds der LKC, welchem über 30 Kanzleien deutschlandweit angehören. Die gesuchte Person wird deshalb nicht nur für die AWP als Arbeitgeber tätig sein, sondern soll im Rahmen der gesamten LKC-Grupp"
-    },
-    {
-      "id": "arbeitnow:product-manager-trainee-frankfurt-am-main-132897",
-      "source": "arbeitnow",
-      "title": "Product Manager Trainee (m/w/d)",
-      "company": "Digitale Leute School | DL Education",
-      "location": "Frankfurt am Main",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school-dl-education/product-manager-trainee-frankfurt-am-main-132897",
-      "posted_at": 1769529711,
-      "salary": "",
-      "tags": [
-        "Product Management",
-        "berufseinstieg"
-      ],
-      "snippet": "<p>Digitale Leute ist die Plattform für Produktmanagement, UX-Design und Engineering. Über Konferenzen, Bootcamps und unsere Community vernetzen wir Fach- und Führungskräfte der Digitalbranche. Gemeinsam mit Partnern wie Airbnb, Porsche Digital, Atlassian oder"
-    },
-    {
-      "id": "arbeitnow:product-manager-trainee-berlin-405017",
-      "source": "arbeitnow",
-      "title": "Product Manager Trainee (m/w/d)",
-      "company": "Digitale Leute School | DL Education",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school-dl-education/product-manager-trainee-berlin-405017",
-      "posted_at": 1769529710,
-      "salary": "",
-      "tags": [
-        "Product Management",
-        "berufseinstieg"
-      ],
-      "snippet": "<p>Digitale Leute ist die Plattform für Produktmanagement, UX-Design und Engineering. Über Konferenzen, Bootcamps und unsere Community vernetzen wir Fach- und Führungskräfte der Digitalbranche. Gemeinsam mit Partnern wie Airbnb, Porsche Digital, Atlassian oder"
-    },
-    {
-      "id": "arbeitnow:product-manager-trainee-cologne-88073",
-      "source": "arbeitnow",
-      "title": "Product Manager Trainee (m/w/d)",
-      "company": "Digitale Leute School | DL Education",
-      "location": "Cologne",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school-dl-education/product-manager-trainee-cologne-88073",
-      "posted_at": 1769529710,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Training",
-        "Development",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<p>Digitale Leute ist die Plattform für Produktmanagement, UX-Design und Engineering. Über Konferenzen, Bootcamps und unsere Community vernetzen wir Fach- und Führungskräfte der Digitalbranche. Gemeinsam mit Partnern wie Airbnb, Porsche Digital, Atlassian oder"
-    },
-    {
-      "id": "arbeitnow:remote-sales-executive-dach-hamburg-270176",
-      "source": "arbeitnow",
-      "title": "Sales Executive - DACH",
-      "company": "GeoEdge",
-      "location": "Hamburg",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/geoedge/remote-sales-executive-dach-hamburg-270176",
-      "posted_at": 1769528531,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "None"
-      ],
-      "snippet": "<p>GeoEdge is the leading provider of ad security and quality solutions, trusted by hundreds of top ad platforms, publishers, and app developers worldwide.</p><p>Our mission is to make the internet safer by proactively eliminating malicious, deceptive, and low"
-    },
-    {
-      "id": "arbeitnow:remote-technical-account-manager-dach-munich-35546",
-      "source": "arbeitnow",
-      "title": "Technical Account Manager - DACH",
-      "company": "SolarEdge",
-      "location": "Munich",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/solaredge/remote-technical-account-manager-dach-munich-35546",
-      "posted_at": 1769528531,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Full-time"
-      ],
-      "snippet": "<p><strong>Are you ready to power the future? </strong></p><p>At SolarEdge (NASDAQ: SEDG), we're a global leader in smart energy technology, with over 4,000 employees, offices in 34 countries, and millions of installations worldwide.</p><p>Our innovative solut"
-    },
-    {
-      "id": "arbeitnow:steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-oder-lohnbuchhalter-rostock-136655",
-      "source": "arbeitnow",
-      "title": "Steuerfachangestellter, Steuerfachwirt, Bilanzbuchhalter oder Lohnbuchhalter (m/w/d)",
-      "company": "Contutum Molka Sprave Plagemann Gottschall Steuerberater Rechtsanwalt GbR",
-      "location": "Rostock",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/contutum-molka-sprave-plagemann-gottschall-steuerberater-rechtsanwalt-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-oder-lohnbuchhalter-rostock-136655",
-      "posted_at": 1769528244,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p><strong>Wir sind CONTUTUM.</strong></p> <p>Als Mensch im Mittelpunkt. Was wie eine Floskel klingen mag, ist Grundsatz unseres täglichen Handelns und elementarer Bestandteil unserer Kanzleistruktur. Hinter unserem CONTUTUM Wir-Gefühl steht eine Kanzlei mit ü"
-    },
-    {
-      "id": "arbeitnow:lohnbuchhalter-steuerfachangestellte-und-steuerfachwirte-alle-rostock-328940",
-      "source": "arbeitnow",
-      "title": "Lohnbuchhalter, Steuerfachangestellte und Steuerfachwirte (alle m/w/d)",
-      "company": "Contutum Molka Sprave Plagemann Gottschall Steuerberater Rechtsanwalt GbR",
-      "location": "Rostock",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/contutum-molka-sprave-plagemann-gottschall-steuerberater-rechtsanwalt-gbr/lohnbuchhalter-steuerfachangestellte-und-steuerfachwirte-alle-rostock-328940",
-      "posted_at": 1769528243,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p><strong>Wir sind CONTUTUM und suchen Lohnbuchhalter, Steuerfachangestellte und Steuerfachwirte (alle m/w/d)</strong></p> <p>Als Mensch im Mittelpunkt. Das ist für uns keine Floskel, sondern wichtig und gehört zu unseren Grundsätzen. Das CONTUTUM Wir-Gefühl "
-    },
-    {
-      "id": "arbeitnow:e-commerce-support-werkstudentin-teilzeit-cologne-406730",
-      "source": "arbeitnow",
-      "title": "E-Commerce Support (Werkstudent*in / Teilzeit) (m/w/d)",
-      "company": "fafe collection",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/fafe-collection/e-commerce-support-werkstudentin-teilzeit-cologne-406730",
-      "posted_at": 1769528109,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<p><strong>Online Shop · Content · Operations · Wachstum</strong></p> <p>Du hast Lust, hinter die Kulissen einer modernen Schmuckmarke zu schauen und <strong>echtes E-Commerce-Daily Business</strong> kennenzulernen?<br> Du arbeitest strukturiert, denkst mit un"
-    },
-    {
-      "id": "arbeitnow:e-commerce-und-marketing-managerin-cologne-454083",
-      "source": "arbeitnow",
-      "title": "E-Commerce und Marketing Manager*in (m/w/d)",
-      "company": "fafe collection",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/fafe-collection/e-commerce-und-marketing-managerin-cologne-454083",
-      "posted_at": 1769528108,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "berufserfahren"
-      ],
-      "snippet": "<p>35 - 40h/Woche in Köln – ab sofort<br> Vollzeit / Teilzeit</p> <h2>Aufgaben</h2> <p><strong>Deine Aufgaben:</strong></p> <ul> <li>Abstimmung und operative Durchführung aller Aktivitäten im Online Shop (Shopify)</li> <li>Du verantwortest die Sortiments-, Con"
-    },
-    {
-      "id": "arbeitnow:ausbildung-zum-zur-steuerfachangestellten-ab-01082026-alle-hamburg-466147",
-      "source": "arbeitnow",
-      "title": "Ausbildung zum / zur Steuerfachangestellten ab 01.08.2026, alle (m/w/d)",
-      "company": "BNS BARTELS NIEBUHR SCHMORR Steuerberatungsgesellschaft mbH",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/bns-bartels-niebuhr-schmorr-steuerberatungsgesellschaft-mbh/ausbildung-zum-zur-steuerfachangestellten-ab-01082026-alle-hamburg-466147",
-      "posted_at": 1769528108,
-      "salary": "",
-      "tags": [
-        "Finance",
-        "Apprenticeship"
-      ],
-      "snippet": "<p><strong>Familiär. Unterstützend. Kommunikativ. Lerne uns kennen.</strong></p> <p>Im Norden beheimatet, in der Beratung zuhause – als ganzheitlicher Ansprechpartner in steuerlichen, rechtlichen und betriebswirtschaftlichen Aspekten stehen wir unserer Mandant"
-    },
-    {
-      "id": "arbeitnow:projektmanager-ostfildern-321662",
-      "source": "arbeitnow",
-      "title": "Projektmanager (w/m/d)",
-      "company": "eder - Agentur für Produktkommunikation",
-      "location": "Ostfildern",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/eder-agentur-fur-produktkommunikation/projektmanager-ostfildern-321662",
-      "posted_at": 1769528107,
-      "salary": "",
-      "tags": [
-        "Product Design",
-        "Industrial Design"
-      ],
-      "snippet": "<p>In der Agentur eder legen wir bereits seit über 50 Jahren den Fokus auf professionelle Produktkommunikation. Für internationale Kunden aus der Automobil- und Industriebranche erschaffen wir State-of-the-Art Kommunikationsmittel für das digitale Vermarkten, "
-    },
-    {
-      "id": "arbeitnow:senior-quality-process-manager-freiburg-im-breisgau-488307",
-      "source": "arbeitnow",
-      "title": "Senior Quality & Process Manager",
-      "company": "Virtual Identity AG",
-      "location": "Freiburg im Breisgau",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual-identity-ag/senior-quality-process-manager-freiburg-im-breisgau-488307",
-      "posted_at": 1769528106,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Software Development",
-        "professional / experienced"
-      ],
-      "snippet": "<h2>Job Description</h2> <p>To maintain high quality standards in our customer projects, you will contribute with your expertise as a Senior Quality Engineer. You will also accompany our interdisciplinary project teams, implement suitable test approaches and c"
-    },
-    {
-      "id": "arbeitnow:steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-bad-homburg-295521",
-      "source": "arbeitnow",
-      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)",
-      "company": "SBC Steuerberater Rechtsanwälte GbR",
-      "location": "Bad Homburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-bad-homburg-295521",
-      "posted_at": 1769528105,
-      "salary": "",
-      "tags": [
-        "Training",
-        "Development",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<p><strong>Partnerschaft auf Augenhöhe.</strong><br> <strong>Wir stellen uns vor.</strong></p> <p>Seit nunmehr 20 Jahren stellen wir an unseren beiden Standorten in Bad Homburg und Darmstadt einen verlässlichen Partner dar – für unsere breitgefächerte Mandants"
-    },
-    {
-      "id": "arbeitnow:steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-250384",
-      "source": "arbeitnow",
-      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)",
-      "company": "SBC Steuerberater Rechtsanwälte GbR",
-      "location": "Darmstadt",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-250384",
-      "posted_at": 1769528104,
-      "salary": "",
-      "tags": [
-        "Training",
-        "Development",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<p><strong>Partnerschaft auf Augenhöhe.</strong><br> <strong>Wir stellen uns vor.</strong></p> <p>Seit nunmehr 20 Jahren stellen wir an unseren beiden Standorten in Bad Homburg und Darmstadt einen verlässlichen Partner dar – für unsere breitgefächerte Mandants"
-    },
-    {
-      "id": "arbeitnow:sachbearbeiter-im-bereich-verwaltung-und-buchhaltung-in-vollzeit-teilzeit-giessen-130295",
-      "source": "arbeitnow",
-      "title": "Sachbearbeiter (m/w/d) im Bereich Verwaltung und Buchhaltung in Vollzeit/Teilzeit",
-      "company": "Lenz Elektronik GmbH",
-      "location": "Giessen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/lenz-elektronik-gmbh/sachbearbeiter-im-bereich-verwaltung-und-buchhaltung-in-vollzeit-teilzeit-giessen-130295",
-      "posted_at": 1769528103,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p>Die Lenz Elektronik GmbH gehört zur MEG-Unternehmensgruppe und ist ein in der Modelleisenbahnbranche tätiges mittelständisches Unternehmen. Mit der Entwicklung und Produktion von Komponenten für die digitale Modellbahnsteuerung, sowie mit der Wiederbelebung"
-    },
-    {
-      "id": "arbeitnow:werkstudent-marketing-content-seo-munich-155117",
-      "source": "arbeitnow",
-      "title": "Werkstudent Marketing - Content & SEO (m/w/d)",
-      "company": "heycare",
+      "title": "Business Development Representative (m/w/d)",
+      "company": "ondevi GmbH",
       "location": "Munich",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/heycare/werkstudent-marketing-content-seo-munich-155117",
-      "posted_at": 1769528102,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "Working student"
-      ],
-      "snippet": "<p><strong>hey du,</strong></p> <p><strong>heycare</strong> ist eine All-in-one Care-Lösung, die Mitarbeitenden bedarfsgerechte Unterstützung in den Bereichen mentale Gesundheit, Kinderbetreuung, Pflege von Angehörigen und Haustierbetreuung bietet.</p> <p>heyc"
-    },
-    {
-      "id": "arbeitnow:minijob-marketing-geretsried-116059",
-      "source": "arbeitnow",
-      "title": "Minijob Marketing (m/w/d)",
-      "company": "logiXperts GmbH",
-      "location": "Geretsried",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/logixperts-gmbh/minijob-marketing-geretsried-116059",
-      "posted_at": 1769528101,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "Side"
-      ],
-      "snippet": "<p>Die logiXperts GmbH ist ein technologieversierter FulFillment-Dienstleister mit dem Fokus auf aufstrebende D2C-/ B2B Webshops und den Buchvertrieb für Selfpublisher &#x26; Kleinverlage.</p> <p>Wir wurden aus der Bücherbüchse heraus als eigenständiges Logist"
-    },
-    {
-      "id": "arbeitnow:business-analyst-digitale-signatur-munster-461869",
-      "source": "arbeitnow",
-      "title": "Business Analyst (m/w/d) Digitale Signatur",
-      "company": "CPU Consulting & Software GmbH",
-      "location": "Münster",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/business-analyst-digitale-signatur-munster-461869",
-      "posted_at": 1769528100,
-      "salary": "",
-      "tags": [
-        "Product Management"
-      ],
-      "snippet": "<p><strong>Deine Rolle</strong></p> <p>Als <strong>Business Analyst (m/w/d)</strong> übernimmst du in einem agilen Squad die fachliche Verantwortung für die Weiterentwicklung des Produkts <strong>„Digitale Signatur“</strong> im Bankenumfeld.</p> <p>Du arbeites"
-    },
-    {
-      "id": "arbeitnow:product-marketing-manager-for-b2b-saas-portfolio-company-munich-330175",
-      "source": "arbeitnow",
-      "title": "Product Marketing Manager for B2B SaaS portfolio company (Munich)",
-      "company": "Reimann Investors",
-      "location": "Munich",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/reimann-investors/product-marketing-manager-for-b2b-saas-portfolio-company-munich-330175",
-      "posted_at": 1769528099,
-      "salary": "",
-      "tags": [
-        "Distribution Marketing"
-      ],
-      "snippet": "<p>The role comes with a high level of ownership, trust, and close collaboration across product, marketing, and commercial teams.</p> <p>You will play a key role in shaping how products are positioned, launched, and understood in the market, with direct impact"
-    },
-    {
-      "id": "arbeitnow:steuerfachwirt-bis-70000eur-jahresgehalt-bremen-386817",
-      "source": "arbeitnow",
-      "title": "Steuerfachwirt (m/w/d) - bis 70.000€ Jahresgehalt",
-      "company": "Gläser & Gehrmann GmbH Steuerberatungsgesellschaft",
-      "location": "Bremen",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/glaser-gehrmann-gmbh-steuerberatungsgesellschaft/steuerfachwirt-bis-70000eur-jahresgehalt-bremen-386817",
-      "posted_at": 1769528098,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p><strong>Das sind wir.</strong></p> <p>Gläser &#x26; Gehrmann - besondere Partner für besondere Herausforderungen. 2020 auf der grünen Wiese gegründet, haben wir uns mittlerweile zu einer etablierten Einheit mit einem klaren Kanzleiprofil und Kompetenzfelder"
-    },
-    {
-      "id": "arbeitnow:steuerfachwirt-bis-70000eur-jahresgehalt-hamburg-193331",
-      "source": "arbeitnow",
-      "title": "Steuerfachwirt (m/w/d) - bis 70.000€ Jahresgehalt",
-      "company": "Gläser & Gehrmann GmbH Steuerberatungsgesellschaft",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/glaser-gehrmann-gmbh-steuerberatungsgesellschaft/steuerfachwirt-bis-70000eur-jahresgehalt-hamburg-193331",
-      "posted_at": 1769528097,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p><strong>Das sind wir.</strong></p> <p>Gläser &#x26; Gehrmann - besondere Partner für besondere Herausforderungen. 2020 auf der grünen Wiese gegründet, haben wir uns mittlerweile zu einer etablierten Einheit mit einem klaren Kanzleiprofil und Kompetenzfelder"
-    },
-    {
-      "id": "arbeitnow:marketing-managerin-social-media-partnerships-20-24h-woche-berlin-38127",
-      "source": "arbeitnow",
-      "title": "Marketing Manager:in - Social Media Partnerships (20-24h/Woche)",
-      "company": "Get The Flat",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/get-the-flat/marketing-managerin-social-media-partnerships-20-24h-woche-berlin-38127",
-      "posted_at": 1769528096,
+      "url": "https://www.arbeitnow.com/jobs/companies/ondevi-gmbh/business-development-representative-munich-259095",
+      "posted_at": 1769619724,
       "salary": "",
       "tags": [
         "Online Marketing",
         "berufserfahren"
       ],
-      "snippet": "<p>Hast du Lust dabei zu helfen, Menschen in Berlin und anderen Großstädten die Wohnungssuche zu vereinfachen? Möchtest du in einem kleinen Team hands-on an echten Herausforderungen arbeiten und Verantwortung übernehmen?</p> <p><strong>Get The Flat</strong> is"
+      "snippet": "<p><strong>Wer sind wir?</strong></p> <p>Wir sind eine stark wachsende Google Ads &#x26; E-Mail Marketing Agentur mit Sitz in München. Unser dynamisches Team aus Digital Natives betreut die spannendsten E-Commerce Brands (z.B. PURELEI, Union Berlin) und macht "
     },
     {
-      "id": "arbeitnow:creative-manager-grafelfing-218287",
+      "id": "arbeitnow:sales-associate-munich-71533",
       "source": "arbeitnow",
-      "title": "Creative Manager (m/w/d)",
-      "company": "dean&david Franchise GmbH",
-      "location": "Gräfelfing",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/deandavid-franchise-gmbh/creative-manager-grafelfing-218287",
-      "posted_at": 1769528096,
-      "salary": "",
-      "tags": [
-        "Graphic Arts and Communication Design",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Mach den Unterschied – mit uns!</h2> <p>Als Creative Manager (m/w/d) verantwortest du die kreative und visuelle Weiterentwicklung der Marke dean&#x26;david.<br> Du stellst sicher, dass unsere Marke über alle Touchpoints hinweg konsistent, hochwertig und em"
-    },
-    {
-      "id": "arbeitnow:digital-marketing-specialist-grafelfing-285644",
-      "source": "arbeitnow",
-      "title": "Digital Marketing Specialist (m/w/d)",
-      "company": "dean&david Franchise GmbH",
-      "location": "Gräfelfing",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/deandavid-franchise-gmbh/digital-marketing-specialist-grafelfing-285644",
-      "posted_at": 1769528095,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Mach den Unterschied – mit uns!</h2> <p>Du bist verantwortlich für die operative Umsetzung, Steuerung und Optimierung der digitalen Marketingmaßnahmen von dean&#x26;david.<br> Dein Fokus liegt auf Website, App, SOT, Performance Marketing und CRM – mit dem "
-    },
-    {
-      "id": "arbeitnow:marketing-manager-grafelfing-40346",
-      "source": "arbeitnow",
-      "title": "Marketing Manager (m/w/d)",
-      "company": "dean&david Franchise GmbH",
-      "location": "Gräfelfing",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/deandavid-franchise-gmbh/marketing-manager-grafelfing-40346",
-      "posted_at": 1769528094,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Mach den Unterschied – mit uns!</h2> <p>Der Marketing Manager (m/w/d) verantwortet die strategische und operative Weiterentwicklung der Marke dean&#x26;david sowie die steuerungs- und performanceorientierte Führung aller digitalen Marketingaktivitäten. Zie"
-    },
-    {
-      "id": "arbeitnow:informationssicherheit-datenschutz-c5-dsms-werkstudent-praktikant-berlin-281828",
-      "source": "arbeitnow",
-      "title": "Informationssicherheit & Datenschutz (C5 / DSMS) - Werkstudent/ Praktikant (m/w/d)",
-      "company": "Roger",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/roger/informationssicherheit-datenschutz-c5-dsms-werkstudent-praktikant-berlin-281828",
-      "posted_at": 1769528093,
-      "salary": "",
-      "tags": [
-        "IT",
-        "Working student",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<p>Du unterstützt Roger beim Aufbau und der Umsetzung eines strukturierten Datenschutz- und Informationssicherheitsmanagementsystems (DSMS) und begleitest die Vorbereitung auf die C5-Testierung. Ziel ist es, regulatorische Anforderungen sauber, effizient und n"
-    },
-    {
-      "id": "arbeitnow:junior-business-development-manager-100-deutschland-singen-131415",
-      "source": "arbeitnow",
-      "title": "(Junior) Business Development Manager (100%) (m/w/d), Deutschland",
-      "company": "HighCoordination GmbH",
-      "location": "Singen",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/highcoordination-gmbh/junior-business-development-manager-100-deutschland-singen-131415",
-      "posted_at": 1769528092,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "IT",
-        "berufseinstieg"
-      ],
-      "snippet": "<p>Unternehmen aller Größen bauen erfolgreich auf HICOs Management- und IT-Beratung, um mit uns relevante BI-, Planungs- und Digitalisierungs-Herausforderungen effizient, modern und verlässlich zu lösen. Die HICO-Group verbindet die strategische Sicht und Verb"
-    },
-    {
-      "id": "arbeitnow:mid-level-react-frontend-developer-gn-dusseldorf-20156",
-      "source": "arbeitnow",
-      "title": "Mid-level React Frontend Developer (gn)",
-      "company": "i-doit GmbH",
-      "location": "Düsseldorf",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/i-doit-gmbh/mid-level-react-frontend-developer-gn-dusseldorf-20156",
-      "posted_at": 1769528092,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "snippet": "<p>Are you a <strong>Mid-level React Frontend Developer</strong> at heart and eager to help shape the future? Do the latest technologies make your heart beat faster? Then we should get to know each other! Just send us your <strong>GitHub profile</strong> — tha"
-    },
-    {
-      "id": "arbeitnow:junior-react-frontend-developer-gn-dusseldorf-382501",
-      "source": "arbeitnow",
-      "title": "Junior React Frontend Developer (gn)",
-      "company": "i-doit GmbH",
-      "location": "Düsseldorf",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/i-doit-gmbh/junior-react-frontend-developer-gn-dusseldorf-382501",
-      "posted_at": 1769528091,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Software Development",
-        "entry"
-      ],
-      "snippet": "<p>Are you a <strong>Junior React Frontend Developer</strong> at heart and eager to help shape the future? Do the latest technologies make your heart beat faster? Then we should get to know each other! Just send us your <strong>GitHub profile</strong> — that’s"
-    },
-    {
-      "id": "arbeitnow:copywriter-braunschweig-491179",
-      "source": "arbeitnow",
-      "title": "Copywriter",
-      "company": "heylogin GmbH",
-      "location": "Braunschweig",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/heylogin-gmbh/copywriter-braunschweig-491179",
-      "posted_at": 1769528090,
-      "salary": "",
-      "tags": [
-        "Technical Documentation",
-        "berufserfahren"
-      ],
-      "snippet": "<p>heylogin hat IT-Sicherheit neu gedacht – unkompliziert, deutsch und hochsicher. Wir entwickeln den ersten Passwortmanager <em>ohne Master-Passwort</em> und ersetzen Passwörter durch intuitive, hardwaregestützte Authentifizierung mit starker 2-Faktor-Technol"
-    },
-    {
-      "id": "arbeitnow:werkstudent-in-marketing-content-mwd-berlin-348634",
-      "source": "arbeitnow",
-      "title": "Werkstudent/in Marketing & Content (m,w,d)",
-      "company": "immotalente.de",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/immotalentede/werkstudent-in-marketing-content-mwd-berlin-348634",
-      "posted_at": 1769528089,
-      "salary": "",
-      "tags": [
-        "Online Marketing",
-        "Working student",
-        "berufseinstieg"
-      ],
-      "snippet": "<p><strong>Sichtbar machen. Begleiten. Inhalte kreieren.</strong></p> <p>Du hast ein Auge für gute Bilder, fühlst dich auf Events wohl und weißt, wie Social Media funktioniert. Du suchst eine Rolle, in der du kreativ arbeiten kannst, aber auch anpackst, wenn e"
-    },
-    {
-      "id": "arbeitnow:senior-python-engineer-voice-ai-platform-all-genders-munich-216453",
-      "source": "arbeitnow",
-      "title": "Senior Python Engineer - Voice AI Platform (all genders)",
-      "company": "NFON",
-      "location": "Munich",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/nfon/senior-python-engineer-voice-ai-platform-all-genders-munich-216453",
-      "posted_at": 1769528088,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Software Development",
-        "berufserfahren"
-      ],
-      "snippet": "<h2>Dein neuer Job</h2> <p>Du arbeitest eng mit verschiedenen Teams zusammen, um Kundenanforderungen zu verstehen, abzustimmen und gemeinsam in skalierbare Plattform-Features zu überführen.</p> <h2>Woran du mitwirken wirst</h2> <ul> <li>Du entwickelst und betr"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-data-platform-experimentation-berlin-54445",
-      "source": "arbeitnow",
-      "title": "Senior Full Stack Engineer, Data Platform - Experimentation",
-      "company": "Bolt Technology",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/bolt-technology/senior-full-stack-engineer-data-platform-experimentation-berlin-54445",
-      "posted_at": 1769525117,
-      "salary": "",
-      "tags": [],
-      "snippet": "<p>&lt;gh-intro&gt;</p> <p>&lt;text&gt;<span style=\"font-weight: 400;\">We are looking for an experienced </span><strong>Senior Full Stack Software Engineer</strong> to join our teams in Berlin. Join our diverse distributed cross-functional team, and help us ma"
-    },
-    {
-      "id": "arbeitnow:junior-manager-operational-planning-berlin-41840",
-      "source": "arbeitnow",
-      "title": "Junior Manager Operational Planning (m/w/d)",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/junior-manager-operational-planning-berlin-41840",
-      "posted_at": 1769525117,
-      "salary": "",
-      "tags": [],
-      "snippet": "<h3 style=\"line-height: 1.4;\">Betriebs- und Schichtplaner (m/w/d)&nbsp;</h3> <p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und tollen Zusatzleistungen. Du hast di"
-    },
-    {
-      "id": "arbeitnow:betriebsplaner-schwerpunkt-schichtplanung-berlin-19372",
-      "source": "arbeitnow",
-      "title": "Betriebsplaner (m/w/d) – Schwerpunkt Schichtplanung",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/betriebsplaner-schwerpunkt-schichtplanung-berlin-19372",
-      "posted_at": 1769525117,
-      "salary": "",
-      "tags": [],
-      "snippet": "<h3 style=\"line-height: 1.4;\">Betriebsplaner (m/w/d) - Schichtplanung&nbsp;</h3> <p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und tollen Zusatzleistungen. Du has"
-    },
-    {
-      "id": "arbeitnow:einsatz-und-betriebsplaner-flixtrain-berlin-104844",
-      "source": "arbeitnow",
-      "title": "Einsatz- und Betriebsplaner (m/w/d) FlixTrain",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/einsatz-und-betriebsplaner-flixtrain-berlin-104844",
-      "posted_at": 1769525117,
-      "salary": "",
-      "tags": [],
-      "snippet": "<h3 style=\"line-height: 1.4;\">Betriebsplaner (m/w/d) Junior-Mid Level</h3> <h3 style=\"line-height: 1.4;\"></h3> <p style=\"line-height: 1.4;\"><span style=\"font-size: 12pt;\">Bei FlixTrain bieten wir sichere Arbeitsplätze mit überdurchschnittlicher Bezahlung und t"
-    },
-    {
-      "id": "arbeitnow:recruiter-talent-acquisition-specialist-in-freital-dresden-336247",
-      "source": "arbeitnow",
-      "title": "Recruiter / Talent Acquisition Specialist (m/w/d) in Freital",
-      "company": "VEAXO Unternehmensgruppe",
-      "location": "Dresden",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/veaxo-unternehmensgruppe/recruiter-talent-acquisition-specialist-in-freital-dresden-336247",
-      "posted_at": 1769523616,
-      "salary": "",
-      "tags": [
-        "Recruitment and hr",
-        "vocational",
-        "Part-time permanent",
-        "mid"
-      ],
-      "snippet": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 1.3em\">„Gestalte Zukunft. Gewinne Talente. Mach einen Unterschied.“</span></strong></p><p style=\"text-align: center;\">Werde Teil unseres stahlharten Teams, das Kundenbeziehungen neu definiert, Ablä"
-    },
-    {
-      "id": "arbeitnow:international-recruiter-german-speaking-antwerpen-belgium-36646",
-      "source": "arbeitnow",
-      "title": "International Recruiter (German-speaking)",
-      "company": "Werken bij STAR",
-      "location": "Antwerpen, Belgium",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/werken-bij-star/international-recruiter-german-speaking-antwerpen-belgium-36646",
-      "posted_at": 1769523616,
-      "salary": "",
-      "tags": [
-        "Consulting",
-        "bachelor's degree",
-        "Full-time permanent",
-        "mid"
-      ],
-      "snippet": "<p><strong>ANTWERP CALLING GERMANY…</strong></p><p style=\";\"><strong><em>Bist du bereit für ein neues Abenteuer? Sprichst du fließend Deutsch und arbeitest Du gerne in einem jungen, ambitionierten und internationalen Umfeld? Dann komm nach Antwerpen (Belgien) "
-    },
-    {
-      "id": "arbeitnow:research-assistenz-dokumentenbearbeitung-im-executive-search-teilzeit-hamburg-382708",
-      "source": "arbeitnow",
-      "title": "Research Assistenz / Dokumentenbearbeitung im Executive Search (Teilzeit/ Hamburg)",
-      "company": "tomkos.partners",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/tomkospartners/research-assistenz-dokumentenbearbeitung-im-executive-search-teilzeit-hamburg-382708",
-      "posted_at": 1769520737,
-      "salary": "",
-      "tags": [
-        "Business Analyst",
-        "Side",
-        "berufserfahren"
-      ],
-      "snippet": "<p>TTP berät Vorstände, Aufsichts-, Verwaltungs- und Beiräte sowie Gesellschafter und Inhaber. Wir bieten kompetente Unterstützung bei der Besetzung und Betreuung dieser Gremien sowie bei wichtigen und sensiblen Fragestellungen zu Nachfolgeplanung, Einzelbewer"
-    },
-    {
-      "id": "arbeitnow:hr-manager-konstanz-462186",
-      "source": "arbeitnow",
-      "title": "HR Manager (m/w/d)",
-      "company": "RCT Power GmbH",
-      "location": "Konstanz",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/rct-power-gmbh/hr-manager-konstanz-462186",
-      "posted_at": 1769520737,
-      "salary": "",
-      "tags": [
-        "Management",
-        "Team Leader"
-      ],
-      "snippet": "<p>RCT Power GmbH bietet Lösungen für Batteriespeichersysteme in Verbindung mit Solaranlagen. Ein erfahrenes dynamisches Team entwickelt hierfür am attraktiven Standort Konstanz die Batterietechnologie sowie die dazugehörige Wechselrichter- und Systemtechnik. "
-    },
-    {
-      "id": "arbeitnow:praktikant-human-resources-am-standort-leipzig-459574",
-      "source": "arbeitnow",
-      "title": "Praktikant (m/w/d) Human Resources am Standort Leipzig",
-      "company": "allaboutHRLaw GmbH",
-      "location": "Leipzig",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/praktikant-human-resources-am-standort-leipzig-459574",
-      "posted_at": 1769520736,
-      "salary": "",
-      "tags": [
-        "HR",
-        "Internship"
-      ],
-      "snippet": "<p><strong>allaboutHRLaw</strong> GmbH ist ein dynamisches, stark wachsendes Beratungsunternehmen, welches für Start-ups, kleine und mittelständische Unternehmen ganz oder teilweise die Personalarbeit übernimmt, als HR as a service. Wir haben bereits namhafte "
-    },
-    {
-      "id": "arbeitnow:kfz-mechatroniker-kothen-anhalt-497847",
-      "source": "arbeitnow",
-      "title": "Kfz-Mechatroniker",
-      "company": "Autohaus Jung GmbH",
-      "location": "Köthen (Anhalt)",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/autohaus-jung-gmbh/kfz-mechatroniker-kothen-anhalt-497847",
-      "posted_at": 1769520736,
-      "salary": "",
-      "tags": [
-        "Automotive Engineering"
-      ],
-      "snippet": "<p>Du hast Lust, gemeinsam mit uns Kunden zu begeistern?<br> Du hast Spaß an Autos, am Schrauben und am Umgang mit Top moderner Diagnosetechnik?<br> Dann bist du im unserem Team genau richtig!<br> Seit 35 Jahren wachsen wir stetig und suchen als erfolgreiches "
-    },
-    {
-      "id": "arbeitnow:marketing-projekt-manager-social-media-waldbrol-156479",
-      "source": "arbeitnow",
-      "title": "Marketing Projekt Manager | Social Media (m/w/d)",
-      "company": "vanmackenbach",
-      "location": "Waldbröl",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/vanmackenbach/marketing-projekt-manager-social-media-waldbrol-156479",
-      "posted_at": 1769520735,
-      "salary": "",
-      "tags": [
-        "Social Media Manager"
-      ],
-      "snippet": "<p>#404 BAD CONTENT NOT FOUND</p> <p><strong>vanmackenbach</strong> ist eine junge Marketingagentur mit Sitz im Herzen von Waldbröl.<br> Momentan sind wir noch zu zweit – aber unser Plan ist klar: wir wollen auf 4–5 kreative Köpfe wachsen. Und genau dafür such"
-    },
-    {
-      "id": "arbeitnow:senior-art-director-vollzeit-hamburg-322709",
-      "source": "arbeitnow",
-      "title": "(Senior) Art Director (m/w/d) - Vollzeit - Hamburg",
-      "company": "caspar company GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/caspar-company-gmbh/senior-art-director-vollzeit-hamburg-322709",
-      "posted_at": 1769520735,
-      "salary": "",
-      "tags": [
-        "Graphic Arts and Communication Design",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Du liebst es, kreative Ideen in visuelle Konzepte zu übersetzen, bist strukturiert und kommunikationsstark? Dann bist du bei uns genau richtig!</p> <p>caspar company ist Marktführer in Shopper Activation Promotions. Seit über 20 Jahren entwickeln und realis"
-    },
-    {
-      "id": "arbeitnow:werkstudentin-social-media-managerin-bonn-447757",
-      "source": "arbeitnow",
-      "title": "Werkstudentin Social Media Managerin (m/w/d)",
-      "company": "Adwise Media GmbH",
-      "location": "Bonn",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/adwise-media-gmbh/werkstudentin-social-media-managerin-bonn-447757",
-      "posted_at": 1769520734,
-      "salary": "",
-      "tags": [
-        "Social Media Manager",
-        "Working student"
-      ],
-      "snippet": "<p>Wir sind ein wachsendes, modernes Unternehmen im Bereich Marketing &#x26; Werbung und arbeiten täglich daran, Marken sichtbar, relevant und präsent zu machen.</p> <p>Um unsere Online-Präsenz auf das nächste Level zu heben, suchen wir <strong>eine kreative, "
-    },
-    {
-      "id": "arbeitnow:technischer-projektmanager-hamburg-11949",
-      "source": "arbeitnow",
-      "title": "Technischer Projektmanager (m/w/d)",
-      "company": "Personalica GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/personalica-gmbh/technischer-projektmanager-hamburg-11949",
-      "posted_at": 1769520734,
-      "salary": "",
-      "tags": [
-        "Project Management"
-      ],
-      "snippet": "<p><strong>Personalica – Dein Karrierepartner für Technik und Innovation</strong></p> <p>Wir bei Personalica sind der moderne Ingenieursdienstleister im Herzen Norddeutschlands. Unser Fokus? Die Vermittlung von Fach- und Führungskräften in den spannendsten Zuk"
-    },
-    {
-      "id": "arbeitnow:technical-support-specialist-devops-backend-data-berlin-486103",
-      "source": "arbeitnow",
-      "title": "Technical Support Specialist – DevOps / Backend / Data (m/f/d)",
-      "company": "Solactive AG",
-      "location": "Berlin",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/solactive-ag/technical-support-specialist-devops-backend-data-berlin-486103",
-      "posted_at": 1769520733,
-      "salary": "",
-      "tags": [
-        "Software Development",
-        "entry"
-      ],
-      "snippet": "<h2>Company Description</h2> <p>Since its foundation in 2007, Solactive AG has evolved into one of the world’s most important and fastest-growing index providers. From our headquarters in Frankfurt, we power global investment products across ETFs, structured p"
-    },
-    {
-      "id": "arbeitnow:programmiererin-softwareentwicklerin-ki-kunstliche-intelligenz-cologne-229835",
-      "source": "arbeitnow",
-      "title": "Programmierer*in / Softwareentwickler*in - KI / Künstliche Intelligenz (m/w/d)",
-      "company": "costdata GmbH",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/costdata-gmbh/programmiererin-softwareentwicklerin-ki-kunstliche-intelligenz-cologne-229835",
-      "posted_at": 1769518947,
-      "salary": "",
-      "tags": [
-        "IT"
-      ],
-      "snippet": "<p>Wir bei costdata GmbH entwickeln seit über 20 Jahren innovative Softwarelösungen für die präzise Produktkostenkalkulation. Unsere Tools werden weltweit von Unternehmen genutzt, um Produktkosten zu optimieren und bessere Einkaufsentscheidungen zu treffen. Al"
-    },
-    {
-      "id": "arbeitnow:social-media-managerin-content-creator-fitness-gesundheit-lifestyle-bielefeld-412960",
-      "source": "arbeitnow",
-      "title": "Social Media Manager:in / Content Creator (m/w/d) Fitness, Gesundheit & Lifestyle",
-      "company": "Albert Schneider - Personal Training UG (haftungsbeschränkt)",
-      "location": "Bielefeld",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/albert-schneider-personal-training-ug-haftungsbeschrankt/social-media-managerin-content-creator-fitness-gesundheit-lifestyle-bielefeld-412960",
-      "posted_at": 1769534943,
-      "salary": "",
-      "tags": [
-        "Social Media Manager",
-        "Side"
-      ],
-      "snippet": "<p>Ich bin Albert Schneider, selbstständiger Personal Trainer aus Bielefeld und ich unterstütze Menschen dabei ihre sportlichen &#x26; gesundheitlichen Ziele zu erreichen. Egal ob meine Kunden abnehmen möchten, Schmerzen loswerden wollen oder einen Ausgleich s"
-    },
-    {
-      "id": "arbeitnow:content-lead-munich-331539",
-      "source": "arbeitnow",
-      "title": "Content Lead",
-      "company": "Klar",
+      "title": "Sales Associate (m/w/d)",
+      "company": "ondevi GmbH",
       "location": "Munich",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/klar/content-lead-munich-331539",
-      "posted_at": 1769518945,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "berufserfahren"
-      ],
-      "snippet": "<p><strong>In Short:</strong> We are looking for someone that loves content and eCommerce and turns the eCom Unity, Europe’s largest eCommerce community, into a media company, that provides massive value for all members.</p> <p><strong>About Klar</strong></p> "
-    },
-    {
-      "id": "arbeitnow:it-systemadministrator-projekte-moderne-it-lubeck-326809",
-      "source": "arbeitnow",
-      "title": "IT-Systemadministrator (m/w/d) Projekte & moderne IT",
-      "company": "Systempartner Lübeck IT-Service GmbH",
-      "location": "Lübeck",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/systempartner-lubeck-it-service-gmbh/it-systemadministrator-projekte-moderne-it-lubeck-326809",
-      "posted_at": 1769518944,
-      "salary": "",
-      "tags": [
-        "System and Network Administration",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Wir sind ein wachsendes IT-Systemhaus mit dem Fokus auf Managed Services und der Betreuung mittelständischer Kunden in Hamburg und Lübeck. Mit einem motivierten Team gestalten wir moderne IT-Lösungen, die unsere Kunden langfristig erfolgreich machen. Dabei "
-    },
-    {
-      "id": "arbeitnow:telefonist-terminierer-in-teilzeit-oder-minijob-neuss-377848",
-      "source": "arbeitnow",
-      "title": "Telefonist / Terminierer (m/w/d) in Teilzeit oder Minijob - Neuss",
-      "company": "Sumasearch",
-      "location": "Neuss",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumasearch/telefonist-terminierer-in-teilzeit-oder-minijob-neuss-377848",
-      "posted_at": 1769518943,
+      "url": "https://www.arbeitnow.com/jobs/companies/ondevi-gmbh/sales-associate-munich-71533",
+      "posted_at": 1769619723,
       "salary": "",
       "tags": [
         "Online Marketing",
         "berufserfahren"
       ],
-      "snippet": "<p><strong>Wer ist Sumasearch?</strong></p> <p>Sumasearch ist ein Unternehmen für SEO, SEA, E-Commerce und Content Marketing mit Sitz in Düsseldorf, Nordrhein-Westfalen. Wir generieren Leads für Unternehmen, indem wir Inhalte für ihre Websites erstellen und un"
+      "snippet": "<p><strong>Wer sind wir?</strong></p> <p>Wir sind eine stark wachsende Google Ads &#x26; E-Mail Marketing Agentur mit Sitz in München. Unser dynamisches Team aus Digital Natives betreut die spannendsten E-Commerce Brands (z.B. PURELEI, Union Berlin) und macht "
     },
     {
-      "id": "arbeitnow:paid-content-marketing-intern-munich-343811",
+      "id": "arbeitnow:operations-manager-berlin-263712",
       "source": "arbeitnow",
-      "title": "Paid Content Marketing Intern",
-      "company": "Spreadly GmbH",
-      "location": "Munich",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/spreadly-gmbh/paid-content-marketing-intern-munich-343811",
-      "posted_at": 1769518942,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Online Marketing",
-        "Internship",
-        "entry"
-      ],
-      "snippet": "<p>Join Spreadly GmbH as a Paid Content Marketing Intern (3 months) and be part of our dynamic, remote-only team that's revolutionizing digital networking solutions! We're a small but mighty tech company with a big heart, passionate about empowering individual"
-    },
-    {
-      "id": "arbeitnow:it-administrator-spezialist-client-management-radolfzell-9179",
-      "source": "arbeitnow",
-      "title": "IT Administrator / Spezialist Client Management (m/w/d)",
-      "company": "Bell Food Group",
-      "location": "Radolfzell",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/bell-food-group/it-administrator-spezialist-client-management-radolfzell-9179",
-      "posted_at": 1769517142,
-      "salary": "",
-      "tags": [
-        "Applications Administration",
-        "teamleitung"
-      ],
-      "snippet": "<p>Du willst IT nicht nur betreiben, sondern aktiv mitgestalten? Dann bist du bei uns genau richtig! In unserem Infrastruktur-Team der Hügli Group IT übernimmst du gruppenweit Verantwortung für den Bereich Client Management und sorgst dafür, dass unsere IT-Umg"
-    },
-    {
-      "id": "arbeitnow:schadlingsbekampfer-bis-zu-48000-eur-provision-und-dienstwagen-zur-privatnutzung-dortmund-61429",
-      "source": "arbeitnow",
-      "title": "Schädlingsbekämpfer (m/w/d) | bis zu 48.000 € + Provision und Dienstwagen zur Privatnutzung",
-      "company": "Riverstate Premium Recruiting",
-      "location": "Dortmund",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/schadlingsbekampfer-bis-zu-48000-eur-provision-und-dienstwagen-zur-privatnutzung-dortmund-61429",
-      "posted_at": 1769517141,
-      "salary": "",
-      "tags": [
-        "Power Engineering and Environmental Engineering",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Sie sind ausgebildeter Schädlingsbekämpfer und auf der Suche nach neuen beruflichen Chancen? Dann könnte sich dieses Angebot für Sie lohnen!</p> <p>Es erwartet Sie eine interessante und abwechslungsreiche Tätigkeit, je nach Erfahrung ein Jahreseinstiegsgeha"
-    },
-    {
-      "id": "arbeitnow:schadlingsbekampfer-braunschweig-146422",
-      "source": "arbeitnow",
-      "title": "Schädlingsbekämpfer (m/w/d)",
-      "company": "Riverstate Premium Recruiting",
-      "location": "Braunschweig",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/schadlingsbekampfer-braunschweig-146422",
-      "posted_at": 1769517141,
-      "salary": "",
-      "tags": [
-        "Power Engineering and Environmental Engineering"
-      ],
-      "snippet": "<p><strong>Jetzt in eine sichere Zukunft starten – auch als Quereinsteiger!</strong></p> <p>Sie suchen eine spannende berufliche Herausforderung in einer krisensicheren Branche? Dann könnte diese Position perfekt zu Ihnen passen! Es erwartet Sie ein vielseitig"
-    },
-    {
-      "id": "arbeitnow:werkstudent-onlinemarketing-redaktion-offenbach-374624",
-      "source": "arbeitnow",
-      "title": "Werkstudent (w/m/d) Onlinemarketing & Redaktion",
-      "company": "Holzprofi24",
-      "location": "Offenbach",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/holzprofi24/werkstudent-onlinemarketing-redaktion-offenbach-374624",
-      "posted_at": 1769515436,
-      "salary": "",
-      "tags": [
-        "Marketing and Communication",
-        "Contract",
-        "hilfstätigkeit / student"
-      ],
-      "snippet": "<h2>Jobbeschreibung</h2> <p>Holzprofi24 und Leondo sind zwei der führenden E-Commerce-Brands im Bereich Haus &#x26; Garten in Deutschland und Europa. Mit über 20 Jahren Erfahrung, starken Sortimenten und datengetriebenem Onlinemarketing entwickeln wir täglich "
-    },
-    {
-      "id": "arbeitnow:schadlingsbekampfer-osnabruck-268991",
-      "source": "arbeitnow",
-      "title": "Schädlingsbekämpfer (m/w/d)",
-      "company": "Riverstate Premium Recruiting",
-      "location": "Osnabrück",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/schadlingsbekampfer-osnabruck-268991",
-      "posted_at": 1769515435,
-      "salary": "",
-      "tags": [
-        "Power Engineering and Environmental Engineering",
-        "berufserfahren"
-      ],
-      "snippet": "<p><strong>Jetzt in eine sichere Zukunft starten – auch als Quereinsteiger!</strong></p> <p>Sie suchen eine spannende berufliche Herausforderung in einer krisensicheren Branche? Dann könnte diese Position perfekt zu Ihnen passen! Es erwartet Sie ein vielseitig"
-    },
-    {
-      "id": "arbeitnow:senior-it-systemadministratorin-inhouse-hybrid-eltville-78473",
-      "source": "arbeitnow",
-      "title": "Senior IT - Systemadministrator:in Inhouse & Hybrid",
-      "company": "Intercon Solutions GmbH",
-      "location": "Eltville",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/senior-it-systemadministratorin-inhouse-hybrid-eltville-78473",
-      "posted_at": 1769515433,
-      "salary": "",
-      "tags": [
-        "System and Network Administration",
-        "berufserfahren"
-      ],
-      "snippet": "<p><strong>IT-Systemadministrator (m/w/d)</strong></p> <p><strong>Rhein-Main-Region | Vollzeit | Hybrid (Präsenz &#x26; Remote)</strong></p> <p>Ein wirtschaftlich stabiles, mittelständisches Unternehmen mit mehreren hundert Mitarbeitenden betreibt technisch an"
-    },
-    {
-      "id": "arbeitnow:senior-frontend-developer-angular-b2b-saas-hamburg-424448",
-      "source": "arbeitnow",
-      "title": "Senior Frontend Developer (m/w/d) - Angular B2B SaaS",
-      "company": "EPM Enterprise ProgressMaker GmbH",
-      "location": "Hamburg",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/epm-enterprise-progressmaker-gmbh/senior-frontend-developer-angular-b2b-saas-hamburg-424448",
-      "posted_at": 1769515432,
-      "salary": "",
-      "tags": [
-        "Remote",
-        "Software Development",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Unser Produkt ProgressMaker ist seit Jahren am Markt etabliert. Jetzt wird es Zeit, die nächste Generation des Produkts zu bauen. Dazu suchen einen sehr erfahrenen Angular-Entwickler, der eine neue Standardsoftware von Anfang an mitgestalten möchte.</p> <h2"
-    },
-    {
-      "id": "arbeitnow:senior-projektmanager-windenergie-remote-moglich-80000eur-100000eur-tantieme-berlin-450563",
-      "source": "arbeitnow",
-      "title": "Senior Projektmanager Windenergie (m/w/d) remote möglich | 80.000€ - 100.000€ + Tantieme",
-      "company": "Riverstate Premium Recruiting",
+      "title": "Operations Manager (m/w/d)",
+      "company": "SafeDriver Group GmbH",
       "location": "Berlin",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/senior-projektmanager-windenergie-remote-moglich-80000eur-100000eur-tantieme-berlin-450563",
-      "posted_at": 1769515431,
-      "salary": "",
-      "tags": [
-        "Power Engineering and Environmental Engineering",
-        "berufserfahren"
-      ],
-      "snippet": "<p>Zeit, dass sich was dreht – in der Energiewende, in den Köpfen, in Ihrer Karriere. Ihr erstes großes Projekt ist ab 2026 die Errichtung von 14 Windkraftanlagen in Brandenburg. <strong>Freuen Sie sich auf ein Einstiegsgehalt von bis zu 100.000€ im Jahr, flex"
-    },
-    {
-      "id": "arbeitnow:project-management-office-coordinator-cologne-92360",
-      "source": "arbeitnow",
-      "title": "Project Management Office Coordinator (m/w/d)",
-      "company": "Carmen Zimmermann Personalberatung",
-      "location": "Cologne",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/carmen-zimmermann-personalberatung/project-management-office-coordinator-cologne-92360",
-      "posted_at": 1769515430,
+      "url": "https://www.arbeitnow.com/jobs/companies/safedriver-group-gmbh/operations-manager-berlin-263712",
+      "posted_at": 1769619722,
       "salary": "",
       "tags": [
         "Business Operations",
         "berufserfahren"
       ],
-      "snippet": "<p><strong>Standort: Köln | Vollzeit | Unbefristet</strong></p> <p>Mein Mandant ist ein <strong>international agierendes Unternehmen aus der Finanzdienstleistungsbranche</strong>, das seit vielen Jahren fest im europäischen Markt verankert ist. Das Unternehmen"
+      "snippet": "<p>Ennoo Rental, Teil der SafeDriver Group, ist ein auf Ride-Hailing spezialisierter Autovermieter mit Sitz in Berlin und aktuell ausschließlich in Berlin operativ tätig. Weitere Standorte in anderen Städten befinden sich in Planung.</p> <p>Unsere Mission: Wir"
     },
     {
-      "id": "arbeitnow:customer-success-consultant-mwd-remote-wurzburg-152493",
+      "id": "arbeitnow:junior-account-executive-munich-271345",
       "source": "arbeitnow",
-      "title": "Customer Success Consultant (m|w|d) remote",
-      "company": "Simplifier AG",
-      "location": "Würzburg",
-      "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/simplifier-ag/customer-success-consultant-mwd-remote-wurzburg-152493",
-      "posted_at": 1769515429,
+      "title": "Junior Account Executive (m/w/d)",
+      "company": "ondevi GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/ondevi-gmbh/junior-account-executive-munich-271345",
+      "posted_at": 1769619722,
       "salary": "",
       "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering",
+        "Online Marketing",
+        "berufseinstieg"
+      ],
+      "snippet": "<p><strong>Wer sind wir?</strong></p> <p>Wir sind eine stark wachsende Google Ads &#x26; E-Mail Marketing Agentur mit Sitz in München. Unser dynamisches Team aus Digital Natives betreut die spannendsten E-Commerce Brands (z.B. PURELEI, Union Berlin) und macht "
+    },
+    {
+      "id": "arbeitnow:digital-sales-growth-manager-b2b-munich-209115",
+      "source": "arbeitnow",
+      "title": "Digital Sales & Growth Manager (B2B) (m/w/d)",
+      "company": "ondevi GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/ondevi-gmbh/digital-sales-growth-manager-b2b-munich-209115",
+      "posted_at": 1769619721,
+      "salary": "",
+      "tags": [
+        "Online Marketing",
         "berufserfahren"
       ],
-      "snippet": "<p>📍<strong>WÜRZBURG oder REMOTE | VOLLZEIT</strong></p> <p>Bei Simplifier möchten wir Kandidat:innen die Möglichkeit bieten, in einem spannenden und sich schnell wandelnden Umfeld mitzuwirken und dabei mit Expert:innen für die Digitalisierung von morgen zusam"
+      "snippet": "<p><strong>Wer sind wir?</strong></p> <p>Wir sind eine stark wachsende Google Ads &#x26; E-Mail Marketing Agentur mit Sitz in München. Unser dynamisches Team aus Digital Natives betreut die spannendsten E-Commerce Brands (z.B. PURELEI, Union Berlin) und macht "
     },
     {
-      "id": "arbeitnow:head-of-marketing-saas-hamburg-330195",
+      "id": "arbeitnow:praktikum-pr-beratung-kommunikation-marketing-hybrid-mannheim-492582",
       "source": "arbeitnow",
-      "title": "Head of Marketing (m/w/d) SaaS",
-      "company": "EPM Enterprise ProgressMaker GmbH",
-      "location": "Hamburg",
+      "title": "Praktikum: PR-Beratung, Kommunikation & Marketing (hybrid)",
+      "company": "ImageMacher",
+      "location": "Mannheim",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/imagemacher/praktikum-pr-beratung-kommunikation-marketing-hybrid-mannheim-492582",
+      "posted_at": 1769617918,
+      "salary": "",
+      "tags": [
+        "Social Media Manager",
+        "Internship",
+        "hilfstätigkeit / student"
+      ],
+      "snippet": "<p><strong>Wir suchen für unser Unternehmen CAMPAIGNS &#x26; TECHNOLOGY eine engagierte und zuverlässige Person, die uns im Bereich Contenterstellung, Marketingkampagnen und mit kreativen Ideen unterstützt.</strong><br> <strong>Unser Schwerpunkt liegt auf der "
+    },
+    {
+      "id": "arbeitnow:google-ads-trainee-stockelsdorf-409476",
+      "source": "arbeitnow",
+      "title": "Google Ads Trainee (m/w/d)",
+      "company": "digitalbakery GmbH",
+      "location": "Stockelsdorf",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/digitalbakery-gmbh/google-ads-trainee-stockelsdorf-409476",
+      "posted_at": 1769615292,
+      "salary": "",
+      "tags": [
+        "Training",
+        "Development",
+        "hilfstätigkeit / student"
+      ],
+      "snippet": "<p><strong>Wir sind die Google Ads-Taskforce für wachstumsorientierte E-Commerce-Shops.</strong></p> <p>Mit datengetriebener Strategie, Transparenz und echtem Teamgeist liefern wir greifbare Ergebnisse.</p> <p>Wenn du Lust hast, mit uns über 150 erfolgreiche S"
+    },
+    {
+      "id": "arbeitnow:google-ads-specialist-stockelsdorf-360649",
+      "source": "arbeitnow",
+      "title": "Google Ads Specialist (m/w/d)",
+      "company": "digitalbakery GmbH",
+      "location": "Stockelsdorf",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/digitalbakery-gmbh/google-ads-specialist-stockelsdorf-360649",
+      "posted_at": 1769632142,
+      "salary": "",
+      "tags": [
+        "Online Marketing",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Wir sind die Google Ads-Taskforce für wachstumsorientierte E-Commerce-Shops.</strong></p> <p>Mit datengetriebener Strategie, Transparenz und echtem Teamgeist liefern wir greifbare Ergebnisse.</p> <p>Wenn du Lust hast, mit uns über 150 erfolgreiche S"
+    },
+    {
+      "id": "arbeitnow:junior-accountant-vollzeit-40h-remote-munich-339125",
+      "source": "arbeitnow",
+      "title": "Junior Accountant (m/w/d) - Vollzeit (40h, Remote)",
+      "company": "Alphapet Ventures GmbH",
+      "location": "Munich",
       "remote": true,
-      "url": "https://www.arbeitnow.com/jobs/companies/epm-enterprise-progressmaker-gmbh/head-of-marketing-saas-hamburg-330195",
-      "posted_at": 1769515428,
+      "url": "https://www.arbeitnow.com/jobs/companies/alphapet-ventures-gmbh/junior-accountant-vollzeit-40h-remote-munich-339125",
+      "posted_at": 1769615290,
       "salary": "",
       "tags": [
         "Remote",
-        "Marketing Manager",
-        "teamleitung"
+        "Finance",
+        "berufseinstieg"
       ],
-      "snippet": "<p>Wir sind ein 20-köpfiges SaaS-Unternehmen mit über 20 Jahren Erfahrung in Enterprise-Lösungen für Strategieumsetzung und Programmmanagement. Unsere Kunden sind mittelständische Unternehmen, die komplexe Transformationsprojekte steuern und ihre strategischen"
+      "snippet": "<h2>Deine Aufgaben</h2> <p>Wir sind auf der Suche nach einem Junior Accountant (m/w/d), der uns im anfallenden Tagesgeschäft unterstützt und Verantwortung in unserem Finance-Team übernimmt. Die Stelle ist vorzugsweise an unseren Standorten in München oder Leip"
     },
     {
-      "id": "arbeitnow:filialleiterin-augenoptik-beratungsintensiver-einzelhandel-cologne-399812",
+      "id": "arbeitnow:full-stack-entwickler-karlsruhe-413753",
       "source": "arbeitnow",
-      "title": "Filialleiter:in (m/w/d) - Augenoptik - beratungsintensiver Einzelhandel",
-      "company": "Carmen Zimmermann Personalberatung",
-      "location": "Cologne",
+      "title": "Full-Stack Entwickler (m/w/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "location": "Karlsruhe",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/carmen-zimmermann-personalberatung/filialleiterin-augenoptik-beratungsintensiver-einzelhandel-cologne-399812",
-      "posted_at": 1769513557,
+      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/full-stack-entwickler-karlsruhe-413753",
+      "posted_at": 1769615290,
       "salary": "",
       "tags": [
-        "Management",
-        "Team Leader",
-        "teamleitung"
+        "Software Development",
+        "berufserfahren"
       ],
-      "snippet": "<p><strong>Einsatzorte</strong></p> <p>74523 Schwäbisch Hall · 86899 Landsberg am Lech · 34346 Hann. Münden · 35683 Dillenburg · 35066 Frankenberg ·</p> <p>40212 Düsseldorf (Flagshipstore) · 46483 Wesel · 47051 Duisburg · 42369 Wuppertal ·</p> <p>63065 Offenba"
+      "snippet": "<p><strong>Deine Rolle</strong></p> <p>Du bist auf der Suche nach einer neuen Herausforderung und <strong>die Softwareentwicklung ist deine Leidenschaft?</strong> Dabei hältst du sowohl die <strong>Frontend- als auch Backend-Seite</strong> immer im Blick? Dann"
     },
     {
-      "id": "arbeitnow:it-regular-technician-in-frankfurt-am-main-neu-60-60325-109279",
+      "id": "arbeitnow:devops-engineer-part-time-10h-week-berlin-60932",
       "source": "arbeitnow",
-      "title": "IT-Regular Technician (m/w/d) in Frankfurt am Main (Neu 6.0 60325)",
-      "company": "ganss personal GmbH",
+      "title": "DevOps Engineer (m/f/d) - Part Time (10h/week)",
+      "company": "Buying Labs",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/devops-engineer-part-time-10h-week-berlin-60932",
+      "posted_at": 1769615289,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Software Development",
+        "Freelance",
+        "professional / experienced"
+      ],
+      "snippet": "<h2>Our Company</h2> <p>,,Buying Labs is the leading global partner for sourcing and distributing premium consumer goods!\"</p> <p>We are looking for a skilled <strong>DevOps Engineer</strong> (m/f/d) in part time to join our dynamic engineering team at Buying "
+    },
+    {
+      "id": "arbeitnow:bauzeichner-baukonstrukteur-luneburg-150362",
+      "source": "arbeitnow",
+      "title": "Bauzeichner/ Baukonstrukteur (m/w/d)",
+      "company": "igbv INGENIEURGESELLSCHAFT FÜR BAU- UND VERMESSUNGSWESEN",
+      "location": "Lüneburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/igbv-ingenieurgesellschaft-fur-bau-und-vermessungswesen/bauzeichner-baukonstrukteur-luneburg-150362",
+      "posted_at": 1769615288,
+      "salary": "",
+      "tags": [
+        "Engineering"
+      ],
+      "snippet": "<p>Bei der IGBV Ingenieurgesellschaft geht es nicht nur um Pläne und Baustellen. Wir gestalten Infrastruktur, die Menschen bewegt.</p> <p>Unsere Vision: Ein Arbeitsumfeld, in dem junge Talente genauso gefragt sind wie erfahrene Profis. Ein Team, das füreinande"
+    },
+    {
+      "id": "arbeitnow:senior-customer-support-specialist-frankfurt-am-main-488157",
+      "source": "arbeitnow",
+      "title": "Senior Customer Support Specialist (m/w/d)",
+      "company": "6PM GmbH",
       "location": "Frankfurt am Main",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/ganss-personal-gmbh/it-regular-technician-in-frankfurt-am-main-neu-60-60325-109279",
-      "posted_at": 1769529543,
+      "url": "https://www.arbeitnow.com/jobs/companies/6pm-gmbh/senior-customer-support-specialist-frankfurt-am-main-488157",
+      "posted_at": 1769615288,
       "salary": "",
       "tags": [
-        "IT"
+        "Customer Service",
+        "teamleitung"
       ],
-      "snippet": "<p>Für einen renommierten Kunden suchen wir ab sofort mehrere <strong>IT-Regular Technician (m/w/d) in Frankfurt am Main</strong> (m/w/d)</p> <h2>Aufgaben</h2> <ul> <li>Betreuung von IT-Anwendern an den Technologiestandorten</li> <li>Aufnahme der Störungen und"
+      "snippet": "<p>Als eine der bekanntesten Streetwear Brands in Europa schaffen wir es bei 6PM nicht nur durch unsere Designs und unseren einzigartigen Vibe aus der grauen Masse der Szene hervorzustechen, sondern vor allem durch unsere Community. Egal ob Pop-Up Tour, eigene"
     },
     {
-      "id": "arbeitnow:kaufmannischer-mitarbeiter-schwerpunkt-buchhaltung-und-personal-in-vollzeit-furth-291986",
+      "id": "arbeitnow:performance-marketing-manager-full-time-dtc-health-brand-berlin-452236",
       "source": "arbeitnow",
-      "title": "Kaufmännischer Mitarbeiter (M/W/D) - Schwerpunkt Buchhaltung Und Personal In Vollzeit",
-      "company": "Cosmic Sports GmbH",
-      "location": "Fürth",
+      "title": "Performance Marketing Manager (Full Time) DtC Health Brand (m/w/d)",
+      "company": "FORTĒA®",
+      "location": "Berlin",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/cosmic-sports-gmbh/kaufmannischer-mitarbeiter-schwerpunkt-buchhaltung-und-personal-in-vollzeit-furth-291986",
-      "posted_at": 1769513555,
-      "salary": "",
-      "tags": [
-        "Finance"
-      ],
-      "snippet": "<p>Welcome to the cycling universe! Als wegweisender Fahrradteile-Importeur von exklusiven Premium-Marken ist Cosmic Sports tief in der Bike-Szene verwurzelt und zählt als verlässlicher Partner des qualifizierten Fachhandels zu den wichtigen Trägern der Fahrra"
-    },
-    {
-      "id": "arbeitnow:marketing-design-manager-alle-menschen-flensburg-417415",
-      "source": "arbeitnow",
-      "title": "Marketing & Design Manager (alle Menschen)",
-      "company": "AccountOne GmbH",
-      "location": "Flensburg",
-      "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/accountone-gmbh/marketing-design-manager-alle-menschen-flensburg-417415",
-      "posted_at": 1769513554,
+      "url": "https://www.arbeitnow.com/jobs/companies/fortea/performance-marketing-manager-full-time-dtc-health-brand-berlin-452236",
+      "posted_at": 1769615287,
       "salary": "",
       "tags": [
         "Marketing and Communication"
       ],
-      "snippet": "<p>Du denkst kreativ, hast aber gleichzeitig Zahlen und Performance im Blick? Du entwickelst starke Inhalte und Visuals und weißt, wie man Kampagnen datenbasiert steuert und optimiert? Dann bist Du bei uns genau richtig. Außerdem verbindest Du Storytelling mit"
+      "snippet": "<p><strong>Über uns</strong></p> <p>Wir bauen die führende digitale Consumer-Health-Brand im Bereich Healthy Aging auf. Unsere Mission: Vitalität neu erleben – für die besten Jahre Ihres Lebens.</p> <p>Forward Health verbindet medizinische Glaubwürdigkeit mit "
     },
     {
-      "id": "arbeitnow:junior-compliance-manager-vollzeit-40h-rochlitz-298401",
+      "id": "arbeitnow:finanz-und-lohnbuchhalter-wachenheim-403974",
       "source": "arbeitnow",
-      "title": "Junior Compliance Manager (m/w/d) Vollzeit (40h)",
-      "company": "S&L Connect GmbH",
-      "location": "Rochlitz",
+      "title": "Finanz- und Lohnbuchhalter (m/w/d)",
+      "company": "Jürgen Anton",
+      "location": "Wachenheim",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/sl-connect-gmbh/junior-compliance-manager-vollzeit-40h-rochlitz-298401",
-      "posted_at": 1769545743,
+      "url": "https://www.arbeitnow.com/jobs/companies/jurgen-anton/finanz-und-lohnbuchhalter-wachenheim-403974",
+      "posted_at": 1769615286,
       "salary": "",
       "tags": [
-        "Compliance",
-        "Security",
-        "berufseinstieg"
+        "Finance"
       ],
-      "snippet": "<p>S&#x26;L Connect, spezialisiert auf Agrartechnik, Rasen- und Grundstückspflege, ist stolz auf seine Partnerschaft mit John Deere. Wir sind der Partner für landwirtschaftliche Produktivität, hervorragende Maschinen und Dienstleistungen. Mit einem engagierten"
+      "snippet": "<p><strong>Echtes Team. Echte Chancen.</strong><br> <strong>Wir stellen uns vor.</strong></p> <p>Als Kanzlei, die auf Steuerberatung und Wirtschaftsprüfung spezialisiert ist, kennen wir uns mit Zahlen aus. Aber diese sind nicht der Mittelpunkt unseres Denkens "
     },
     {
-      "id": "arbeitnow:ma-analyst-frankfurt-am-main-36070",
+      "id": "arbeitnow:internship-working-student-social-media-poland-m-w-berlin-433991",
       "source": "arbeitnow",
-      "title": "M&A Analyst (m/w/d)",
-      "company": "VentureLink Partners",
-      "location": "Frankfurt am Main",
+      "title": "Internship / Working Student Social Media Poland (m/w/ *)",
+      "company": "Nailscamp GmbH",
+      "location": "Berlin",
       "remote": false,
-      "url": "https://www.arbeitnow.com/jobs/companies/venturelink-partners/ma-analyst-frankfurt-am-main-36070",
-      "posted_at": 1769513551,
+      "url": "https://www.arbeitnow.com/jobs/companies/nailscamp-gmbh/internship-working-student-social-media-poland-m-w-berlin-433991",
+      "posted_at": 1769615285,
       "salary": "",
       "tags": [
-        "Business Intelligence",
+        "Social Media Manager",
+        "Working student"
+      ],
+      "snippet": "<p>Nailscamp is an e-commerce company for nail cosmetics. You can find us under our brands Proglow or Ongle24. Ongle24 ist one of the market leaders in France and Belgium and Proglow is a rising star among nail lovers in Germany. Our mission is to provide cust"
+    },
+    {
+      "id": "arbeitnow:fachassistent-digitalisierung-und-it-prozesse-35000-60000-eur-jahresgehalt-altdorf-7458",
+      "source": "arbeitnow",
+      "title": "Fachassistent Digitalisierung und IT-Prozesse (m/w/d) 35.000 - 60.000 € Jahresgehalt",
+      "company": "SYLTAX Schlüter, Yblagger & Leitmeier Steuerberater PartGmbB",
+      "location": "Altdorf",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/syltax-schluter-yblagger-leitmeier-steuerberater-partgmbb/fachassistent-digitalisierung-und-it-prozesse-35000-60000-eur-jahresgehalt-altdorf-7458",
+      "posted_at": 1769615285,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "snippet": "<p><strong>Modern. Zukunftsorientiert. Kollegial.</strong></p> <p><strong>Bei uns bist du richtig.</strong></p> <p>Ja, wir sprechen bayrisch. Ja, wir sind stolz auf unsere Wurzeln. Nein, wir sind keine eingestaubte Kanzlei. Ganz im Gegenteil!</p> <p>Du findest"
+    },
+    {
+      "id": "arbeitnow:fachassistent-digitalisierung-und-it-prozesse-35000-60000-eur-jahresgehalt-altdorf-441679",
+      "source": "arbeitnow",
+      "title": "Fachassistent Digitalisierung und IT-Prozesse (m/w/d) 35.000 - 60.000 € Jahresgehalt",
+      "company": "SYLTAX Schlüter, Yblagger & Leitmeier Steuerberater PartGmbB",
+      "location": "Altdorf",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/syltax-schluter-yblagger-leitmeier-steuerberater-partgmbb/fachassistent-digitalisierung-und-it-prozesse-35000-60000-eur-jahresgehalt-altdorf-441679",
+      "posted_at": 1769615284,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p><strong>Modern. Zukunftsorientiert. Kollegial.</strong></p> <p><strong>Bei uns bist du richtig.</strong></p> <p>Ja, wir sprechen bayrisch. Ja, wir sind stolz auf unsere Wurzeln. Nein, wir sind keine eingestaubte Kanzlei. Ganz im Gegenteil!</p> <p>Du findest"
+    },
+    {
+      "id": "arbeitnow:working-student-people-organization-hamburg-14500",
+      "source": "arbeitnow",
+      "title": "Working Student - People & Organization (m/f/d)",
+      "company": "Buying Labs",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/working-student-people-organization-hamburg-14500",
+      "posted_at": 1769632142,
+      "salary": "",
+      "tags": [
+        "HR",
+        "Working student",
+        "hilfstätigkeit / student"
+      ],
+      "snippet": "<h2>Unternehmensbeschreibung</h2> <p>\"Buying Labs is the leading global partner for sourcing and distributing premium consumer goods!\"</p> <p>Menschen begeistern dich, Organisation ist dein Ding und du willst mehr als nur Theorie?<br> In unserem People &#x26; "
+    },
+    {
+      "id": "arbeitnow:seo-sea-spezialist-bayreuth-494616",
+      "source": "arbeitnow",
+      "title": "SEO/SEA Spezialist m/w/d",
+      "company": "GMK GmbH & Co. KG",
+      "location": "Bayreuth",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/gmk-gmbh-co-kg/seo-sea-spezialist-bayreuth-494616",
+      "posted_at": 1769615279,
+      "salary": "",
+      "tags": [
+        "Online Marketing",
         "berufserfahren"
       ],
-      "snippet": "<p>Für unseren Kunden, einem Transaction Risk Provider in Frankfurt am Main, suchen wir ab sofort einen M&#x26;A Analyst (m/w/d).</p> <h2>Aufgaben</h2> <ul> <li>Prüfung von Versicherungsanträgen auf Vollständigkeit und Richtigkeit</li> <li>Pflege relevanter In"
+      "snippet": "<p>Dein Herzschlag eskaliert, wenn du Online-Kampagnen entwickelst, die unseren Kunden Erfolg bringen? Dein Herzblut kocht beim Entwickeln einer digitalen Strategie? Dann bist du bei GMK genau richtig! Denn in unserem Online-Team kannst du 8/5+ analysieren, ko"
+    },
+    {
+      "id": "arbeitnow:account-executive-b2b-saas-coesfeld-36666",
+      "source": "arbeitnow",
+      "title": "Account Executive (B2B SaaS) (m/w/d)",
+      "company": "Nicole Hölscher",
+      "location": "Coesfeld",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/nicole-holscher/account-executive-b2b-saas-coesfeld-36666",
+      "posted_at": 1769615278,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Die brickfox GmbH ist ein innovatives und wachsendes Unternehmen im Bereich E-Commerce und Multichannel. Mit unserer skalierbaren SaaS-Lösung helfen wir Unternehmen, ihre Prozesse im E-Commerce effizient zu verwalten und ihren Verkauf auf verschiedenen Mark"
+    },
+    {
+      "id": "arbeitnow:remote-secaas-sales-director-germany-berlin-482632",
+      "source": "arbeitnow",
+      "title": "SECaaS Sales Director - Germany",
+      "company": "Allot",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/allot/remote-secaas-sales-director-germany-berlin-482632",
+      "posted_at": 1769614928,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Full-time"
+      ],
+      "snippet": "<p><strong>Who we are:</strong></p><p>Allot is an established industry leader in security solutions and network intelligence for service providers and enterprises around the world.</p><p>We believe in giving our Tier1 customers around the world real value by o"
+    },
+    {
+      "id": "arbeitnow:senior-buchhalterin-debitoren-kreditoren-d-berlin-222874",
+      "source": "arbeitnow",
+      "title": "Senior Buchhalter:in Debitoren & Kreditoren (w/m/x/d)",
+      "company": "MILES Mobility",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-buchhalterin-debitoren-kreditoren-d-berlin-222874",
+      "posted_at": 1769644743,
+      "salary": "",
+      "tags": [
+        "Finance",
+        "berufserfahren"
+      ],
+      "snippet": "<h2>Join the ride!</h2> <p>Als Senior Buchhalter:in Debitoren &#x26; Kreditoren führst du unsere Debitoren- und Kreditorenteams und stellst eine effiziente Rechnungsbearbeitung, die Einhaltung der Rechnungslegungsstandards sowie ein starkes Liquiditätsmanageme"
+    },
+    {
+      "id": "arbeitnow:steuerfachangestellter-lohnbuchhalter-rostock-401730",
+      "source": "arbeitnow",
+      "title": "Steuerfachangestellter/Lohnbuchhalter (m/w/d)",
+      "company": "Friedenberger Rudnick Steuerberatungsgesellschaft mbH",
+      "location": "Rostock",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/friedenberger-rudnick-steuerberatungsgesellschaft-mbh/steuerfachangestellter-lohnbuchhalter-rostock-401730",
+      "posted_at": 1769612636,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p><strong>Wer wir sind.</strong></p> <p>FRP – nordisch, authentisch, echt. Wir sind eine Kanzlei mit über 20 Teamplayern, die den Erfolg ihrer Mandanten stets vor Augen hat und neben den klassischen Tätigkeitsbereichen der steuerlichen Compliance, auch in den"
+    },
+    {
+      "id": "arbeitnow:ausbildung-zur-zum-kauffrau-mann-fur-buromanagement-rostock-442476",
+      "source": "arbeitnow",
+      "title": "Ausbildung zur/zum Kauffrau/-mann für Büromanagement (m/w/d)",
+      "company": "Friedenberger Rudnick Steuerberatungsgesellschaft mbH",
+      "location": "Rostock",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/friedenberger-rudnick-steuerberatungsgesellschaft-mbh/ausbildung-zur-zum-kauffrau-mann-fur-buromanagement-rostock-442476",
+      "posted_at": 1769612635,
+      "salary": "",
+      "tags": [
+        "Administration",
+        "Apprenticeship"
+      ],
+      "snippet": "<p><strong>Wer wir sind.</strong></p> <p>FRP – nordisch, authentisch, echt. Wir sind eine Kanzlei mit über 20 Teamplayern, die den Erfolg ihrer Mandanten stets vor Augen hat und neben den klassischen Tätigkeitsbereichen der steuerlichen Compliance, auch in den"
+    },
+    {
+      "id": "arbeitnow:digitale-buroassistenz-100-remote-wildflecken-477290",
+      "source": "arbeitnow",
+      "title": "Digitale Büroassistenz (m/w/d) | 100 % Remote",
+      "company": "Consulting Work Life Balance",
+      "location": "Wildflecken",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/consulting-work-life-balance/digitale-buroassistenz-100-remote-wildflecken-477290",
+      "posted_at": 1769612634,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Marketing and Communication",
+        "Side"
+      ],
+      "snippet": "<p><strong>Administrative Unterstützung | Gesundheits- &#x26; Lifestyle-Bereich | freie Mitarbeit</strong></p> <p>Tätigkeitsbeschreibung</p> <p>Für unsere digitalen Arbeitsprozesse suchen wir eine zuverlässige Unterstützung im administrativen Bereich.</p> <p>D"
+    },
+    {
+      "id": "arbeitnow:ceo-hamm-426215",
+      "source": "arbeitnow",
+      "title": "CEO  (m/w/d)",
+      "company": "EterniTeam GmbH",
+      "location": "Hamm",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/eterniteam-gmbh/ceo-hamm-426215",
+      "posted_at": 1769612634,
+      "salary": "",
+      "tags": [
+        "Directors",
+        "Chief Executives",
+        "geschäftsleitung"
+      ],
+      "snippet": "<p><strong>Wer sind wir?</strong></p> <p>EterniTeam hat die Lösung für Deutschlands größtes Problem im Unternehmertum: <strong>die Unternehmensnachfolge.</strong> Mit einem neuen, revolutionären Ansatz sichern wir die Nachfolge einiger der gut 1 Millionen Unte"
+    },
+    {
+      "id": "arbeitnow:auszubildender-zum-steuerfachangestellten-pfinztal-497607",
+      "source": "arbeitnow",
+      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
+      "company": "Zimmermann-Brase + Partner Steuerberatungsgesellschaft mbB",
+      "location": "Pfinztal",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/zimmermann-brase-partner-steuerberatungsgesellschaft-mbb/auszubildender-zum-steuerfachangestellten-pfinztal-497607",
+      "posted_at": 1769612630,
+      "salary": "",
+      "tags": [
+        "Finance",
+        "Apprenticeship"
+      ],
+      "snippet": "<p><strong>Unsere Story – gewachsen aus Überzeugung.</strong></p> <p>Es gibt Überzeugungen, die bleiben und genau das macht uns aus. Schon unsere Gründerin Martina Zimmermann-Brase hat früh daran geglaubt, dass man in der Steuerberatung mehr erreichen kann, we"
+    },
+    {
+      "id": "arbeitnow:auszubildender-zum-steuerfachangestellten-karlsruhe-371154",
+      "source": "arbeitnow",
+      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
+      "company": "Zimmermann-Brase + Partner Steuerberatungsgesellschaft mbB",
+      "location": "Karlsruhe",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/zimmermann-brase-partner-steuerberatungsgesellschaft-mbb/auszubildender-zum-steuerfachangestellten-karlsruhe-371154",
+      "posted_at": 1769612630,
+      "salary": "",
+      "tags": [
+        "Finance",
+        "Apprenticeship"
+      ],
+      "snippet": "<p><strong>Unsere Story – gewachsen aus Überzeugung.</strong></p> <p>Es gibt Überzeugungen, die bleiben und genau das macht uns aus. Schon unsere Gründerin Martina Zimmermann-Brase hat früh daran geglaubt, dass man in der Steuerberatung mehr erreichen kann, we"
+    },
+    {
+      "id": "arbeitnow:referentin-digital-fundraising-marketing-berlin-477418",
+      "source": "arbeitnow",
+      "title": "Referent*in Digital Fundraising/Marketing",
+      "company": "SOS Mediterranee Deutschland GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sos-mediterranee-deutschland-gmbh/referentin-digital-fundraising-marketing-berlin-477418",
+      "posted_at": 1769611635,
+      "salary": "",
+      "tags": [
+        "CRM",
+        "Direct Marketing",
+        "berufserfahren"
+      ],
+      "snippet": "<p>SOS MEDITERRANEE</p> <p>Die Europäische Vereinigung „SOS MEDITERRANEE“ ist eine humanitäre Seenotrettungs- Organisation, die 2015 von europäischem Bürger*innen gegründet wurde, um dem Mangel an ausreichenden Rettungskapazitäten im Mittelmeer zu begegnen. Di"
+    },
+    {
+      "id": "arbeitnow:werkstudium-oder-praktikum-wirtschaftsprufung-mannheim-463759",
+      "source": "arbeitnow",
+      "title": "Werkstudium oder Praktikum Wirtschaftsprüfung (m/w/d)",
+      "company": "bkb GmbH Steuerberatungs­gesellschaft",
+      "location": "Mannheim",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/bkb-gmbh-steuerberatungsgesellschaft/werkstudium-oder-praktikum-wirtschaftsprufung-mannheim-463759",
+      "posted_at": 1769611632,
+      "salary": "",
+      "tags": [
+        "Finance",
+        "Working student"
+      ],
+      "snippet": "<p><strong>Fünf Orte. Viele Möglichkeiten. Ein Ziel: gute Arbeit.</strong></p> <p>Rund 150 Persönlichkeiten, 5 Standorte in Speyer, Mannheim, Bensheim, Ludwigshafen und Landau und über 60 Jahre Erfahrung in der Steuerberatung und Wirtschaftsprüfung.</p> <p>Was"
+    },
+    {
+      "id": "arbeitnow:prufungsassistent-landau-297933",
+      "source": "arbeitnow",
+      "title": "Prüfungsassistent (m/w/d)",
+      "company": "bkb GmbH Steuerberatungs­gesellschaft",
+      "location": "Landau",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/bkb-gmbh-steuerberatungsgesellschaft/prufungsassistent-landau-297933",
+      "posted_at": 1769611631,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p><strong>Fünf Orte. Viele Möglichkeiten. Ein Ziel: gute Arbeit.</strong></p> <p>Rund 150 Persönlichkeiten, 5 Standorte in Speyer, Mannheim, Bensheim, Ludwigshafen und Landau und über 60 Jahre Erfahrung in der Steuerberatung und Wirtschaftsprüfung.</p> <p>Was"
+    },
+    {
+      "id": "arbeitnow:personalsachbearbeiter-1komma5-augsburg-383086",
+      "source": "arbeitnow",
+      "title": "Personalsachbearbeiter (m/w/d) - 1KOMMA5° Augsburg",
+      "company": "1KOMMA5˚",
+      "location": "Augsburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/personalsachbearbeiter-1komma5-augsburg-383086",
+      "posted_at": 1769611631,
+      "salary": "",
+      "tags": [
+        "HR",
+        "berufserfahren"
+      ],
+      "snippet": "<h2>1KOMMA5°</h2> <p>Bei <strong>1KOMMA5°</strong> bauen wir Europas führende Energie-Software-Plattform <strong>“Heartbeat”</strong> und schaffen so ein <strong>virtuelles Kraftwerk</strong>, das Photovoltaik, Stromspeicher, Wärmepumpen und Ladesäulen der Kun"
+    },
+    {
+      "id": "arbeitnow:devops-engineer-part-time-20h-week-hamburg-64794",
+      "source": "arbeitnow",
+      "title": "DevOps Engineer (m/f/d) - Part Time (20h/Week)",
+      "company": "Buying Labs",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/devops-engineer-part-time-20h-week-hamburg-64794",
+      "posted_at": 1769611630,
+      "salary": "",
+      "tags": [
+        "Software Development",
+        "professional / experienced"
+      ],
+      "snippet": "<h2>Our Company</h2> <p>,,Buying Labs is the leading global partner for sourcing and distributing premium consumer goods!\"</p> <p>We are looking for a skilled <strong>DevOps Engineer (m/f/d)</strong> in part time to join our dynamic engineering team at Buying "
+    },
+    {
+      "id": "arbeitnow:werkstudentin-qualitatsmanagement-lebensmittel-nahrungserganzung-berlin-67294",
+      "source": "arbeitnow",
+      "title": "Werkstudent*in Qualitätsmanagement (Lebensmittel / Nahrungsergänzung) (f/m/x)",
+      "company": "BRAINEFFECT",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/braineffect/werkstudentin-qualitatsmanagement-lebensmittel-nahrungserganzung-berlin-67294",
+      "posted_at": 1769611629,
+      "salary": "",
+      "tags": [
+        "Product Management"
+      ],
+      "snippet": "<p><strong>ABOUT</strong></p> <p>BRAINEFFECT ist eines der am schnellsten wachsenden E-Commerce-Unternehmen für Mind Nutrition in Deutschland. Unsere Vision: Eine Welt, die Mind Nutrition als Schlüssel für ein glückliches und gesundes Leben versteht – denn wer"
+    },
+    {
+      "id": "arbeitnow:intern-retail-expansion-prakitkum-start-ab-sofort-munich-53371",
+      "source": "arbeitnow",
+      "title": "Intern Retail Expansion (m/w/d, Prakitkum, Start: ab sofort)",
+      "company": "livom möbel ag",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/livom-mobel-ag/intern-retail-expansion-prakitkum-start-ab-sofort-munich-53371",
+      "posted_at": 1769611628,
+      "salary": "",
+      "tags": [
+        "Business Development",
+        "Internship",
+        "hilfstätigkeit / student"
+      ],
+      "snippet": "<p><strong>🛋️ Über Livom</strong></p> <p>Wir bei <strong>Livom</strong> glauben daran, dass Möbel mehr können müssen als nur gut aussehen. Mit unseren modularen, nachhaltigen und langlebigen Sofas schaffen wir Produkte, die Menschen durch verschiedene Lebensph"
+    },
+    {
+      "id": "arbeitnow:erp-service-desk-agent-munich-152584",
+      "source": "arbeitnow",
+      "title": "ERP Service Desk Agent (f/m/d)",
+      "company": "Mytheresa",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/mytheresa/erp-service-desk-agent-munich-152584",
+      "posted_at": 1769611628,
+      "salary": "",
+      "tags": [
+        "SAP/ERP Consulting",
+        "Development",
+        "professional / experienced"
+      ],
+      "snippet": "<p>To support our ERP Services team we are searching for a ERP Service Desk Agent (f/m/d) to be based in our Munich office.</p> <h2>Tasks</h2> <p><strong>WHAT YOU WILL DO</strong></p> <ul> <li>Providing 1st level support for ERP topics</li> <li>Serve as the es"
+    },
+    {
+      "id": "arbeitnow:junior-penetration-tester-red-teamer-frankfurt-am-main-439889",
+      "source": "arbeitnow",
+      "title": "Junior Penetration Tester/Red Teamer (m/w/d)",
+      "company": "NVISO",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/nviso/junior-penetration-tester-red-teamer-frankfurt-am-main-439889",
+      "posted_at": 1769611627,
+      "salary": "",
+      "tags": [
+        "IT Security",
+        "entry"
+      ],
+      "snippet": "<p>Are you already experienced in the world of security or at least you have a strong interest in working for a cyber security company? Do you want to become part of an international fast growing tech company? At NVISO you have the opportunity and we look forw"
+    },
+    {
+      "id": "arbeitnow:elektrotechniker-fur-prufungen-mittelspannungsschaltanlagen-berlin-47964",
+      "source": "arbeitnow",
+      "title": "Elektrotechniker (m/w/d) für Prüfungen - Mittelspannungsschaltanlagen",
+      "company": "Nuventura GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/nuventura-gmbh/elektrotechniker-fur-prufungen-mittelspannungsschaltanlagen-berlin-47964",
+      "posted_at": 1769611626,
+      "salary": "",
+      "tags": [
+        "Engineering"
+      ],
+      "snippet": "<p>Nuventura GmbH ist ein innovatives Climate‑Tech‑Unternehmen mit Sitz in Berlin, das zukunftsweisende Technologien für die Energieversorgung entwickelt. Unsere Mission ist es, die Nutzung von SF₆, einem der potentesten Treibhausgase der Welt, aus der elektri"
+    },
+    {
+      "id": "arbeitnow:senior-product-manager-private-cloud-berlin-336353",
+      "source": "arbeitnow",
+      "title": "Senior Product Manager – Private Cloud (w/m/d)",
+      "company": "IONOS SE",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/senior-product-manager-private-cloud-berlin-336353",
+      "posted_at": 1769611625,
+      "salary": "",
+      "tags": [
+        "Product Management"
+      ],
+      "snippet": "<p>Bei IONOS arbeitest Du bei dem führenden europäischen Anbieter von Cloud-Infrastruktur, Cloud-Services und Hosting-Dienstleistungen partnerschaftlich mit unterschiedlichen Teams zusammen. Wir bieten Dir eine Perspektive in einer der zukunftssichersten Branc"
+    },
+    {
+      "id": "arbeitnow:web-entwickler-bayreuth-481550",
+      "source": "arbeitnow",
+      "title": "Web-Entwickler m/w/d",
+      "company": "GMK GmbH & Co. KG",
+      "location": "Bayreuth",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/gmk-gmbh-co-kg/web-entwickler-bayreuth-481550",
+      "posted_at": 1769611624,
+      "salary": "",
+      "tags": [
+        "Web Development",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Dein Herzschlag eskaliert, wenn du neue Anwendungslösungen entwickelst? Dein Herzblut kocht beim Programmieren von Online-Projekten? Dann bist du bei GMK genau richtig! Denn in unserem Online-Team kannst du 8/5+ analysieren, entwickeln und dein komplettes H"
+    },
+    {
+      "id": "arbeitnow:product-lead-munchen-250522",
+      "source": "arbeitnow",
+      "title": "Product Lead (f/m/d)",
+      "company": "Apaleo",
+      "location": "München, Bavaria, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/product-lead-munchen-250522",
+      "posted_at": 1769611520,
+      "salary": "",
+      "tags": [],
+      "snippet": "<h3><strong>Join Apaleo and Shape the Future of Hospitality Tech!</strong></h3> <p>Apaleo is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables ho"
+    },
+    {
+      "id": "arbeitnow:junior-customer-onboarding-manager-german-speaking-munchen-170243",
+      "source": "arbeitnow",
+      "title": "Junior Customer Onboarding Manager- German Speaking (f/m/d)",
+      "company": "Apaleo",
+      "location": "München, Bavaria, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/junior-customer-onboarding-manager-german-speaking-munchen-170243",
+      "posted_at": 1769611520,
+      "salary": "",
+      "tags": [],
+      "snippet": "<h3>Join Apaleo and Shape the Future of Hospitality Tech!</h3> <p>Apaleo is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to custom"
+    },
+    {
+      "id": "arbeitnow:operations-specialist-berlin-320699",
+      "source": "arbeitnow",
+      "title": "Operations Specialist",
+      "company": "Bolt Technology",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/bolt-technology/operations-specialist-berlin-320699",
+      "posted_at": 1769611519,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"p-rich_text_section\">&lt;gh-intro&gt;<br>&lt;text&gt;<br>We're looking for an analytical and solutions-driven Operations Specialist to help us grow our Bolt Drive operations in Germany, with a focus on streamlining and automating processes to make "
+    },
+    {
+      "id": "arbeitnow:finance-strategy-manager-partnerships-berlin-101752",
+      "source": "arbeitnow",
+      "title": "Finance & Strategy Manager, Partnerships",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/finance-strategy-manager-partnerships-berlin-101752",
+      "posted_at": 1769611517,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:operations-analyst-pricing-efficiency-berlin-34870",
+      "source": "arbeitnow",
+      "title": "Operations Analyst - Pricing & Efficiency",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/operations-analyst-pricing-efficiency-berlin-34870",
+      "posted_at": 1769611517,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:workforce-management-global-intraday-manager-berlin-404842",
+      "source": "arbeitnow",
+      "title": "Workforce Management Global Intraday Manager",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/workforce-management-global-intraday-manager-berlin-404842",
+      "posted_at": 1769611517,
+      "salary": "",
+      "tags": [],
+      "snippet": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur"
+    },
+    {
+      "id": "arbeitnow:instant-games-developer-platforms-fully-remote-berlin-220305",
+      "source": "arbeitnow",
+      "title": "Instant Games Developer (Platforms) - Fully Remote",
+      "company": "SOFTGAMES",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/instant-games-developer-platforms-fully-remote-berlin-220305",
+      "posted_at": 1769610015,
+      "salary": "",
+      "tags": [
+        "Internet and software",
+        "bachelor's degree",
+        "Full-time permanent",
+        "mid"
+      ],
+      "snippet": "<p><strong><span style=\"color: #000000\">Instant Games Developer (Platforms)</span></strong></p><p><span style=\"color: #000000\">SOFTGAMES is looking for an Instant Games Developer to join our platform team and elevate our games with innovative new features on i"
+    },
+    {
+      "id": "arbeitnow:head-of-product-remote-berlin-195945",
+      "source": "arbeitnow",
+      "title": "Head of Product (m/w/d) | Remote",
+      "company": "Insurgo GmbH",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/insurgo-gmbh/head-of-product-remote-berlin-195945",
+      "posted_at": 1769608922,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "IT",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Wir bei <strong>Insurgo</strong> sind nicht nur ein Technologie-Unternehmen. Wir sind Innovatoren, die den Weg für digitale Lösungen in der Versicherungswirtschaft ebnen. Mit einem engagierten Team von 15 Experten arbeiten wir daran, die Geschäftsprozesse u"
+    },
+    {
+      "id": "arbeitnow:initiativbewerbung-cologne-475645",
+      "source": "arbeitnow",
+      "title": "Initiativbewerbung (m/w/d)",
+      "company": "AAA Auctor Actor Advisor GmbH",
+      "location": "Cologne",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/aaa-auctor-actor-advisor-gmbh/initiativbewerbung-cologne-475645",
+      "posted_at": 1769608920,
+      "salary": "",
+      "tags": [
+        "Remote",
+        "Business Consulting",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Was uns ausmacht</strong></p> <p>3A ist eine führende Unternehmensberatung für die Versicherungsbranche: Seit über 20 Jahren erfolgreich und regelmäßig in Rankings ausgezeichnet. Als partnergeführtes Team verbinden wir Stabilität mit der Flexibilitä"
+    },
+    {
+      "id": "arbeitnow:hr-manager-personalreferent-schmalkalden-440114",
+      "source": "arbeitnow",
+      "title": "HR-Manager / Personalreferent (m/w/d)",
+      "company": "Industrie-Wartung Systeme IWS GmbH",
+      "location": "Schmalkalden",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/industrie-wartung-systeme-iws-gmbh/hr-manager-personalreferent-schmalkalden-440114",
+      "posted_at": 1769608920,
+      "salary": "",
+      "tags": [
+        "HR",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Du arbeitest gerne mit Menschen, denkst strukturiert und willst HR wirklich gestalten – nicht nur verwalten?</strong></p> <p>Dann komm zur IWS.</p> <p>Die IWS ist ein erfolgreicher mittelständischer Industriedienstleister mit Hauptsitz in Schmalkald"
+    },
+    {
+      "id": "arbeitnow:hr-generalistin-20-25h-berlin-452855",
+      "source": "arbeitnow",
+      "title": "HR-Generalist:in (20-25h)",
+      "company": "6-Minuten Verlag",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/6-minuten-verlag/hr-generalistin-20-25h-berlin-452855",
+      "posted_at": 1769608919,
+      "salary": "",
+      "tags": [
+        "Administration",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Du arbeitest gerne mit Menschen, denkst HR ganzheitlich und sorgst mit Struktur, Empathie und Pragmatismus dafür, dass Teams wirklich gut arbeiten können?</strong> Dann bist du bei uns genau richtig. Als <strong>HR-Generalist:in</strong> gestaltest "
+    },
+    {
+      "id": "arbeitnow:finanz-oder-bilanzbuchhalterin-freising-266516",
+      "source": "arbeitnow",
+      "title": "Finanz- oder Bilanzbuchhalter*in (m/w/d)",
+      "company": "Lebenshilfe Freising e.V.",
+      "location": "Freising",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/lebenshilfe-freising-ev/finanz-oder-bilanzbuchhalterin-freising-266516",
+      "posted_at": 1769608919,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p>Die Lebenshilfe Freising setzt sich mit über 600 Mitarbeiter*innen für Menschen mit Behinderung, vom Kleinkind bis zum Senioren, ein.<br> Wir sind ein großer Verein mit über 20 verschiedenen Einrichtungen in der ganzen Region Freising von Moosburg bis Echin"
+    },
+    {
+      "id": "arbeitnow:senior-platform-enablement-engineer-munich-175982",
+      "source": "arbeitnow",
+      "title": "Senior Platform & Enablement Engineer (m/w/d)",
+      "company": "Mytheresa",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/mytheresa/senior-platform-enablement-engineer-munich-175982",
+      "posted_at": 1769608918,
+      "salary": "",
+      "tags": [
+        "Engineering",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Zur Unterstützung unseres IT Teams suchen wir eine_n Senior Platform &#x26; Enablement Engineer (m/w/d) für unser Büro in München.</p> <h2>Aufgaben</h2> <p><strong>WAS DU TUN WIRST</strong></p> <ul> <li>Konzeption, Aufbau und Weiterentwicklung unserer Lands"
+    },
+    {
+      "id": "arbeitnow:cloud-architect-im-umfeld-industrie-40-all-genders-karlsruhe-282288",
+      "source": "arbeitnow",
+      "title": "CLOUD ARCHITECT IM UMFELD INDUSTRIE 4.0 (ALL GENDERS)",
+      "company": "AUNOVIS GmbH",
+      "location": "Karlsruhe",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/aunovis-gmbh/cloud-architect-im-umfeld-industrie-40-all-genders-karlsruhe-282288",
+      "posted_at": 1769608917,
+      "salary": "",
+      "tags": [
+        "IT",
+        "berufserfahren"
+      ],
+      "snippet": "<p>Hast Du Lust auf <strong>Digitalisierung</strong> und <strong>Industrie 4.0</strong>? Dann sind wir die richtige Adresse für Dich. Wir entwickeln innovative Software für verschiedenste Kunden im Bereich Industrial Automation und sind einer der führenden Spe"
+    },
+    {
+      "id": "arbeitnow:ausbildung-zum-steuerfachangestellten-start-2026-bitburg-442107",
+      "source": "arbeitnow",
+      "title": "Ausbildung zum Steuerfachangestellten (m/w/d) - Start 2026",
+      "company": "S&F Steuerberatungsgesellschaft mbH",
+      "location": "Bitburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sf-steuerberatungsgesellschaft-mbh/ausbildung-zum-steuerfachangestellten-start-2026-bitburg-442107",
+      "posted_at": 1769607137,
+      "salary": "",
+      "tags": [
+        "Finance",
+        "Apprenticeship"
+      ],
+      "snippet": "<p><strong>Persönlich. Proaktiv. Professionell.</strong></p> <p><strong>Der richtige Partner für deine Zukunft.</strong></p> <p>Du möchtest deine ersten Schritte in der Arbeitswelt machen oder hast deine Ausbildung bereits angefangen und möchtest die Kanzlei w"
+    },
+    {
+      "id": "arbeitnow:development-engineer-c-augsburg-121345",
+      "source": "arbeitnow",
+      "title": "Development Engineer C++ (m/w/d)",
+      "company": "citema systems GmbH",
+      "location": "Augsburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/development-engineer-c-augsburg-121345",
+      "posted_at": 1769607136,
+      "salary": "",
+      "tags": [
+        "Engineering",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Driving Digital Technologies.</strong><br> Den digitalen Wandel begleiten und aktiv mitgestalten – unsere Mission bei citema. Mit unseren innovativen Ansätzen beraten und unterstützen wir unsere Kunden in den Technologiefeldern Cyber Security, KI un"
+    },
+    {
+      "id": "arbeitnow:backend-engineer-f-m-aachen-161028",
+      "source": "arbeitnow",
+      "title": "Backend Engineer (F/M/*)",
+      "company": "amber",
+      "location": "Aachen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/amber/backend-engineer-f-m-aachen-161028",
+      "posted_at": 1769607135,
+      "salary": "",
+      "tags": [
+        "Software Development"
+      ],
+      "snippet": "<p><strong>Stell dir vor, du hättest eine zentrale, intelligente Plattform, um Wissen, Prozesse und Kommunikation in deinem Unternehmen zu vernetzen... 🔍</strong></p> <p>Genau dafür haben wir amber entwickelt: eine KI-basierte Plattform, die Unternehmenswissen"
+    },
+    {
+      "id": "arbeitnow:ceo-dresden-290461",
+      "source": "arbeitnow",
+      "title": "CEO  (m/w/d)",
+      "company": "EterniTeam GmbH",
+      "location": "Dresden",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/eterniteam-gmbh/ceo-dresden-290461",
+      "posted_at": 1769607134,
+      "salary": "",
+      "tags": [
+        "Directors",
+        "Chief Executives",
+        "geschäftsleitung"
+      ],
+      "snippet": "<p><strong>Wer sind wir?</strong></p> <p>EterniTeam hat die Lösung für Deutschlands größtes Problem im Unternehmertum: <strong>die Unternehmensnachfolge.</strong> Mit einem neuen, revolutionären Ansatz sichern wir die Nachfolge einiger der gut 1 Millionen Unte"
+    },
+    {
+      "id": "arbeitnow:it-operations-security-engineer-schwerin-44991",
+      "source": "arbeitnow",
+      "title": "IT Operations & Security Engineer",
+      "company": "arztkonsultation ak GmbH",
+      "location": "Schwerin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/arztkonsultation-ak-gmbh/it-operations-security-engineer-schwerin-44991",
+      "posted_at": 1769607134,
+      "salary": "",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "snippet": "<p>Seit 2014 setzen wir bei arztkonsultation Maßstäbe in der Entwicklung innovativer telemedizinischer Softwarelösungen. Als Vorreiter im Gesundheitswesen treiben wir die Digitalisierung voran und ermöglichen seit 2020 über 2 Millionen Videosprechstunden – ein"
+    },
+    {
+      "id": "arbeitnow:it-systemadministrator-fachinformatiker-fur-systemintegration-plauen-396176",
+      "source": "arbeitnow",
+      "title": "IT-Systemadministrator (m/w/d) - Fachinformatiker für Systemintegration",
+      "company": "SCB GmbH & Co.KG",
+      "location": "Plauen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/scb-gmbh-cokg/it-systemadministrator-fachinformatiker-fur-systemintegration-plauen-396176",
+      "posted_at": 1769605695,
+      "salary": "",
+      "tags": [
+        "System and Network Administration",
+        "berufserfahren"
+      ],
+      "snippet": "<ul> <li>unbefristet / ab sofort</li> <li>Vollzeit (auch Teilzeit möglich)</li> <li>Dienstort: Plauen OT Straßberg (Vogtland)</li> </ul> <p>Du suchst nach einer spannenden Aufgabe, bist IT-erfahren und löst gerne technische Probleme?</p> <p><strong>Dann suchen"
+    },
+    {
+      "id": "arbeitnow:social-media-performance-marketer-berlin-304673",
+      "source": "arbeitnow",
+      "title": "Social Media Performance Marketer (m/w/d)",
+      "company": "RealStudio",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/realstudio/social-media-performance-marketer-berlin-304673",
+      "posted_at": 1769605694,
+      "salary": "",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "snippet": "<p><strong>💜 Wir sind RealStudio</strong> -</p> <p>... eine Full-Service Agentur für TikTok- und Reel-Marketing in Berlin. Unser Ziel ist es, viralen &#x26; organischen Content zu erstellen, der die erfolgreichsten Marken in DACH auf die ForYou-Pages von Milli"
+    },
+    {
+      "id": "arbeitnow:steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-alpen-420287",
+      "source": "arbeitnow",
+      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter",
+      "company": "INGENERF Steuerberatungsgesellschaft Wirtschaftsberatungs- u. Treuhandges. mbH",
+      "location": "Alpen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/ingenerf-steuerberatungsgesellschaft-wirtschaftsberatungs-u-treuhandges-mbh/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-alpen-420287",
+      "posted_at": 1769605694,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p><strong>Erfolg ist das Resultat richtiger Entscheidungen.</strong></p> <p><strong>INGENERF.</strong></p> <p>Was macht eine erfolgreiche Steuerberatungskanzlei aus?</p> <p>Sind es die Zahlen? Oder ist es das gute Gefühl der Menschen, mit denen man täglich zu"
+    },
+    {
+      "id": "arbeitnow:steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-duisburg-156589",
+      "source": "arbeitnow",
+      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter",
+      "company": "INGENERF Steuerberatungsgesellschaft Wirtschaftsberatungs- u. Treuhandges. mbH",
+      "location": "Duisburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/ingenerf-steuerberatungsgesellschaft-wirtschaftsberatungs-u-treuhandges-mbh/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-duisburg-156589",
+      "posted_at": 1769605693,
+      "salary": "",
+      "tags": [
+        "Finance"
+      ],
+      "snippet": "<p><strong>Erfolg ist das Resultat richtiger Entscheidungen.</strong></p> <p><strong>INGENERF.</strong></p> <p>Was macht eine erfolgreiche Steuerberatungskanzlei aus?</p> <p>Sind es die Zahlen? Oder ist es das gute Gefühl der Menschen, mit denen man täglich zu"
+    },
+    {
+      "id": "arbeitnow:prufungsassistent-hamburg-469112",
+      "source": "arbeitnow",
+      "title": "Prüfungsassistent (m/w/d)",
+      "company": "Scheller & Partner PartG mbB",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/scheller-partner-partg-mbb/prufungsassistent-hamburg-469112",
+      "posted_at": 1769605692,
+      "salary": "",
+      "tags": [
+        "Auditor"
+      ],
+      "snippet": "<p><strong>Wer wir sind</strong></p> <p>Mittelständisch denken, weltweit agieren – unser Ansatz seit 1935. Als Kanzlei im Herzen von Hamburg mit ca. 20 Mitarbeitenden betreuen wir Unternehmen verschiedenster Größen und Branchen in den Bereichen Steuerberatung "
+    },
+    {
+      "id": "arbeitnow:projektmanagerin-im-online-marketing-berlin-50375",
+      "source": "arbeitnow",
+      "title": "Projektmanager:in im Online-Marketing",
+      "company": "SUCHMEISTEREI GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/projektmanagerin-im-online-marketing-berlin-50375",
+      "posted_at": 1769605692,
+      "salary": "",
+      "tags": [
+        "Project Management",
+        "teamleitung"
+      ],
+      "snippet": "<p>Zum nächstmöglichen Zeitpunkt suchen wir <strong>eine:n Projektmanager:in im Online-Marketing</strong> (w/m/d)!</p> <h2>Aufgaben</h2> <ul> <li>Du berätst strategisch und praxisnah, verstehst Ziele und Geschäftsmodelle und übersetzt sie in klare Hypothesen, "
+    },
+    {
+      "id": "arbeitnow:it-systemadministrator-memmingen-143356",
+      "source": "arbeitnow",
+      "title": "IT-Systemadministrator (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Memmingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemadministrator-memmingen-143356",
+      "posted_at": 1769605691,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Stelle dir vor, du sorgst als zentraler IT-Ansprechpartner:in für reibungslose Abläufe in einem dynamischen Team – von Support bis Systemoptimierung. Diese Rolle bietet dir Abwechslung und Verantwortung in der IT-Infrastruktur.</p> <h2>Aufgaben</h2> <ul> <l"
+    },
+    {
+      "id": "arbeitnow:it-systemadministrator-kempten-233191",
+      "source": "arbeitnow",
+      "title": "IT-Systemadministrator (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Kempten",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemadministrator-kempten-233191",
+      "posted_at": 1769605691,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Stelle dir vor, du sorgst als zentraler IT-Ansprechpartner:in für reibungslose Abläufe in einem dynamischen Team – von Support bis Systemoptimierung. Diese Rolle bietet dir Abwechslung und Verantwortung in der IT-Infrastruktur.</p> <h2>Aufgaben</h2> <ul> <l"
+    },
+    {
+      "id": "arbeitnow:it-systemadministrator-kaufbeuren-370273",
+      "source": "arbeitnow",
+      "title": "IT-Systemadministrator (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Kaufbeuren",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-systemadministrator-kaufbeuren-370273",
+      "posted_at": 1769605690,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Stelle dir vor, du sorgst als zentraler IT-Ansprechpartner:in für reibungslose Abläufe in einem dynamischen Team – von Support bis Systemoptimierung. Diese Rolle bietet dir Abwechslung und Verantwortung in der IT-Infrastruktur.</p> <h2>Aufgaben</h2> <ul> <l"
+    },
+    {
+      "id": "arbeitnow:it-system-anwendungsbetreuerin-kaufbeuren-319981",
+      "source": "arbeitnow",
+      "title": "IT-System- & Anwendungsbetreuer:in (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Kaufbeuren",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-system-anwendungsbetreuerin-kaufbeuren-319981",
+      "posted_at": 1769605688,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Stelle dir vor, du sorgst als zentraler IT-Ansprechpartner:in für reibungslose Abläufe in einem dynamischen Team – von Support bis Systemoptimierung. Diese Rolle bietet dir Abwechslung und Verantwortung in der IT-Infrastruktur.</p> <h2>Aufgaben</h2> <ul> <l"
+    },
+    {
+      "id": "arbeitnow:mitarbeiter-kundenservice-in-voll-teilzeit-rotha-329812",
+      "source": "arbeitnow",
+      "title": "Mitarbeiter Kundenservice in Voll-/Teilzeit (m/w/d)",
+      "company": "Geiger Edelmetalle AG",
+      "location": "Rötha",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/geiger-edelmetalle-ag/mitarbeiter-kundenservice-in-voll-teilzeit-rotha-329812",
+      "posted_at": 1769605687,
+      "salary": "",
+      "tags": [
+        "Customer Service"
+      ],
+      "snippet": "<p><strong>Die Geiger Edelmetalle AG ist eines der führenden Edelmetallhandelshäuser in Deutschland. Neben der Herstellung und dem Handel mit Edelmetallen in Form von Münzen und Barren zählt der Vertrieb von Edelmetallsparplänen und Einlagerungsdienstleistunge"
+    },
+    {
+      "id": "arbeitnow:it-system-anwendungsbetreuerin-memmingen-43799",
+      "source": "arbeitnow",
+      "title": "IT-System- & Anwendungsbetreuer:in (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Memmingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-system-anwendungsbetreuerin-memmingen-43799",
+      "posted_at": 1769605686,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Stelle dir vor, du sorgst als zentraler IT-Ansprechpartner:in für reibungslose Abläufe in einem dynamischen Team – von Support bis Systemoptimierung. Diese Rolle bietet dir Abwechslung und Verantwortung in der IT-Infrastruktur.</p> <h2>Aufgaben</h2> <ul> <l"
+    },
+    {
+      "id": "arbeitnow:it-system-anwendungsbetreuerin-kempten-291924",
+      "source": "arbeitnow",
+      "title": "IT-System- & Anwendungsbetreuer:in (m/w/d)",
+      "company": "Intercon Solutions GmbH",
+      "location": "Kempten",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/it-system-anwendungsbetreuerin-kempten-291924",
+      "posted_at": 1769604230,
+      "salary": "",
+      "tags": [
+        "IT"
+      ],
+      "snippet": "<p>Stelle dir vor, du sorgst als zentraler IT-Ansprechpartner:in für reibungslose Abläufe in einem dynamischen Team – von Support bis Systemoptimierung. Diese Rolle bietet dir Abwechslung und Verantwortung in der IT-Infrastruktur.</p> <h2>Aufgaben</h2> <ul> <l"
+    },
+    {
+      "id": "arbeitnow:data-center-technician-1399-frankfurt-am-main-274823",
+      "source": "arbeitnow",
+      "title": "Data Center Technician (m/w/d) - 1399",
+      "company": "ITconfig/all GmbH",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/itconfigall-gmbh/data-center-technician-1399-frankfurt-am-main-274823",
+      "posted_at": 1769604230,
+      "salary": "",
+      "tags": [
+        "Helpdesk",
+        "professional / experienced"
+      ],
+      "snippet": "<p>We are looking for an experienced Data Center Technician to support day-to-day operations. In this role, you will be responsible for physical IT infrastructure tasks, Hands &#x26; Feet support, and operational reliability of server, network, and storage sys"
+    },
+    {
+      "id": "arbeitnow:personal-und-vertriebsdisponentin-am-standort-hamburg-294857",
+      "source": "arbeitnow",
+      "title": "Personal- und Vertriebsdisponent*in am Standort Hamburg",
+      "company": "Annette Wittram - AWi Personalvermittlung und Bewerbercoaching",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/annette-wittram-awi-personalvermittlung-und-bewerbercoaching/personal-und-vertriebsdisponentin-am-standort-hamburg-294857",
+      "posted_at": 1769604229,
+      "salary": "",
+      "tags": [
+        "Compensation and Benefits",
+        "berufserfahren"
+      ],
+      "snippet": "<p><strong>Als Vermittlungsprofi für den INTERNEN Bereich der Personaldienstleistungsbranche begleite ich nunmehr seit über 20 Jahren</strong> sehr erfolgreich Bewerber und Unternehmen bei der gemeinsamen Findung. Lassen auch Sie sich \"an die Hand nehmen\" und "
+    },
+    {
+      "id": "arbeitnow:kaufmannischer-mitarbeiter-e-commerce-warenwirtschaft-am-standort-landau-20472",
+      "source": "arbeitnow",
+      "title": "Kaufmännischer Mitarbeiter E-Commerce/Warenwirtschaft (m/w/d) am Standort Landau",
+      "company": "Gillet Baustoffe GmbH",
+      "location": "Landau",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/gillet-baustoffe-gmbh/kaufmannischer-mitarbeiter-e-commerce-warenwirtschaft-am-standort-landau-20472",
+      "posted_at": 1769604229,
+      "salary": "",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "snippet": "<p><strong>Unser Unternehmen liefert als Handelsunternehmen seit mehr als 70 Jahren alles für Haus und Garten. Bei uns werden nicht nur Profi und Verarbeiter, sondern auch der Privatkunde bestens versorgt. Wir sind Ihr kompetenter Ansprechpartner und Zuliefere"
     }
   ]
 }
